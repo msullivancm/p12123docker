@@ -15,9 +15,9 @@ services:
     environment:
       SA_PASSWORD: "P@ssw0rd2019"
       ACCEPT_EULA: "Y"
-  p12123dbaccess:
-    container_name: p12123dbaccess
-    image: "msullivancm/dbaccess:20190501"
+  dbaccess:
+    container_name: dbaccess
+    image: "msullivancm/dbaccess:20190520"
     environment:
       - PENV = p12123
     ports: 
@@ -39,8 +39,5 @@ services:
     ports: 
       - 1234:1234
     depends_on: 
-      - p12123dbaccess
+      - dbaccess
       - p12123totvslic
-
-
-
