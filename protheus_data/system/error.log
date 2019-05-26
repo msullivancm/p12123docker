@@ -1,0 +1,163 @@
+*************************************************************************
+7.00.170117A-20190212
+THREAD ERROR ([29], sullivan__, sulliacer)   26/05/2019   22:55:06
+Problemas na configuração da chave SpecialKey, entre em contato com o Administrador! on MYSPECIALKEY(APLIB050.PRW) 15/02/2019 09:10:59 line : 2096
+
+[build: 7.00.170117A-20190212]
+[environment: p12123]
+[thread: 29]
+[rpodb: Top]
+[localfiles: CTREE]
+[remark: ]
+[threadtype: JobThread]
+Called from FWGETSPECIALKEY(APLIB050.PRW) 15/02/2019 09:10:59 line : 2115
+Called from PREPAREKEY(APLIB050.PRW) 15/02/2019 09:10:59 line : 2031
+Called from LOCKBYNAME(APLIB050.PRW) 15/02/2019 09:10:59 line : 1865
+Called from CLEANCTREE(APLIB100.PRW) 15/02/2019 09:10:59 line : 563
+
+
+Variables in use
+Publicas
+  Public 1: CPAISLOC(C) :BRA
+  Public 2: ASX8(A) :
+
+STACK CLEANCTREE(APLIB100.PRW) 15/02/2019 09:10:59
+
+  Local 1: CFUNCT(C) :CTREEINTCLEANER
+
+STACK LOCKBYNAME(APLIB050.PRW) 15/02/2019 09:10:59
+
+  Param 1: CNAME(C) : CTREECLE
+  Param 2: LEMPRESA(L) : .F.
+  Param 3: LFILIAL(L) : .F.
+  Param 4: LMAYIUSEDISK(L) : .T.
+  Local 1: CNAME(C) :CTREECLE
+  Local 2: LEMPRESA(L) :.F.
+  Local 3: LFILIAL(L) :.F.
+  Local 4: LMAYIUSEDISK(L) :.T.
+  Local 5: CKEY(C) :
+  Local 6: NRET(N) :0
+
+STACK PREPAREKEY(APLIB050.PRW) 15/02/2019 09:10:59
+
+  Param 1: CNAME(C) : CTREECLE
+  Param 2: LEMPRESA(L) : .F.
+  Param 3: LFILIAL(L) : .F.
+  Local 1: CNAME(C) :CTREECLE
+  Local 2: LEMPRESA(L) :.F.
+  Local 3: LFILIAL(L) :.F.
+  Local 4: CKEY(C) :
+
+STACK FWGETSPECIALKEY(APLIB050.PRW) 15/02/2019 09:10:59
+
+
+STACK MYSPECIALKEY(APLIB050.PRW) 15/02/2019 09:10:59
+
+  Local 1: CSPECIALKEY(C) :P12123
+  Local 2: CNAME(C) :\SEMAFORO\SPECIAL.KEY
+  Local 3: CKEY(C) :
+  Local 4: NHDL(N) :1
+  Local 5: NTRIES(N) :0
+  Local 6: NBUFFER(N) :0
+  Local 7: LCHKSPECIALKEY(L) :.T.
+
+Files
+
+*************************************************************************
+7.00.170117A-20190212
+THREAD ERROR ([32], sullivan__, sulliacer)   26/05/2019   22:55:06
+Problemas na configuração da chave SpecialKey, entre em contato com o Administrador! on MYSPECIALKEY(APLIB050.PRW) 15/02/2019 09:10:59 line : 2096
+
+[build: 7.00.170117A-20190212]
+[environment: p12123]
+[thread: 32]
+[dbthread: 13]
+[dbversion: 18.2.1.0]
+[dbapibuild: 20181212-20190211]
+[dbarch: 64]
+[dbso: LINUX]
+[rpodb: Top]
+[localfiles: CTREE]
+[remark: ]
+[threadtype: JobThread]
+Called from FWGETSPECIALKEY(APLIB050.PRW) 15/02/2019 09:10:59 line : 2115
+Called from PREPAREKEY(APLIB050.PRW) 15/02/2019 09:10:59 line : 2031
+Called from LOCKBYNAME(APLIB050.PRW) 15/02/2019 09:10:59 line : 1865
+Called from FWAUDITPURGE(FWAUDITPURGE.PRW) 15/02/2019 09:10:57 line : 60
+Called from FWCLEANTMPTABLES(FWCLEANTMPTABLES.PRW) 15/02/2019 09:10:57 line : 34
+
+
+Variables in use
+Publicas
+  Public 1: CPAISLOC(C) :BRA
+  Public 2: ASX8(A) :
+
+STACK FWCLEANTMPTABLES(FWCLEANTMPTABLES.PRW) 15/02/2019 09:10:57
+
+
+STACK FWAUDITPURGE(FWAUDITPURGE.PRW) 15/02/2019 09:10:57
+
+  Private 1: CTMPALIAS(C) :
+  Private 2: DDATENOW(D) :2019/05/26
+  Local 1: LEXECUTED(L) :.F.
+  Local 2: CALIAS(C) :
+  Local 3: CQUERY(C) :
+  Local 4: CLIMPA(C) :
+  Local 5: CDATADE(C) :
+  Local 6: ADATAS(A) :
+  Local 7: CALIASEMP(C) :
+  Local 8: NDATA(N) :0
+  Local 9: CDATAFUNC(U) :NIL
+  Local 10: OPRECOUNT(U) :NIL
+  Local 11: OPREDEL(U) :NIL
+  Local 12: OPREINS(U) :NIL
+  Local 13: CQUERYDEL(U) :NIL
+  Local 14: NCOUNT(U) :NIL
+  Local 15: CTABLENAME(U) :NIL
+  Local 16: LHASTABLE(L) :.F.
+  Local 17: CDBMS(C) :
+  Local 18: LMUSTLOG(L) :.T.
+  Local 19: CERRO1(U) :NIL
+  Local 20: CERRO2(U) :NIL
+  Local 21: NPOS(U) :NIL
+
+STACK LOCKBYNAME(APLIB050.PRW) 15/02/2019 09:10:59
+
+  Param 1: CNAME(C) : FWATTPURGE
+  Param 2: LEMPRESA(L) : .F.
+  Param 3: LFILIAL(L) : .F.
+  Param 4: LMAYIUSEDISK(L) : .F.
+  Local 1: CNAME(C) :FWATTPURGE
+  Local 2: LEMPRESA(L) :.F.
+  Local 3: LFILIAL(L) :.F.
+  Local 4: LMAYIUSEDISK(L) :.F.
+  Local 5: CKEY(C) :
+  Local 6: NRET(N) :0
+
+STACK PREPAREKEY(APLIB050.PRW) 15/02/2019 09:10:59
+
+  Param 1: CNAME(C) : FWATTPURGE
+  Param 2: LEMPRESA(L) : .F.
+  Param 3: LFILIAL(L) : .F.
+  Local 1: CNAME(C) :FWATTPURGE
+  Local 2: LEMPRESA(L) :.F.
+  Local 3: LFILIAL(L) :.F.
+  Local 4: CKEY(C) :
+
+STACK FWGETSPECIALKEY(APLIB050.PRW) 15/02/2019 09:10:59
+
+
+STACK MYSPECIALKEY(APLIB050.PRW) 15/02/2019 09:10:59
+
+  Local 1: CSPECIALKEY(C) :P12123
+  Local 2: CNAME(C) :\SEMAFORO\SPECIAL.KEY
+  Local 3: CKEY(C) :
+  Local 4: NHDL(N) :1
+  Local 5: NTRIES(N) :0
+  Local 6: NBUFFER(N) :0
+  Local 7: LCHKSPECIALKEY(L) :.T.
+
+Files
+  TOP_FILES; Rdd:TOPCONN; Alias:SCGN000001; Filter :"BTWT_" $ Upper(FNAMF1); Recno:5000; Total Recs:0; Order:0
+    Field 1: FNAMF1(C) :                                                                                                                                
+
