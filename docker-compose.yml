@@ -40,6 +40,7 @@ services:
     image: "msullivancm/p12123bin:20190520"
     volumes:
       - ./protheus_data:/totvs/protheus/protheus_data
+      - ./p12123bin/appserver.ini:/totvs/protheus/bin/appserver/appserver.ini
     ports: 
       - 1234:1234
     depends_on: 
