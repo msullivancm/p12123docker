@@ -1,0 +1,84 @@
+versão=4.0
+PA00000999|Outros Créditos por Entrada.|01012009|
+PA10000001|Crédito Presumido - Operações Interestaduais com gado bovino (Art. 19, § 1º, Anexo I, RICMS)|01012009|
+PA10000002|Crédito Presumido - Saída de produtos comestíveis resultantes do abate de gado bovino com controle de abate - FILAX (Art. 22º, Anexo I, RICMS)|01012009|
+PA10000003|Crédito Presumido - Saídas internas de gado bovino, sem controle de abate FILAX (Art. 25, Anexo I, RICMS)|01012009|
+PA10000004|Crédito Presumido - Saídas de charque, defumados, embutidos e outros derivados da verticalização industrial de carne (Art. 27, Anexo I, RICMS)|01012009|
+PA10000005|Crédito Presumido - Regime Especial Atacadista/Varejista (Art. 126, Anexo I, RICMS)|01012009|
+PA10000006|Crédito Presumido - Regime Especial Atacadista/Varejista - Operações Cesta Básica (Art. 130, I, Anexo I, RICMS)|01012009|
+PA10000007|Crédito Presumido - Regime Especial Atacadista/Varejista - Operações c/ Bebida Alcoólica (Art. 130, II, Anexo I, RICMS)|01012009|
+PA10000008|Credito presumido - Regime especial Atacadista/Varejista - Operações p/ a Administração Direta e Indireta (Art. 129, § 2º, Anexo I, RICMS)|01012009|
+PA10000009|Crédito Presumido - Saídas de produtos derivados do leite in natura (Art. 145, Anexo I, RICMS)|01012009|
+PA10000010|Crédito Presumido - Saídas de pescado submetido a processo de industrialização (Art. 153, Anexo I, RICMS)|01012009|
+PA10000011|Crédito Presumido - Saídas interestaduais de peixe, exceto a promovida por estabelecimento industrial (Art. 156, Anexo I, RICMS)|01012009|
+PA10000012|Crédito Presumido - Saídas de produtos fabricados pela Indústria oleiro-cerâmica (Art. 161, Anexo I, RICMS).|01012009|
+PA10000013|Crédito Presumido - Saída de castanha-do-pará promovida pelo estabelecimento industrial (Art. 167, Anexo I, RICMS)|01012009|
+PA10000014|Crédito Presumido - Saída de produtos de madeira, de fibras naturais e de madeira com metal promovida pelo estabelecimento industrial (Art. 170, Anexo I, RICMS)|01012009|
+PA10000015|Crédito Presumido - Saída interestadual de mel, demais produtos das abelhas e derivados apícolas, dotados de certificação da inspeção sanitária (Art. 187, Anexo I, RICMS)|01012009|
+PA10000016|Crédito Presumido - Saída de palmito promovida pelo estabelecimento industrial (Art. 198, Anexo I, RICMS)|01012009|
+PA10000017|Crédito Presumido - Fabricantes de sacaria de juta e malva (Art. 3º, Anexo IV, RICMS)|01012009|
+PA10000018|Crédito Presumido - Saídas internas de suco de laranja (Art. 8º, Anexo IV, RICMS)|01012009|
+PA10000019|Crédito Presumido - Fabricantes de açúcar deste Estado (Art. 9º, Anexo IV, RICMS)|01012009|
+PA10000020|Crédito Presumido - Saída interestadual com queijo promovida pelo fabricante deste Estado (Art. 10, Anexo IV, RICMS)|01012009|
+PA10001021|Crédito Presumido - Prestador de serviço de transporte (Art. 7º, Anexo IV, RICMS)|01012009|
+PA10001022|Crédito Presumido - Prestador de serviço de transporte aéreo (Art. 11º, Anexo IV, RICMS)|01012009|
+PA10000023|Antecipação Especial do Imposto (Art. 114-E, Anexo I, RICMS)|01012009|
+PA10000024|Antecipação de Imposto - Glosa de Crédito (Art. 114-J, Anexo I do RICMS)|01012009|
+PA10000025|Ressarcimento de ICMS Antecipado (Art. 116, Anexo I, RICMS)|01012009|
+PA10000026|Antecipado por Saída (Art. 115, Anexo I, RICMS - Produtos do Apêndice II)|01012009|
+PA12000027|Saldo Credor Transferido entre Estabelecimento do mesmo Grupo (Art. 74, VI, RICMS)|01012009|
+PA12000028|Saldos Credores Transferido para outro Contribuinte (Art. 74, VI, RICMS)|01012009|
+PA12000029|Recebimento de Crédito Outorgado do ICMS, relativo a transferência de crédito de Cheque Moradia - Outro estabelecimento do mesmo grupo (Art. 5°,§ 5º, II, IN 19/2003)|01012009|
+PA12000030|Recebimento de Crédito Outorgado do ICMS, relativo a transferência de crédito de Cheque Moradia - Outro Contribuinte (Art. 5°,§ 5º, II, IN 19/2003)|01012009|
+PA11000031|Ressarcimento de imposto retido (Art. 648, II, e 657, RICMS)|01012009|
+PA10000996|Crédito Extemporâneo|01012009|
+PA10000997|Outros Créditos Presumidos|01012009|
+PA10000998|Outras Antecipações|01012009|
+PA10000999|Outros Créditos.|01012009|
+PA20000001|Operações Interestaduais com Gado Bovino (Art. 19, §3º, Anexo I, RICMS)|01012009|
+PA20000002|Compras Governamentais (Art. 81, Anexo I, RICMS)|01012009|
+PA20000003|Remessa para venda em Feiras ou Eventos Similares (Art. 2º e 9º, VI, Anexo I, RICMS)|01012009|
+PA20000004|Diferença do Imposto (Art. 172, §3°, RICMS)|01012009|
+PA20000005|Diferença de Alíquotas - Mercadoria Devolvida (Art. 594, RICMS)|01012009|
+PA20000006|Remessa para fora do estabelecimento (Art. 16, VI, a, Anexo I, RICMS)|01012009|
+PA20000007|Compensação por Homologação (Art. 79°, §3°, RICMS)|01012009|
+PA20000999|Outros Estornos de Débitos|01012009|
+PA30000999|Outros Débitos por Saída.|01012009|
+PA40000001|ICMS diferencial de alíquota - aquisição de bens do ativo permanente (Art. 22, Parágrafo Único, do RICMS)|01012009|
+PA40000002|ICMS diferencial de alíquota - aquisição de material de uso e consumo (Art. 22, Parágrafo Único, do RICMS)|01012009|
+PA40001003|Diferença de Alíquota - Prestação de Serviços de Transporte (Art. 22, Parágrafo Único, do RICMS)|01012009|
+PA40001004|Diferença de Alíquota - Prestação de Serviços de Comunicação (Art. 22, Parágrafo Único, do RICMS)|01012009|
+PA41000005|Diferença de Alíquota - Substituição Tributária (Art. 22, Parágrafo Único, do RICMS)|01012009|
+PA41000006|Remessa para venda em Feiras ou Eventos Similares (Art. 9º, VI, Anexo I, RICMS)|01012009|
+PA40000007|Venda fora do estabelecimento em outra UF - ICMS devido a este Estado (Art. 16, VI, b, Anexo I, RICMS)|01012009|
+PA40090008|Antecipação Especial do Imposto (Art. 114-E, Anexo I, RICMS)|01012009|01012009
+PA40090009|Antecipação de Imposto - Glosa de Crédito (Art. 114-J, Anexo I do RICMS)|01012009|01012009
+PA40090010|Antecipação de Imposto (Art. 107, Anexo I, RICMS - Produtos do Apêndice I, com exceção dos itens 1 a 9, 11 a 19, 38 e 39)|01012009|01012009
+PA40090011|Antecipação de Imposto Cesta Básica (ítens 1 a 9, 11 a 19, 38 e 39 do Apêndice I, Art. 107, Anexo I, RICMS)|01012009|01012009
+PA40090012|Antecipação de Produtos Farmacêuticos (Art 708, § 2º, RICMS e § 1º, Art. 709) - Lista Negativa|01012009|01012009
+PA40090013|Antecipação de Produtos Farmacêuticos(Art 708, § 2º, RICMS e § 1º, Art. 709) - Lista Positiva|01012009|01012009
+PA40090014|Antecipação de Produtos Farmacêuticos(Art 708, § 2º, RICMS e § 1º, Art. 709) - Lista Neutra|01012009|01012009
+PA40090015|Antecipação de Saídas (Art. 115, Anexo I, RICMS - Produtos do Apêndice II)|01012009|01012009
+PA42000016|Saldo Credor transferido entre estabelecimentos do mesmo Grupo (Art. 74, VI, RICMS)|01012009|
+PA42000017|Saldo Credor transferido para outros Contribuintes (Art. 74, VI, RICMS)|01012009|
+PA40090998|Outras Antecipações|01012009|01012009
+PA40000999|Outros Débitos|01012009|
+PA52000001|Estorno em razão de transferência de crédito de Cheque Moradia - Outro estabelecimento do mesmo grupo (Art. 5°, § 5º, VI, IN 19/2003)|01012009|
+PA52000002|Estorno em razão de transferência de crédito de Cheque Moradia - Outro contribuinte (Art. 5°, § 5º, VI, IN 19/2003)|01012009|
+PA52000003|Estorno para liquidação de Crédito Tributário - Compensação de Cheque Moradia (Art. 5°, § 7º, IN 19/2003)|01012009|
+PA50000004|Compensação por Homologação (Art. 79°, §3°, I, RICMS)|01012009|
+PA50000999|Outros Estornos de Créditos|01012009|
+PA60000999|Outras Deduções|01012009|
+PA70000001|Outros Débitos Especiais|01012009|31032009
+PA70000001|ICMS Estoque|01042009|
+PA70000008|Antecipação Especial do Imposto (Art. 114-E, Anexo I, RICMS)|01012009|
+PA70000009|Antecipação de Imposto - Glosa de Crédito (Art. 114-J, Anexo I do RICMS)|01012009|
+PA70000010|Antecipação de Imposto (Art. 107, Anexo I, RICMS - Produtos do Apêndice I, com exceção dos itens 1 a 9, 11 a 19, 38 e 39)|01012009|
+PA70000011|Antecipação de Imposto Cesta Básica (ítens 1 a 9, 11 a 19, 38 e 39 do Apêndice I, Art. 107, Anexo I, RICMS)|01012009|
+PA70000012|Antecipação de Produtos Farmacêuticos (Art 708, § 2º, RICMS e § 1º, Art. 709) - Lista Negativa|01012009|
+PA70000013|Antecipação de Produtos Farmacêuticos(Art 708, § 2º, RICMS e § 1º, Art. 709) - Lista Positiva|01012009|
+PA70000014|Antecipação de Produtos Farmacêuticos(Art 708, § 2º, RICMS e § 1º, Art. 709) - Lista Neutra|01012009|
+PA70000015|Antecipação de Saídas (Art. 115, Anexo I, RICMS - Produtos do Apêndice II)|01012009|
+PA70000998|Outras Antecipações|01012009|
+PA70000999|Outros Débitos Especiais|01012009|
+PA71000999|Outros Débitos Especiais ST|01012009|

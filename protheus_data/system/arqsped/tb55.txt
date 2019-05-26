@@ -1,0 +1,71 @@
+versão=2.0
+SC00000001|Crédito do ICMS de mercadoria sujeita à substituição tributária|01012009|
+SC00003002|Crédito na aquisição de energia elétrica por prestador de serviço de telecomunicações.|01012009|31122009|
+SC00003003|Crédito proporcional da energia elétrica com base em laudo técnico|01012009|31122009|
+SC00000999|Outros ajustes de créditos por entradas|01012009|
+SC10000001|Crédito presumido às distribuidoras de filmes, nas saídas de filmes gravados.|01012009|
+SC10000002|Crédito presumido à indústria farmacoquímica.|01012009|
+SC10000003|Crédito presumido ao beneficiador na saída de arroz beneficiado.|01012009|
+SC10000004|Crédito presumido ao fabricante enquadrado no Pró-Emprego nas saídas de produtos derivados de aves domésticas.|01012009|
+SC10000005|Crédito presumido ao fabricante na saída de farinha de trigo e mistura para a preparação de pães.|01012009|
+SC10000006|Crédito presumido ao fabricante na saída de leite e derivados.|01012009|
+SC10000007|Crédito presumido ao fabricante nas operações próprias com sacos de papel.|01012009|
+SC10000008|Crédito presumido ao fabricante nas saídas de leite em pó.|01012009|
+SC10000009|Crédito presumido ao fabricante nas saídas internas de café torrado em grão ou moído, vinho ou açúcar.|01012009|
+SC10000010|Crédito presumido ao industrial, nas saídas de massas alimentícias, biscoitos e bolachas.|01012009|
+SC10000011|Crédito presumido na saída de cevada, malte, lúpulo e cobre, importados do exterior.|01012009|
+SC10000012|Crédito presumido na saída de feijão.|01012009|
+SC10000013|Crédito presumido na saída de mercadorias importadas do exterior.|01012009|
+SC10000014|Crédito presumido na saída de pneus novos importados.|01012009|
+SC10000015|Crédito presumido na saída de produtos da indústria de automação, informática e telecomunicações.|01012009|
+SC10000016|Crédito presumido na saída interna de adesivo hidroxilado resultante de garrafa PET.|01012009|
+SC10000017|Crédito presumido na saída interna de bolachas e biscoitos.|01012009|
+SC10000018|Crédito presumido na saída posterior à importação, para que a alíquota resulte em 3% (Pró-Emprego)|01012009|
+SC10000019|Crédito presumido nas saídas de peixes, crustáceos ou moluscos.|01012009|
+SC10000020|Crédito referente a exclusão do acréscimo financeiro da BC do ICMS|01012009|
+SC10010021|Crédito de ICMS pago por ocasião do fato gerador|01012009|
+SC10000022|Crédito na venda de automóvel com isenção à deficiente físico, em que o ICMS foi anteriormente retido por substituição tributária|01012009|
+SC10000023|Crédito na venda de mercadoria sujeita a substituição tributária para órgão publico com isenção|01012009|
+SC10000024|Crédito presumido à empresa que produzir produto sem similar catarinense (Pró-Emprego).|01012009|
+SC10000025|Crédito presumido à indústria produtora de bens e serviços de informática.|01012009|
+SC10000026|Crédito presumido na saída do importador de bens e serviços de informática.|01012009|
+SC10000027|Crédito presumido ao atacadista de medicamentos na entrada de produtos farmacêuticos.|01012009|
+SC10000028|Crédito presumido ao estabelecimento industrial na entrada de chapas finas a frio, zincadas e aço inox.|01012009|
+SC10000029|Crédito presumido ao estabelecimento industrial nas saídas de câmaras frigoríficas para caminhões (PRO-CARGAS).|01012009|
+SC10000030|Crédito proporcional a mercadoria recebida com substituição tributária, quando efetuada nova retenção.|01012009|
+SC10000031|Crédito remanescente na transferência de bens do ativo permanente para outro estabelecimento do mesmo titular.|01012009|
+SC10000032|Crédito proporcional à mercadoria devolvida, cujo imposto foi recolhido no ingresso da mercadoria no regime da substituição tributária|01012009|
+SC10000033|Crédito presumido na saída de artigos têxteis, de vestuário, artefatos de couro e seus acessórios promovidas por estabelecimento industrial|01012009|
+SC10000034|Crédito por aquisição de empresa do Simples Nacional|01012010|
+SC10000999|Outros ajustes de "outros créditos"|01012009|
+SC20000001|Estorno de débito relativo a devolução de mercadoria adquirida no regime de substituição tributária|01012010|
+SC20000999|Outros ajustes de estorno de débitos|01012009|
+SC30000999|Outros ajustes de débitos por saídas|01012009|
+SC40000001|ICMS devido na alienação antecipada de bens ou mercadorias importadas com diferimento|01012009|
+SC40000002|ICMS diferencial de alíquota - aquisição de bens do ativo permanente.|01012009|
+SC40000003|ICMS diferencial de alíquota - aquisição de material de uso e consumo|01012009|
+SC40000004|ICMS devido na entrada de arroz, oriundo do Estado do Rio Grande do Sul.|01012009|
+SC40000005|ICMS devido na entrada de leite fluído, pasteurizado ou não, esterilizado ou reidratado, oriundo do Estado do Rio Grande do Sul.|01012009|
+SC40000999|Outros ajustes de "outros débitos|01012009|
+SC50000999|Outros ajustes de estorno de crédito|01012009|
+SC60000999|Outros ajustes de deduções|01012009|
+SC70000001|ICMS devido na entrada, no Estado, de carnes bovina, bufalina e suas miudezas comestíveis|01012009|
+SC70000002|ICMS devido na entrada, no Estado, de feijão|01012009|
+SC70000003|ICMS devido na entrada, no Estado, de ladrilhos e placas para pavimentação ou revestimento|01012009|
+SC70000004|ICMS devido na entrada, no Estado, de produtos farmacêuticos de uso humano, não sujeitos à substituição tributária|01012009|
+SC70000005|ICMS devido na importação|01012009|
+SC70000006|ICMS devido por responsabilidade tributária (exceto substituição tributária)|01012009|
+SC70000007|ICMS devido por responsabilidade tributária na contratação de frete com transportador autônomo ou empresa de outra UF|01012010|
+SC70000999|Outros ajustes de débitos especiais|01012009|
+SC90000999|Outros ajustes somente informativos|01012009|
+SC11010001|Crédito de ICMS pago por ocasião do fato gerador|01012009|
+SC11000999|Outros ajustes de "outros créditos"|01012009|
+SC21000001|Estorno de débito relativo a devolução de mercadoria adquirida no regime de substituição tributária|01012010|
+SC21000999|Outros ajustes de estorno de débitos|01012009|
+SC31000999|Outros ajustes de débitos por saídas|01012009|
+SC41000999|Outros ajustes de "outros débitos"|01012009|
+SC51000999|Outros ajustes de estorno de crédito|01012009|
+SC61000999|Outros ajustes de deduções|01012009|
+SC71000001|Débito de ICMS devido pela entrada de mercadorias sujeitas a substituição tributária sem a retenção do ICMS|01012010|
+SC71000999|Outros ajustes de débitos especiais|01012009|
+SC91000999|Outros ajustes somente informativos|01012009|

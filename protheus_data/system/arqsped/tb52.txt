@@ -1,0 +1,140 @@
+versão=6.0
+RJ000002|Destaque incorreto do ICMS no documento fiscal.|01012009|
+RJ000003|Ao final do prazo da operação amparada por suspensão ou não configurada a condição que a autorize (pelo remetente).|01012009|
+RJ000004|Estorno de crédito na restituição de bem arrendado.|01012009|
+RJ000006|Imposto diferido ou suspenso exigido por ocasião da saída quando ocorrer entrada de mercadoria com diferimento ou suspensão do tributo e sem direito a crédito equivalente.|01012009|
+RJ000007|Operação com sucata e com lingotes e tarugos de metais não-ferrosos e couro curtido pelo estabelecimento industrial em relação à mercadoria entrada para industrialização|01012009|
+RJ000008|Entradas de mercadorias importadas (lançamento conjunto em outros débitos e deduções).|01012009|
+RJ000011|Lançamento do imposto devido pelo contribuinte que calcula o valor do imposto devido com base na receita bruta na atividade de indústria de sal para alimentação.|01012009|
+RJ000012|Lançamento do imposto devido pelo contribuinte que calcula o valor do imposto devido com base na receita bruta na atividade de fornecimento de alimentação.|01012009|
+RJ000013|Lançamento do imposto devido pelo contribuinte que calcula o valor do imposto devido com base na receita bruta na atividade de transporte aquaviário no Estado.|01012009|
+RJ000014|Compensações, utilizações e transferências de saldos credores acumulados|01012009|
+RJ009999|Outros|01012009|
+RJ010001|Estorno complementar da saída tributada de bem com valor do estorno calculado no CIAP superior ao imposto destacado na NF para os bens cuja entrada ocorreu de 01/11/96 a 31/01/99|01012009|
+RJ010002|Estorno do crédito do ativo permanente por saídas isentas ou não tributadas e por saída ou perda para os bens cuja entrada tenha ocorrido de 01/11/1996 a 31/07/2000.|01012009|
+RJ010003|Estorno do crédito por integração no ativo permanente de mercadoria adquirida para industrialização ou comercialização.|01012009|
+RJ010004|Transferência de crédito de ativo permanente entre estabelecimentos da mesma empresa no Estado (pelo remetente) para os bens cuja entrada tenha ocorrido de 01/11/1996 a 31/01/1999.|01012009|
+RJ010005|Estorno do imposto creditado sempre que forem objeto de saída isenta as mercadorias que compõem a cesta básica.|01012009|
+RJ010006|Estorno dos créditos associados às operações internas e de importação de insumos, materiais e equipamentos destinados à indústria de construção e reparação naval.|01012009|31032009
+RJ010007|Mercadoria alienada por preço inferior a aquisição.|01012009|
+RJ010008|Serviço ou mercadoria entrada no estabelecimento e for integrada ou consumida na industrialização, quando a saída do produto resultante não for tributada ou estiver isenta|01012009|
+RJ010009|Serviço ou mercadoria entrada no estabelecimento e for objeto de saída ou prestação de serviço não tributada ou isenta.|01012009|
+RJ010010|Serviço ou mercadoria entrada no estabelecimento e gozar de redução da base de cálculo na operação ou prestação subseqüente.|01012009|
+RJ010011|Serviço ou mercadoria entrada no estabelecimento e vier a perecer, deteriorar-se ou extraviar-se.|01012009|
+RJ010012|Serviço ou mercadoria entrada no estabelecimento vier a ser utilizada em fim alheio à atividade do estabelecimento.|01012009|
+RJ010014|Crédito indevido por documento inidôneo (lançamento conjunto em estorno de crédito e deduções).|01012009|
+RJ010015|Estorno da restituição do imposto retido pago por substituição tributária correspondente ao fato gerador que não se realizar sobrevindo decisão contrária irrecorrível ao pedido|01012009|
+RJ010017|Estorno do saldo credor dos contribuintes enquadrados no regime apuração do ICMS com base receita bruta (fornecimento alimentação, indústria sal e transporte aquaviário).|01012009|
+RJ010018|Estorno do crédito pelo adquirente de mercadoria de ME/EPP no Simples Nacional pela soma do imposto creditado no mês (lançamento conjunto em outros créditos e estornos de créditos)|01012009|
+RJ010019|Estorno do crédito indevido ou a maior pelo adquirente de mercadoria de ME/EPP no Simples Nacional|01012009|
+RJ019999|Outros|01012009|
+RJ020001|Credito de ativo permanente e diferencial de alíquota do ativo permanente em parcelas para os bens cuja entrada tenha ocorrido de 01/02/1999 a 31/07/2000.|01012009|
+RJ020002|Credito de ativo permanente e diferencial de alíquota do ativo permanente em parcelas para os bens cuja entrada tenha ocorrido a partir de 01/08/2000.|01012009|
+RJ020003|Transferência de crédito de ativo permanente entre estabelecimentos da mesma empresa no Estado (pelo destinatário) para bens cuja entrada tenha ocorrido de 01/11/96 a 31/01/99|01012009|
+RJ020007|Destaque incorreto do ICMS no documento fiscal.|01012009|
+RJ020008|Crédito do ICMS oriundo da execução de projetos do Programa Luz no Campo para concessionárias de energia.|01012009|
+RJ020009|Crédito do imposto do valor dos direitos autorais pagos a autores e artistas nacionais ou a empresas.|01012009|
+RJ020010|Crédito em operação interna tributada antecedente à exportação com metais e pedras preciosas e semipreciosas.|01012009|
+RJ020011|Crédito presumido aos estabelecimentos de serviço de transporte.|01012009|
+RJ020012|Crédito presumido do ICMS correspondente a 13% (treze por cento) do valor da operação, nas saídas internas promovidas pelo fabricante produtos cerâmicos para construção.|01012009|
+RJ020013|Crédito presumido do ICMS, vinculado à realização de projeto cultural.|01012009|
+RJ020014|Crédito presumido leite adquirido no Estado do Rio de Janeiro, diretamente do produtor ou através de usinas de laticínios legalmente estabelecidas no Estado.|01012009|
+RJ020015|Crédito presumido leite adquirido no Estado do RJ, do produtor ou através de usinas de laticínios legalmente estabelecidas no Estado p/utilização no PROGRAMA DE SAUDE ANIMAL|01012009|
+RJ020016|Crédito presumido para contribuintes c/CAE principal de extração de minerais não metálicos não preciosos, trabalhos em mármore e outras pedras; aparelhamento de pedras p/construção|01012009|
+RJ020017|Crédito presumido serviço transporte aéreo operação interna.|01012009|
+RJ020018|Ao final do prazo da operação amparada por suspensão ou não configurada a condição que a autorize (pelo destinatário).|01012009|
+RJ020019|Correção monetária do recolhimento feito espontaneamente a maior que o valor do imposto devido.|01012009|
+RJ020020|Recolhimento feito espontaneamente a maior que o valor do imposto devido.|01012009|
+RJ020021|Operações ou prestações submetidas ao regime de diferimento em decorrência de decisão exarada em processo.|01012009|
+RJ020022|Credito do frete pago pelo remetente contribuinte do ICMS quando realizado por empresa de transporte sediada fora do estado e não inscrita no CADERJ ou profissional autônomo.|01012009|
+RJ020023|Operação com sucata e com lingotes e tarugos de metais não-ferrosos e couro curtido pelo estabelecimento industrial em relação à mercadoria entrada p/utilização em industrialização|01012009|
+RJ020024|Operação com sucata, fragmento, retalho ou resíduo de materiais, lingotes e tarugos de metais não-ferrosos, couro, pele, sebo, osso, chifre e casco na saída do Estado pelo remet|01012009|
+RJ020025|Operação com sucata, lingotes e tarugos de metais não-ferrosos, couro, pele, sebo, osso, chifre e casco na entrada no RJ com regime especial p/ Nota Fiscal sem guia de recolhimento|01012009|
+RJ020026|Crédito da estimativa recolhida pelo contribuinte no período que esteve indevidamente enquadrado no regime simplificado.|01012009|31032009
+RJ020027|Crédito do estoque de mercadorias no desenquadramento do regime simplificado.|01012009|31032009
+RJ020028|Na saída de mercadoria para utilização em processo industrial, realizada por distribuidor ou atacadista que a tenha recebido com imposto retido.|01012009|
+RJ020029|Nas saídas internas de óleo diesel, destinado a estabelecimento fabricante para utilização em processo industrial, promovida por distribuidor.|01012009|
+RJ020030|Restituição do imposto retido pago por força da substituição tributária correspondente ao fato gerador que não se realizar.|01012009|
+RJ020031|Crédito presumido após o lançamento de novas coleções das indústrias de fiação e tecelagem e do setor de moda e confecções|01012009|31032009
+RJ020032|Recebimento de saldos credores acumulados em decorrência de operações ou prestações destinadas ao exterior.|01012009|
+RJ020033|Crédito do ICMS materializado na Guia de Controle Fiscal (GCF), vinculado à aquisição de gado por estabelecimento com atividade industrial ou comercial|01012009|
+RJ020034|Crédito relativo ao imposto diferido ou amparado com dilação de prazo para empresa do Polo Gás Químico ou com projeto independente de termogeração de energia elétrica a gás|01012009|
+RJ020035|Crédito na devolução ou remessa interestadual de mercadoria sujeita à subst. tributária nas operações internas, cujo imposto st foi pago antecip. ou retido e pago pelo adquirente|01012009|
+RJ020036|Crédito do destinatário de nota fiscal de ressarcimento do imposto retido do fornecedor do óleo diesel destinados a embarcações pesqueiras nacionais|01012009|
+RJ020037|Crédito do imposto relativo à entrada de remessa, em operação interestadual, de mercadoria cujo imposto já tenha sido objeto de retenção anterior|01012009|
+RJ020038|Crédito presumido equivalente a carga tributária efetiva de 3% nas saídas pela empresa comercial atacadista estab RJ de produtos a que se referem o artigo 1º do Decreto 33981/03|01012009|
+RJ020039|Crédito presumido equivalente a carga tributária efetiva de 0% nas saídas pela empresa industrial estabelecida RJ de produtos a que se referem o artigo 1º do Decreto 33981/03|01012009|
+RJ020040|Crédito presumido conf art. 8º do Dec 33976/03 nas saídas pela indústria estabelecida RJ de derivados prod químicos e petroquím básicos e intermed produzidos em Território Nacional|01012009|
+RJ020041|Crédito presumido de 2% das vendas pela Central de Distribuição nas saídas interestaduais pelas empresas enquadradas no RIOLOG|01012009|
+RJ020042|Crédito presumido de 2% das compras de mercadorias comercializadas pela Central de Distribuição nas entradas interestaduais pelas empresas enquadradas no RIOLOG|01012009|
+RJ020043|Crédito presumido de 2% das transferências nas entradas por transferência de estabelecimento indutrial de outra UF pelas empresas enquadradas no RIOLOG|01012009|
+RJ020044|Crédito presumido de 2% das compras nas operações internas de entrada dos produtos relacionados no Art. 3º, inciso IV da Lei 4173/03 pelas empresas enquadradas no RIOLOG|01012009|
+RJ020045|Crédito presumido de 6% das compras internas de prod agropec RJ, de produtores rurais, pessoa física, para processam agro-industrial pelas empresas com investim >= 20000 UFIRs-RJ|01012009|
+RJ020046|Crédito presumido de 4% das compras interestaduais de prod agropecuários, produzidos em outros Estados, para processam agro-industrial pelas empresas com investim >= 20000 UFIRs-RJ|01012009|
+RJ020047|Crédito presumido do ICMS equivalente ao valor da alíoquota nas saídas interestaduais e internas dos produtos reciclados por estab industrial das empresas destinadas à reciclagem|01012009|
+RJ020048|Crédito presumido de empresa fluminense que realizar operações de saída a que se referem os artigos 1º e 2º da Res. SER 82/04|01012009|
+RJ020049|Crédito presumido de 7% nas saídas internas industrializadas no RJ pelo fabricante localizado RJ de aguardente de cana e de melaço|01012009|
+RJ020050|Crédito presumido de 14% nas saídas internas industrializadas no RJ pelo fabricante localizado RJ de bebidas alcoólicas da posição 2204 a 2208 da NBM/SH exceto cerveja e chope|01012009|
+RJ020051|Crédito presumido de 12% das saídas internas ou interestad para não contribuinte à empresa industrial com sede RJ com as mercadorias do Anexo ao Decreto 36376/04|01012009|
+RJ020052|Crédito presumido equiv a carga tribut efetiva de 12% nas oper interestad de saída para não contrib pela empresa industrial estab RJ de prod identif no artigo 1º do Dec 36451/04|01012009|
+RJ020053|Crédito presumido de 4% da Nota Fiscal ao industrial da cadeia farmacêutica na saída interna entre contrib de mercad com destino a atacadista, central de distribuição e varejista|01012009|
+RJ020054|Crédito presumido de 2% da venda da mercad comercializada nessa modalidade ao estab comercial atacadista e à central de distribuição da cadeia farmacêutica na saída interestadual|01012009|
+RJ020055|Crédito presumido de 2% da compra da mercad comercializada nessa modalidade ao estab comercial atacadista e à central de distribuição da cadeia farmacêutica na entrada interestad|01012009|
+RJ020056|Crédito presumido de 2% da transf ao estab comercial atacad e à centr de distrib da cad farmacêutica na entrada por transf de estab industrial ou de centr de distrib em outra UF|01012009|
+RJ020057|Crédito presumido de 2% da compra nessa modalidade ao estab comercial atacadista e à central de distribuição da cadeia farmacêutica na operação interna de entrada de mercadoria|01012009|
+RJ020058|Crédito presumido de 6% da N Fiscal ao estab industr, central de distrib ou atacadista, com sede RJ, na saída interestad para consumid final de vendas por Internet e telemarketing|01012009|
+RJ020059|Crédito presumido equiv a carga tribut efetiva de 7% nas oper internas de saída pela empresa industrial estab RJ de produtos a que se referem os artigos 1º e 3º do Decreto 36452/04|01012009|
+RJ020060|Crédito presumido equiv a carga tribut efetiva de 12% nas oper interestad de saída para não contrib pela empresa industrial estab RJ de prod identif nos art 1º e 3º do Dec 36452/04|01012009|
+RJ020061|Crédito presumido equivalente ao débito de operações interestaduais com os produtos referidos no Decreto 36279/04|01012009|
+RJ020062|Crédito presumido de 7% nas oper interestad de saída destinad a não contribuintes do imposto pelas empresas enquadradas de produtos a que se referem o artigo 1º do Decreto 37255/05|01012009|
+RJ020063|Crédito presumido equivalente ao débito decorrente das operações interestaduais de saída pelas empresas enquadradas de produtos a que se referem o artigo 1º do Decreto 37188/05|01012009|
+RJ020064|Crédito presumido de 7% nas operações internas de saída pelas empresas enquadradas de bens a que se referem o artigo 1º do Decreto 37270/05|01012009|
+RJ020065|Crédito presumido nas operações interestaduais de forma que a incidência do imposto resulte no percentual de 7% sobre o valor das operações a que se referem o Decreto 38938/06|01012009|
+RJ020066|Crédito de substituto do imposto destac no doc fiscal rel à aquis de mercadoria de empr comercial atacadista que realizar oper suj subst tributária relac no art. 1º do Dec.40016/06|01012009|
+RJ020067|Crédito presumido de ICMS sobre o valor do faturamento incremental|01012009|
+RJ020068|Crédito presumido de ICMS equivalente ao débito das operações sobre o faturamento incremental na produção de risers até 2020 para as linhas de fabricação e produção de risers|01012009|
+RJ020069|Crédito pelo adquirente de mercadoria de ME/EPP no Simples Nacional pelo somatório do imposto creditado no mês (lançamento conjunto em outros créditos e estornos de créditos)|01012009|
+RJ029999|Outros|01012009|
+RJ030001|Débito do imposto com valor superior ao correto feito nos livros fiscais pelo valor do destaque e o pagamento do respectivo período de apuração ainda não houver sido realizado|01012009|
+RJ030002|Mercadoria inutilizada ou perdida após sua saída do estabelecimento e sendo o caso de estorno de crédito|01012009|
+RJ039999|Outros|01012009|
+RJ040001|Destaque incorreto do ICMS no documento fiscal.|01012009|
+RJ040002|Nota fiscal avulsa com operação tributável.|01012009|
+RJ040004|Saídas internas de ave viva ou abatida|01012009|31032009
+RJ040005|Crédito indevido por documento inidôneo (lançamento conjunto em estorno de crédito e deduções).|01012009|
+RJ040006|Recolhimento antecipado.|01012009|
+RJ040007|Entradas de mercadorias importadas (lançamento conjunto em outros débitos e deduções).|01012009|
+RJ040009|Compensação do ICMS da liberação de financiamento do FUNDES.|01012009|
+RJ040010|Adicional relativo ao FECP - Fundo Estadual de Combate à Pobreza e às Desigualdades Sociais|01012009|
+RJ040011|Benefício de 95% das saídas de animais vivos ou abatidos de que trata o artigo 6º da Lei nº 4177/03 para produtor rural, agroindústrias e indústrias de prod agropec semiprocessados|01012009|
+RJ040012|Escrituração do imposto recolhido do crédito indevido ou a maior pelo adquirente de mercadoria de ME/EPP no Simples Nacional|01012009|
+RJ049999|Outros|01012009|
+RJ100001|Imposto devido por substituição tributária por responsável que receber, de dentro ou de fora do Estado, mercadoria constante nos Anexos I ou II, do Livro II, do RICMS/00|01012009|31032009
+RJ050001|Diferencial de alíquota uso e consumo|01012009|
+RJ050002|Diferencial de alíquota ativo fixo|01012009|
+RJ050005|Diferencial de alíquota na utilização de serviço cuja prestação iniciou em outra UF e não vinculada à operação ou prestação subseqüente alcançada pela incidência do imposto|01012009|
+RJ050006|Imposto não retido de mercadoria recebida sujeita à substituição tributária sem que a retenção ou pagamento do ICMS tenha sido efetuado pelo remetente ou transportador|01012009|
+RJ050007|ICMS pela importação|01012009|
+RJ050008|FECP referente às operações e prestações internas|01012009|
+RJ050009|FECP referente à importação|01012009|
+RJ050010|FECP referente ao diferencial de alíquotas|01012009|
+RJ050011|FECP em razão da substituição tributária em operações internas|01012009|
+RJ050012|ICMS ref. Gás Natural cuja NF foi emitida de acordo com o Regime Especial|01012009|
+RJ050013|ICMS ref. a NF's de Energia Elétrica nas Entradas|01012009|
+RJ050014|ICMS antecipado|01012009|
+RJ100002|Imposto não retido de mercadoria recebida sujeita à substituição tributária sem retenção ou pagamento antecipado do ICMS com apuração mensal com a Substituição Tributária Interna|01012009|
+RJ109999|Outros|01012009|
+RJ119999|Outros|01012009|
+RJ120001|Crédito do ICMS anteriormente retido por responsável, relativo à devolução de mercadoria sujeita à substituição tributária constante nos Anexos I ou II do Livro II do RICMS/00|01012009|31032009
+RJ120002|Crédito do ICMS anteriormente retido por responsável, relativo à devolução de mercadoria sujeita à substituição tributária|01012009|
+RJ129999|Outros|01012009|
+RJ130001|Anulação correspondente à remessa para outro estado de mercadoria sujeita à substituição tributária, cujo ICMS foi retido por responsável|01012009|31032009
+RJ130002|Anulação correspondente à remessa para outro estado de mercadoria sujeitas à substituição tributária, cujo ICMS foi retido por responsável|01012009|
+RJ139999|Outros|01012009|
+RJ140001|Adicional relativo ao FECP Fundo Estadual de Combate à Pobreza e às Desigualdades Sociais|01012009|
+RJ149999|Outros|01012009|
+RJ150001|Valor Provisionado do ICMS_ST|01012009|
+RJ150002|Débito Especial de ICMS-ST referente à devolução de mercadoria cujo ICMS tenha sido recolhido antecipadamente|01012010|
+RJ150006|Imposto não retido de mercadoria recebida sujeita à substituição tributária sem que a retenção ou pagamento do ICMS tenha sido efetuado pelo remetente ou transportador|01012009|
+RJ150011|FECP em razão da substituição tributária em operações internas|01012009|
+RJ150012|FECP em razão da Substituição Tributária em operações interestaduais|01122009|

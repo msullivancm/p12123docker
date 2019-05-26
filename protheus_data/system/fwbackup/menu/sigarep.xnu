@@ -1,0 +1,189 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAREP</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A480000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000008192</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config. Arquivos</Title>
+				<Title lang="es">Config. Archivos</Title>
+				<Title lang="en">File Configuration</Title>
+				<Function>REPA020</Function>
+				<Type>1</Type>
+				<Tables>OZ1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>48</Module>
+				<Owner>48</Owner>
+				<ItemID>0000008193</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arquivo X Cadastro</Title>
+				<Title lang="es">Archivo Vs. Regist</Title>
+				<Title lang="en">File Vs. Record</Title>
+				<Function>REPA040</Function>
+				<Type>1</Type>
+				<Tables>OZ1</Tables>
+				<Tables>OZ2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>48</Module>
+				<Owner>48</Owner>
+				<ItemID>0000008194</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Filiais</Title>
+				<Title lang="es">Sucursales</Title>
+				<Title lang="en">Branches</Title>
+				<Function>REPA090</Function>
+				<Type>1</Type>
+				<Tables>OZ4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>48</Module>
+				<Owner>48</Owner>
+				<ItemID>0000008195</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arq. de Transacoes</Title>
+				<Title lang="es">Arch. Transacc.</Title>
+				<Title lang="en">Transaction File</Title>
+				<Function>REPA080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>48</Module>
+				<Owner>48</Owner>
+				<ItemID>0000008196</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentacoes</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000008198</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envia Arquivos</Title>
+				<Title lang="es">Envia Archivos</Title>
+				<Title lang="en">Send Files</Title>
+				<Function>REPA030</Function>
+				<Type>1</Type>
+				<Tables>OZ1</Tables>
+				<Tables>OZ2</Tables>
+				<Tables>OZ4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>48</Module>
+				<Owner>48</Owner>
+				<ItemID>0000008199</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recebe Arquivos</Title>
+				<Title lang="es">Recibe Archivos</Title>
+				<Title lang="en">Receive Files</Title>
+				<Function>REPA050</Function>
+				<Type>1</Type>
+				<Tables>OZ1</Tables>
+				<Tables>OZ2</Tables>
+				<Tables>OZ3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>48</Module>
+				<Owner>48</Owner>
+				<ItemID>0000008200</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envia Transacoes</Title>
+				<Title lang="es">Envia Transaccion.</Title>
+				<Title lang="en">Send Transactions</Title>
+				<Function>REPA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>48</Module>
+				<Owner>48</Owner>
+				<ItemID>0000008201</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recebe Transacoes</Title>
+				<Title lang="es">Recibe Transacc.</Title>
+				<Title lang="en">Receive Transactns</Title>
+				<Function>REPA110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>48</Module>
+				<Owner>48</Owner>
+				<ItemID>0000008202</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B480000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B480000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

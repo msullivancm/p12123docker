@@ -1,0 +1,47 @@
+versão=2.0
+MG009999|Apuração do ICMS; Outros débitos para ajuste de apuração ICMS;|01012009|
+MG010001|Apuração do ICMS; Estorno de créditos; determinados por ato administrativo ou judicial.|01012009|
+MG019999|Apuração do ICMS; Estorno de créditos para ajuste de apuração ICMS.|01012009|
+MG020001|Apuração do ICMS; Outros créditos; determinados por ato administrativo ou judicial.|01012009|
+MG020002|Apuração do ICMS; Outros créditos; referentes ao Valor total do crédito presumido.|01012009|
+MG029999|Apuração do ICMS; Outros créditos para ajuste de apuração ICMS.|01012009|
+MG030001|Apuração do ICMS; Estorno de débitos; determinados por ato administrativo ou judicial.|01012009|
+MG030002|Apuração do ICMS; Estorno de débitos; referente ao CTRC emitido pelo transportador, com ICMS de responsabilidade do remetente/alienante.|01012009|
+MG039999|Apuração do ICMS; Estorno de débitos para ajuste de apuração ICMS.|01012009|
+MG040001|Apuração do ICMS; Dedução do imposto apurado; Utilização de crédito transferido, limitado a 30% do débito.|01012009|
+MG040002|Apuração do ICMS; Dedução do imposto apurado; Transferência entre 2 estabelecimentos do mesmo titular.|01012009|
+MG049999|Apuração do ICMS; Deduções do imposto apurado na apuração ICMS.|01012009|
+MG050000|Apuração do ICMS; Débito Especial; ICMS Diferença de Alíquota apurado em verificação fiscal.|01012009|
+MG050001|Apuração do ICMS; Débito Especial; ICMS Diferença de Alíquota apurado após o vencimento.|01012009|
+MG050100|Apuração do ICMS; Débito Especial; ICMS de importação apurado por verificação fiscal.|01012009|
+MG050101|Apuração do ICMS; Débito Especial; ICMS de importação pago no período, com emissão de Nota de entrada no período posterior.|01012009|
+MG050200|Apuração do ICMS; Débito Especial; ICMS referente ao diferimento, apurado por verificação fiscal.|01012009|
+MG050201|Apuração do ICMS; Débito Especial; ICMS referente ao diferimento, apurado após o vencimento.|01012009|
+MG050300|Apuração do ICMS; Débito Especial; ICMS referente à Antecipação tributária, apurado por verificação fiscal.|01012009|
+MG050301|Apuração do ICMS; Débito Especial; ICMS referente à Antecipação tributária, apurado após o vencimento.|01012009|
+MG050400|Apuração do ICMS; Débito Especial; ICMS destacado a menor, apurado em verificação fiscal.|01012009|
+MG050401|Apuração do ICMS; Débito Especial; ICMS destacado a menor, apurado após o vencimento.|01012009|
+MG059998|Apuração do ICMS; Débito Especial; ICMS - Outros.|01012009|
+MG109999|Apuração do ICMS ST; Outros débitos para ajuste de apuração ICMS ST.|01012009|
+MG119999|Apuração do ICMS ST; Estorno de créditos para ajuste de apuração ICMS ST.|01012009|
+MG129999|Apuração do ICMS ST; Outros créditos para ajuste de apuração ICMS ST.|01012009|
+MG139999|Apuração do ICMS ST; Estorno de débitos para ajuste de apuração ICMS ST.|01012009|
+MG149999|Apuração do ICMS ST; Deduções do imposto apurado na apuração ICMS ST.|01012009|
+MG150000|Apuração do ICMS ST; Débito Especial; ICMS Diferença de Alíquota apurado em verificação fiscal.|01012009|
+MG150001|Apuração do ICMS ST; Débito Especial; ICMS ST de Diferença de Alíquota apurado após o vencimento.|01012009|
+MG150400|Apuração do ICMS ST; Débito Especial; ICMS ST destacado a menor, apurado em verificação fiscal.|01012009|
+MG150401|Apuração do ICMS ST; Débito Especial; ICMS ST destacado a menor, apurado após o vencimento.|01012009|
+MG150500|Apuração do ICMS ST; Débito Especial; ICMS ST interna, apurado por verificação fiscal.|01012009|
+MG150501|Apuração do ICMS ST; Débito Especial; ICMS ST interna, apurado após o vencimento.|01012009|
+MG150502|Apuração do ICMS ST; Débito Especial; ICMS ST interna pago no período com emissão de Nota de entrada no período posterior.|01012009|
+MG150600|Apuração do ICMS ST; Débito Especial; ICMS ST de transporte, apurado por verificação fiscal.|01012009|
+MG150601|Apuração do ICMS ST; Débito Especial; ICMS ST de transporte, apurado após o vencimento.|01012009|
+MG159999|Apuração do ICMS ST; Débito Especial; ICMS ST - Outros.|01012009|
+MG020003|Apuração do ICMS; Outros créditos; Incentivo fiscal a cultura - lei 12733|01012009|
+MG050099|Apuração do ICMS; Débito Especial; ICMS Diferença de Alíquota - outros|01012009|
+MG050199|Apuração do ICMS; Débito Especial; ICMS de importação - outros|01012009|
+MG050299|Apuração do ICMS; Débito Especial; ICMS referente a diferimento - outros|01012009|
+MG050399|Apuração do ICMS; Débito Especial; ICMS referente à Antecipação tributária - outros|01012009|
+MG150099|Apuração do ICMS ST; Débito Especial; ICMS ST de Diferença de Alíquota - outros|01012009|
+MG150599|Apuração do ICMS ST; Débito Especial; ICMS ST interna - outros|01012009|
+MG150699|Apuração do ICMS ST; Débito Especial; ICMS ST de transporte - outros|01012009|

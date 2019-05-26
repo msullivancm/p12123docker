@@ -1,0 +1,4434 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAGE</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A490000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Processo Seletivo</Title>
+			<Title lang="es">Proc. de Selecc.</Title>
+			<Title lang="en">Selection Process</Title>
+			<ItemID>0000008203</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gabaritos</Title>
+				<Title lang="es">Solucionarios</Title>
+				<Title lang="en">Answer Sheet</Title>
+				<Function>ACAA120</Function>
+				<Type>1</Type>
+				<Tables>JAE</Tables>
+				<Tables>JAL</Tables>
+				<Tables>JAM</Tables>
+				<Tables>JAN</Tables>
+				<Tables>JDG</Tables>
+				<Tables>JDH</Tables>
+				<Tables>JAP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008204</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processo Seletivo</Title>
+				<Title lang="es">Proc. de Selecc.</Title>
+				<Title lang="en">Selection Process</Title>
+				<Function>ACAA080</Function>
+				<Type>1</Type>
+				<Tables>JA6</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JA8</Tables>
+				<Tables>JA9</Tables>
+				<Tables>JAC</Tables>
+				<Tables>JAD</Tables>
+				<Tables>JAK</Tables>
+				<Tables>JAL</Tables>
+				<Tables>JAO</Tables>
+				<Tables>JA1</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JDL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008205</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ps X Disciplinas</Title>
+				<Title lang="es">Ps Vs Materias</Title>
+				<Title lang="en">Sel. Pr. Vs. Subj.</Title>
+				<Function>ACAA050</Function>
+				<Type>1</Type>
+				<Tables>JA6</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JA8</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008206</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ps X Fase X Local</Title>
+				<Title lang="es">Ps Vs Etapa Vs Loc</Title>
+				<Title lang="en">S. Pr.vs Phasevs L</Title>
+				<Function>ACAA300</Function>
+				<Type>1</Type>
+				<Tables>JA3</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JA9</Tables>
+				<Tables>JAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008207</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Candidatos</Title>
+				<Title lang="es">Candidatos</Title>
+				<Title lang="en">Candidates</Title>
+				<Function>ACAA070</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JAQ</Tables>
+				<Tables>JAX</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SE5</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SED</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAO</Tables>
+				<Tables>JA9</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JDI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008208</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distrib. Gabaritos</Title>
+				<Title lang="es">Distr. Solucionar.</Title>
+				<Title lang="en">Distr.test Sheets</Title>
+				<Function>ACAA900</Function>
+				<Type>1</Type>
+				<Tables>JAI</Tables>
+				<Tables>JAV</Tables>
+				<Tables>JA5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008209</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cand. X Resp.</Title>
+				<Title lang="es">Cand. Vs. Resp.</Title>
+				<Title lang="en">Cand. Vs. Answer</Title>
+				<Function>ACAA130</Function>
+				<Type>1</Type>
+				<Tables>JAM</Tables>
+				<Tables>JAN</Tables>
+				<Tables>JAP</Tables>
+				<Tables>JA1</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAL</Tables>
+				<Tables>JAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008210</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Avaliacäo Dissert.</Title>
+				<Title lang="es">Evaluac. Expositiv</Title>
+				<Title lang="en">Written Evaluat.</Title>
+				<Function>ACAA140</Function>
+				<Type>1</Type>
+				<Tables>JAA</Tables>
+				<Tables>JA1</Tables>
+				<Tables>JAP</Tables>
+				<Tables>JA8</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008211</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proc. Gabaritos</Title>
+				<Title lang="es">Proc. Solucionario</Title>
+				<Title lang="en">Answ. Sheet Proc.</Title>
+				<Function>ACAA150</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JAP</Tables>
+				<Tables>JA8</Tables>
+				<Tables>JAM</Tables>
+				<Tables>JAN</Tables>
+				<Tables>JAA</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAV</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JAL</Tables>
+				<Tables>JB4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008212</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proc. Chamadas</Title>
+				<Title lang="es">Proces. Llamadas</Title>
+				<Title lang="en">Roll Call Proc.</Title>
+				<Function>ACAA160</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JA8</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JB4</Tables>
+				<Tables>JB7</Tables>
+				<Tables>JAV</Tables>
+				<Tables>JAP</Tables>
+				<Tables>JAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008213</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Comunic.</Title>
+				<Title lang="es">Monitor Comunicac.</Title>
+				<Title lang="en">Communic. Monitor</Title>
+				<Function>ACAA170</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAO</Tables>
+				<Tables>JAQ</Tables>
+				<Tables>JAV</Tables>
+				<Tables>JAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008214</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Alu. Prov.</Title>
+				<Title lang="es">Gener Alum Provis</Title>
+				<Title lang="en">Gen. Temp. Student</Title>
+				<Function>ACAA490</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JCA</Tables>
+				<Tables>JCC</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SED</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JB5</Tables>
+				<Tables>JB4</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAY</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JCO</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JCE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008215</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estorna Alu. Prov.</Title>
+				<Title lang="es">Reviert Alum Prov</Title>
+				<Title lang="en">Rev. Temp Student</Title>
+				<Function>ACAA600</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JCE</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SE1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008216</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestao Academica</Title>
+			<Title lang="es">Gest. Academica</Title>
+			<Title lang="en">Acad. Management</Title>
+			<ItemID>0000008218</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionarios</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>GPEA010</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRB</Tables>
+				<Tables>SPA</Tables>
+				<Tables>SRW</Tables>
+				<Tables>SRJ</Tables>
+				<Tables>SR6</Tables>
+				<Tables>SRF</Tables>
+				<Tables>SAN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>7</Owner>
+				<ItemID>0000008219</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Areas</Title>
+				<Title lang="es">Areas</Title>
+				<Title lang="en">Areas</Title>
+				<Function>ACAA100</Function>
+				<Type>1</Type>
+				<Tables>JAG</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008220</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Disciplinas</Title>
+				<Title lang="es">Materias</Title>
+				<Title lang="en">Subjects</Title>
+				<Function>ACAA090</Function>
+				<Type>1</Type>
+				<Tables>JAE</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JA8</Tables>
+				<Tables>JAM</Tables>
+				<Tables>JAN</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAW</Tables>
+				<Tables>JB1</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAA</Tables>
+				<Tables>JAP</Tables>
+				<Tables>JBZ</Tables>
+				<Tables>JAY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008221</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equivalencias</Title>
+				<Title lang="es">Equivalencias</Title>
+				<Title lang="en">Equivalences</Title>
+				<Function>ACAA430</Function>
+				<Type>1</Type>
+				<Tables>JC8</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008222</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Class. Isced</Title>
+				<Title lang="es">Clasific. Isced</Title>
+				<Title lang="en">I s C e d Classif.</Title>
+				<Function>ACAA320</Function>
+				<Type>1</Type>
+				<Tables>JBX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008223</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equiv. Conceitos</Title>
+				<Title lang="es">Equiv. Conceptos</Title>
+				<Title lang="en">Concept Equiv.</Title>
+				<Function>ACAA770</Function>
+				<Type>1</Type>
+				<Tables>JDE</Tables>
+				<Tables>JDF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008224</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Habilitacöes</Title>
+				<Title lang="es">Habilitaciones</Title>
+				<Title lang="en">Qualifications</Title>
+				<Function>ACAA840</Function>
+				<Type>1</Type>
+				<Tables>JDK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008225</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cursos</Title>
+				<Title lang="es">Cursos</Title>
+				<Title lang="en">Courses</Title>
+				<Function>ACAA210</Function>
+				<Type>1</Type>
+				<Tables>JAF</Tables>
+				<Tables>JAW</Tables>
+				<Tables>JAY</Tables>
+				<Tables>JBZ</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008226</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reconhec. Mec</Title>
+				<Title lang="es">Reconocim. Mec</Title>
+				<Title lang="en">M e C Recognition</Title>
+				<Function>ACAA340</Function>
+				<Type>1</Type>
+				<Tables>JAF</Tables>
+				<Tables>JCF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008227</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conceito Mec</Title>
+				<Title lang="es">Concepto Mec</Title>
+				<Title lang="en">M e C Concept</Title>
+				<Function>ACAA370</Function>
+				<Type>1</Type>
+				<Tables>JAF</Tables>
+				<Tables>JBT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008228</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calend. Academico</Title>
+				<Title lang="es">Calend Academico</Title>
+				<Title lang="en">School Calendar</Title>
+				<Function>ACAA390</Function>
+				<Type>1</Type>
+				<Tables>JBV</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008229</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Curso Vigente</Title>
+				<Title lang="es">Curso Vigente</Title>
+				<Title lang="en">Current Course</Title>
+				<Function>ACAA110</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAJ</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAW</Tables>
+				<Tables>JB1</Tables>
+				<Tables>JAK</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JBV</Tables>
+				<Tables>JD9</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JAY</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JDE</Tables>
+				<Tables>JDS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008230</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Curso Vig. X Salas</Title>
+				<Title lang="es">Curs Vig Vs Salas</Title>
+				<Title lang="en">Crr. Course X Room</Title>
+				<Function>ACAA280</Function>
+				<Type>1</Type>
+				<Tables>JA3</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBN</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JCE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008231</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exclui Curso Turma</Title>
+				<Title lang="es">Borra Curso Grupo</Title>
+				<Title lang="en">Del. Course/class</Title>
+				<Function>ACAA630</Function>
+				<Type>1</Type>
+				<Tables>JBS</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAJ</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAT</Tables>
+				<Tables>JAU</Tables>
+				<Tables>JB1</Tables>
+				<Tables>JB5</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JBN</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JBR</Tables>
+				<Tables>JBU</Tables>
+				<Tables>JC6</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JC9</Tables>
+				<Tables>JCE</Tables>
+				<Tables>JCG</Tables>
+				<Tables>JDC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008232</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Horarios</Title>
+				<Title lang="es">Horarios</Title>
+				<Title lang="en">Timetable</Title>
+				<Function>ACAA250</Function>
+				<Type>1</Type>
+				<Tables>JBC</Tables>
+				<Tables>JBD</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JCN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008233</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grade de Aulas</Title>
+				<Title lang="es">Horario de Clases</Title>
+				<Title lang="en">Class Schedule</Title>
+				<Function>ACAA180</Function>
+				<Type>1</Type>
+				<Tables>JBK</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JD2</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBV</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JAU</Tables>
+				<Tables>JAY</Tables>
+				<Tables>JCE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JBY</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JDC</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JDO</Tables>
+				<Tables>JDN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008234</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">C. Prog. Prev.</Title>
+				<Title lang="es">C. Prog. Prev.</Title>
+				<Title lang="en">Est. School Prog.</Title>
+				<Function>ACAA420</Function>
+				<Type>1</Type>
+				<Tables>JAT</Tables>
+				<Tables>JAU</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JB3</Tables>
+				<Tables>JAZ</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAY</Tables>
+				<Tables>JBV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008235</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">C. Prog. Real</Title>
+				<Title lang="es">C. Prog. Real</Title>
+				<Title lang="en">Actual School Prog</Title>
+				<Function>ACAA450</Function>
+				<Type>1</Type>
+				<Tables>JAT</Tables>
+				<Tables>JAU</Tables>
+				<Tables>JBL</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008236</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Autoriza C. Prog.</Title>
+				<Title lang="es">Autoriza C. Prog.</Title>
+				<Title lang="en">Auth School Prog.</Title>
+				<Function>ACAA460</Function>
+				<Type>1</Type>
+				<Tables>JAT</Tables>
+				<Tables>JAU</Tables>
+				<Tables>JBL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008237</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ativ. da Avaliacäo</Title>
+				<Title lang="es">Activ. de Evalua.</Title>
+				<Title lang="en">Activity Evaluat.</Title>
+				<Function>ACAA750</Function>
+				<Type>1</Type>
+				<Tables>JD9</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JBL</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008238</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Replicar Avaliac.</Title>
+				<Title lang="es">Replicar Evaluac.</Title>
+				<Title lang="en">Copy Evaluation</Title>
+				<Function>ACAA860</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JD9</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JBR</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JDB</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JBO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008239</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apont. Notas Ativ.</Title>
+				<Title lang="es">Apunte Notas Activ</Title>
+				<Title lang="en">Annot. Act. Grades</Title>
+				<Function>ACAA760</Function>
+				<Type>1</Type>
+				<Tables>JDB</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JDF</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JBR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JD7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008240</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apont. Notas</Title>
+				<Title lang="es">Apunte Notas</Title>
+				<Title lang="en">Annotate Grades</Title>
+				<Function>ACAA290</Function>
+				<Type>1</Type>
+				<Tables>JBR</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JCX</Tables>
+				<Tables>JCY</Tables>
+				<Tables>JD7</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JDF</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JBV</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JCM</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JDB</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JCG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008241</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apont. Faltas</Title>
+				<Title lang="es">Apunte Faltas</Title>
+				<Title lang="en">Annotate Absences</Title>
+				<Function>ACAA590</Function>
+				<Type>1</Type>
+				<Tables>JCH</Tables>
+				<Tables>JCG</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JCV</Tables>
+				<Tables>JCW</Tables>
+				<Tables>JD8</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JBO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008242</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrencias</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Events</Title>
+				<Function>ACAA540</Function>
+				<Type>1</Type>
+				<Tables>JBU</Tables>
+				<Tables>JC9</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008243</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Analis. Grade Cur.</Title>
+				<Title lang="es">Anal. Mapa Curric.</Title>
+				<Title lang="en">Analyze Class Sch.</Title>
+				<Function>ACAA670</Function>
+				<Type>1</Type>
+				<Tables>JCR</Tables>
+				<Tables>JCS</Tables>
+				<Tables>JCT</Tables>
+				<Tables>JBH</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAE</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JA1</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JD1</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JCL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008244</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Professor X Faltas</Title>
+				<Title lang="es">Profesor Vs. Falta</Title>
+				<Title lang="en">Teachervs. Absence</Title>
+				<Function>ACAA400</Function>
+				<Type>1</Type>
+				<Tables>JBL</Tables>
+				<Tables>JBW</Tables>
+				<Tables>JBY</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JCS</Tables>
+				<Tables>JCT</Tables>
+				<Tables>JD1</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JBH</Tables>
+				<Tables>JCL</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JCR</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JA1</Tables>
+				<Tables>JBK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008245</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Projetos</Title>
+				<Title lang="es">Proyectos</Title>
+				<Title lang="en">Projects</Title>
+				<Function>ACAA610</Function>
+				<Type>1</Type>
+				<Tables>JCI</Tables>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008246</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamento Proj.</Title>
+				<Title lang="es">Apunte Proyecto</Title>
+				<Title lang="en">Annotate Project</Title>
+				<Function>ACAA620</Function>
+				<Type>1</Type>
+				<Tables>JCI</Tables>
+				<Tables>JCJ</Tables>
+				<Tables>JDJ</Tables>
+				<Tables>SRV</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008247</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. de Famílias</Title>
+				<Title lang="es">Arch. de Familias</Title>
+				<Title lang="en">Family File</Title>
+				<Function>ACAA905</Function>
+				<Type>1</Type>
+				<Tables>JHO</Tables>
+				<Tables>JHP</Tables>
+				<Tables>JHQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008248</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Serv. Educacionais</Title>
+				<Title lang="es">Serv. Educativos</Title>
+				<Title lang="en">Educational Serv.</Title>
+				<Function>ACAA645</Function>
+				<Type>1</Type>
+				<Tables>JI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008249</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Secretaria</Title>
+			<Title lang="es">Secretaria</Title>
+			<Title lang="en">Secretary</Title>
+			<ItemID>0000008251</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Ceps</Title>
+				<Title lang="es">Archivo de Cp</Title>
+				<Title lang="en">Zip Code File</Title>
+				<Function>ACAA230</Function>
+				<Type>1</Type>
+				<Tables>JC2</Tables>
+				<Tables>JA1</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008252</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo Documentos</Title>
+				<Title lang="es">Grupo Documentos</Title>
+				<Title lang="en">Document Group</Title>
+				<Function>ACAA010</Function>
+				<Type>1</Type>
+				<Tables>JAK</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008253</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos Form. Com.</Title>
+				<Title lang="es">Grupos Form. Com.</Title>
+				<Title lang="en">Comm.mean Group</Title>
+				<Function>ACAA020</Function>
+				<Type>1</Type>
+				<Tables>JAO</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008254</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais</Title>
+				<Title lang="es">Locales</Title>
+				<Title lang="en">Locations</Title>
+				<Function>ACAA780</Function>
+				<Type>1</Type>
+				<Tables>JA3</Tables>
+				<Tables>JDI</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008255</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencäo Locais</Title>
+				<Title lang="es">Mantenim. Locales</Title>
+				<Title lang="en">Maintain Locations</Title>
+				<Function>ACAA040</Function>
+				<Type>1</Type>
+				<Tables>JA3</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JA9</Tables>
+				<Tables>JBO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008256</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos</Title>
+				<Title lang="es">Alumnos</Title>
+				<Title lang="en">Students</Title>
+				<Function>ACAA240</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JC1</Tables>
+				<Tables>JC4</Tables>
+				<Tables>JC5</Tables>
+				<Tables>JAB</Tables>
+				<Tables>JC6</Tables>
+				<Tables>TMR</Tables>
+				<Tables>JCM</Tables>
+				<Tables>JCP</Tables>
+				<Tables>JCQ</Tables>
+				<Tables>JDD</Tables>
+				<Tables>JCA</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAR</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAE</Tables>
+				<Tables>SA1</Tables>
+				<Tables>JAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008257</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Matricula Lote</Title>
+				<Title lang="es">Matricula Lote</Title>
+				<Title lang="en">Lot Registration</Title>
+				<Function>ACAA810</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JB5</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JCO</Tables>
+				<Tables>SA1</Tables>
+				<Tables>JA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008258</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Matricula Extensäo</Title>
+				<Title lang="es">Matric. Extension</Title>
+				<Title lang="en">Ext. Registration</Title>
+				<Function>ACAA880</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008259</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentacäo Aluno</Title>
+				<Title lang="es">Movimien. Alumno</Title>
+				<Title lang="en">Student Transact.</Title>
+				<Function>ACAA060</Function>
+				<Type>1</Type>
+				<Tables>JBE</Tables>
+				<Tables>JCE</Tables>
+				<Tables>JCO</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JBL</Tables>
+				<Tables>SA1</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JC7</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JC6</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JAY</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JCL</Tables>
+				<Tables>JB5</Tables>
+				<Tables>JBZ</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA5</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JC8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008260</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transf. de Sala</Title>
+				<Title lang="es">Transfer. de Sala</Title>
+				<Title lang="en">Room Transfer</Title>
+				<Function>ACAA800</Function>
+				<Type>1</Type>
+				<Tables>JBL</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JCE</Tables>
+				<Tables>JD2</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008261</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transf. de Turma</Title>
+				<Title lang="es">Transfer. de Grupo</Title>
+				<Title lang="en">Class Transfer</Title>
+				<Function>ACAA830</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JBR</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JBU</Tables>
+				<Tables>JC9</Tables>
+				<Tables>JCG</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JCN</Tables>
+				<Tables>JCV</Tables>
+				<Tables>JCW</Tables>
+				<Tables>JCX</Tables>
+				<Tables>JCY</Tables>
+				<Tables>JD7</Tables>
+				<Tables>JD8</Tables>
+				<Tables>JDB</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JAS</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAU</Tables>
+				<Tables>JAT</Tables>
+				<Tables>JD2</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JD9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008262</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transf. de Prof.</Title>
+				<Title lang="es">Transfer. de Prof.</Title>
+				<Title lang="en">Teacher Transfer</Title>
+				<Function>ACAA650</Function>
+				<Type>1</Type>
+				<Tables>JBL</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JAE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008263</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Encerramento Notas</Title>
+				<Title lang="es">Cierre de Notas</Title>
+				<Title lang="en">Grade Conclusion</Title>
+				<Function>ACAA820</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JDB</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JBR</Tables>
+				<Tables>JDF</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JD7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008264</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formação Alunos</Title>
+				<Title lang="es">Formacion Alumnos</Title>
+				<Title lang="en">Student Graduat.</Title>
+				<Function>ACAA350</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JC7</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAY</Tables>
+				<Tables>JCO</Tables>
+				<Tables>JBZ</Tables>
+				<Tables>JB5</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008265</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Pre Matricula</Title>
+				<Title lang="es">Gener Matric Prev.</Title>
+				<Title lang="en">Gen. Pre-registr.</Title>
+				<Function>ACAA480</Function>
+				<Type>1</Type>
+				<Tables>JBE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JA2</Tables>
+				<Tables>SA1</Tables>
+				<Tables>JAR</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JB5</Tables>
+				<Tables>JCC</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JCO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008266</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instituicöes</Title>
+				<Title lang="es">Instituciones</Title>
+				<Title lang="en">Institutions</Title>
+				<Function>ACAA640</Function>
+				<Type>1</Type>
+				<Tables>JCL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008267</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Externos</Title>
+				<Title lang="es">Externos</Title>
+				<Title lang="en">External</Title>
+				<Function>ACAA660</Function>
+				<Type>1</Type>
+				<Tables>JCR</Tables>
+				<Tables>JC2</Tables>
+				<Tables>JCL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008268</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Department</Title>
+				<Function>ACAA260</Function>
+				<Type>1</Type>
+				<Tables>JBJ</Tables>
+				<Tables>JBI</Tables>
+				<Tables>JCU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008269</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conf. Requerim.</Title>
+				<Title lang="es">Verif. Solicit.</Title>
+				<Title lang="en">Set Up Requisition</Title>
+				<Function>ACAA220</Function>
+				<Type>1</Type>
+				<Tables>JAK</Tables>
+				<Tables>JBF</Tables>
+				<Tables>JBG</Tables>
+				<Tables>JBJ</Tables>
+				<Tables>JC3</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SAH</Tables>
+				<Tables>JD5</Tables>
+				<Tables>JBH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008270</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requerimentos</Title>
+				<Title lang="es">Solicitudes</Title>
+				<Title lang="en">Requirement</Title>
+				<Function>ACAA410</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JBF</Tables>
+				<Tables>JBG</Tables>
+				<Tables>JBH</Tables>
+				<Tables>JBI</Tables>
+				<Tables>JBJ</Tables>
+				<Tables>JC3</Tables>
+				<Tables>SA1</Tables>
+				<Tables>JD5</Tables>
+				<Tables>JD6</Tables>
+				<Tables>SA6</Tables>
+				<Tables>JCR</Tables>
+				<Tables>JCU</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JA1</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008271</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Verif. Requerim.</Title>
+				<Title lang="es">Verif. Solicit.</Title>
+				<Title lang="en">Check Req.</Title>
+				<Function>ACAA580</Function>
+				<Type>1</Type>
+				<Tables>JBF</Tables>
+				<Tables>JBH</Tables>
+				<Tables>JC3</Tables>
+				<Tables>JBG</Tables>
+				<Tables>JBI</Tables>
+				<Tables>SB1</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008272</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faixa Etaria</Title>
+				<Title lang="es">Rango Edad</Title>
+				<Title lang="en">Age Range</Title>
+				<Function>ACAA850</Function>
+				<Type>1</Type>
+				<Tables>JB2</Tables>
+				<Tables>JB6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008273</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Intervalo de Horas</Title>
+				<Title lang="es">Intervalo de Horas</Title>
+				<Title lang="en">Hours Interval</Title>
+				<Function>ACAA870</Function>
+				<Type>1</Type>
+				<Tables>JB8</Tables>
+				<Tables>JB9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008274</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tesouraria</Title>
+			<Title lang="es">Tesoreria</Title>
+			<Title lang="en">Treasury</Title>
+			<ItemID>0000008276</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>ACAA700</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>5</Owner>
+				<ItemID>0000008277</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naturezas</Title>
+				<Title lang="es">Modalidades</Title>
+				<Title lang="en">Classes</Title>
+				<Function>FINA010</Function>
+				<Type>1</Type>
+				<Tables>SED</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>6</Owner>
+				<ItemID>0000008278</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bancos</Title>
+				<Title lang="es">Bancos</Title>
+				<Title lang="en">Banks</Title>
+				<Function>MATA070</Function>
+				<Type>1</Type>
+				<Tables>SA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>6</Owner>
+				<ItemID>0000008279</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conv. Proc. Sel.</Title>
+				<Title lang="es">Conv. Proc. Sel.</Title>
+				<Title lang="en">s a T  Call</Title>
+				<Function>ACAA030</Function>
+				<Type>1</Type>
+				<Tables>JAB</Tables>
+				<Tables>JA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008280</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bolsas</Title>
+				<Title lang="es">Becas</Title>
+				<Title lang="en">Scholarships</Title>
+				<Function>ACAA190</Function>
+				<Type>1</Type>
+				<Tables>JC4</Tables>
+				<Tables>JDD</Tables>
+				<Tables>JC5</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008281</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Par. Negociacäo</Title>
+				<Title lang="es">Param. Negociacion</Title>
+				<Title lang="en">Negot. Parameters</Title>
+				<Function>ACAA440</Function>
+				<Type>1</Type>
+				<Tables>JCD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008282</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calend. Financeiro</Title>
+				<Title lang="es">Calend. Financiero</Title>
+				<Title lang="en">Financial Schedule</Title>
+				<Function>ACAA470</Function>
+				<Type>1</Type>
+				<Tables>JCB</Tables>
+				<Tables>JCC</Tables>
+				<Tables>JB5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008283</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">C. Vigente X Fin.</Title>
+				<Title lang="es">C. Vigente Vs Fin.</Title>
+				<Title lang="en">Curr. Sched. X Fin</Title>
+				<Function>ACAA510</Function>
+				<Type>1</Type>
+				<Tables>JAR</Tables>
+				<Tables>JB5</Tables>
+				<Tables>JCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008284</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valor Disciplina</Title>
+				<Title lang="es">Valor Materia</Title>
+				<Title lang="en">Subject Value</Title>
+				<Function>ACAA740</Function>
+				<Type>1</Type>
+				<Tables>JAW</Tables>
+				<Tables>JD3</Tables>
+				<Tables>JD4</Tables>
+				<Tables>JAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008285</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Boletos</Title>
+				<Title lang="es">Genera Boletas</Title>
+				<Title lang="en">Generate Slips</Title>
+				<Function>ACAA680</Function>
+				<Type>1</Type>
+				<Tables>JBE</Tables>
+				<Tables>JC4</Tables>
+				<Tables>JC5</Tables>
+				<Tables>JCC</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBL</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JB5</Tables>
+				<Tables>SA1</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JD4</Tables>
+				<Tables>JCR</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JBA</Tables>
+				<Tables>JBH</Tables>
+				<Tables>JA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008286</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posicäo Financeira</Title>
+				<Title lang="es">Situac. Financier</Title>
+				<Title lang="en">Financial Status</Title>
+				<Function>ACAA520</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008287</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Negociacäo</Title>
+				<Title lang="es">Negociacion</Title>
+				<Title lang="en">Negotiation</Title>
+				<Function>ACAA710</Function>
+				<Type>1</Type>
+				<Tables>JCD</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>6</Owner>
+				<ItemID>0000008288</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas a Receber</Title>
+				<Title lang="es">Cuentas Por Cobrar</Title>
+				<Title lang="en">Account Receivable</Title>
+				<Function>ACAA690</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SA3</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SED</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SEV</Tables>
+				<Tables>SEA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>6</Owner>
+				<ItemID>0000008289</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferencias</Title>
+				<Title lang="es">Transferencias</Title>
+				<Title lang="en">Transfers</Title>
+				<Function>FINA060</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE5</Tables>
+				<Tables>SE8</Tables>
+				<Tables>SEA</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>6</Owner>
+				<ItemID>0000008290</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixas a Receber</Title>
+				<Title lang="es">Bajas Por Cobrar</Title>
+				<Title lang="en">Postings Receiv.</Title>
+				<Function>FINA070</Function>
+				<Type>1</Type>
+				<Tables>SE1</Tables>
+				<Tables>SE3</Tables>
+				<Tables>SE5</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SIC</Tables>
+				<Tables>SID</Tables>
+				<Tables>SES</Tables>
+				<Tables>SE8</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SA3</Tables>
+				<Tables>SD1</Tables>
+				<Tables>JBB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>6</Owner>
+				<ItemID>0000008291</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formas de Pagto</Title>
+				<Title lang="es">Formas de Pago</Title>
+				<Title lang="en">Payment Modes</Title>
+				<Function>ACAA585</Function>
+				<Type>1</Type>
+				<Tables>JF6</Tables>
+				<Tables>JF7</Tables>
+				<Tables>JI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008292</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Tit. F. Pagam</Title>
+				<Title lang="es">Gen Tít F. Pago</Title>
+				<Title lang="en">Bill Generation</Title>
+				<Function>ACAA681</Function>
+				<Type>1</Type>
+				<Tables>JBE</Tables>
+				<Tables>JC4</Tables>
+				<Tables>JC5</Tables>
+				<Tables>JCC</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBL</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JB5</Tables>
+				<Tables>SA1</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JD4</Tables>
+				<Tables>JCR</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JBA</Tables>
+				<Tables>JBH</Tables>
+				<Tables>JA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008293</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Titulos Antec</Title>
+				<Title lang="es">Gen Tit Anticip.</Title>
+				<Title lang="en">Gen. Adv. Bills</Title>
+				<Function>ACAA682</Function>
+				<Type>1</Type>
+				<Tables>JBE</Tables>
+				<Tables>JAH</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008294</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A490000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Processo Seletivo</Title>
+			<Title lang="es">Proceso de Selec.</Title>
+			<Title lang="en">s a T</Title>
+			<ItemID>0000008295</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Candidatos X Fases</Title>
+				<Title lang="es">Candid. Vs Etapas</Title>
+				<Title lang="en">Applicantvs. Stage</Title>
+				<Function>ACAC020</Function>
+				<Type>1</Type>
+				<Tables>JA6</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAV</Tables>
+				<Tables>JA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008296</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Academico</Title>
+			<Title lang="es">Academico</Title>
+			<Title lang="en">Academic</Title>
+			<ItemID>0000008298</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Historico do Aluno</Title>
+				<Title lang="es">Historial Alumno</Title>
+				<Title lang="en">Student History</Title>
+				<Function>ACAC010</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JB5</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JC6</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAE</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JDA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008299</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manut. Reservas</Title>
+				<Title lang="es">Mant. Reservas</Title>
+				<Title lang="en">Res. Maintenance</Title>
+				<Function>ACAA330</Function>
+				<Type>1</Type>
+				<Tables>JAF</Tables>
+				<Tables>JBH</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008300</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vagas Turm. Disc.</Title>
+				<Title lang="es">Vac. Grupo Mat.</Title>
+				<Title lang="en">Class/subj. Vacan.</Title>
+				<Function>ACAA530</Function>
+				<Type>1</Type>
+				<Tables>JBO</Tables>
+				<Tables>JCE</Tables>
+				<Tables>JBK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008301</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Notas Med. Final</Title>
+				<Title lang="es">Notas Prom Final</Title>
+				<Title lang="en">Final Aver. Grade</Title>
+				<Function>ACAC030</Function>
+				<Type>1</Type>
+				<Tables>JBQ</Tables>
+				<Tables>JBR</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JDA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008302</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Notas Med. Aluno</Title>
+				<Title lang="es">Notas Prom Alum</Title>
+				<Title lang="en">Stud. Aver. Grade</Title>
+				<Function>ACAC050</Function>
+				<Type>1</Type>
+				<Tables>JBE</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JBR</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JDA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008303</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grade Aulas Prof.</Title>
+				<Title lang="es">Horar Clases Prof.</Title>
+				<Title lang="en">Teacher Class Sch.</Title>
+				<Function>ACAC040</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBL</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008304</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A490000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Processo Seletivo</Title>
+			<Title lang="es">Proceso de Selec.</Title>
+			<Title lang="en">Selection Process</Title>
+			<ItemID>0000008305</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classificados</Title>
+				<Title lang="es">Clasificados</Title>
+				<Title lang="en">Approved</Title>
+				<Function>ACAR020</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008306</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Candidatos Sala</Title>
+				<Title lang="es">Candidatos Aula</Title>
+				<Title lang="en">Room Applicants</Title>
+				<Function>ACAR030</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008307</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Candidatos</Title>
+				<Title lang="es">Candidatos</Title>
+				<Title lang="en">Applicants</Title>
+				<Function>ACAR040</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008308</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista Assinaturas</Title>
+				<Title lang="es">Lista Firmas</Title>
+				<Title lang="en">Signature List</Title>
+				<Function>ACAR050</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008309</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classific. Curso</Title>
+				<Title lang="es">Clasif. Curso</Title>
+				<Title lang="en">Course Classif.</Title>
+				<Function>ACAR060</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAV</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008310</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Insc. Proc. Sel.</Title>
+				<Title lang="es">Insc. Proc. Sel.</Title>
+				<Title lang="en">s a T  Registr.</Title>
+				<Function>ACAR080</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008311</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processo Seletivo</Title>
+				<Title lang="es">Proc de Seleccion</Title>
+				<Title lang="en">s a T</Title>
+				<Function>ACAR090</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008312</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estat. Inscritos</Title>
+				<Title lang="es">Estadist. Inscrito</Title>
+				<Title lang="en">Subscr. Statistics</Title>
+				<Function>ACAR770</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAP</Tables>
+				<Tables>SE1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008313</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estat. Inscr. Sexo</Title>
+				<Title lang="es">Estad Inscr Sexo</Title>
+				<Title lang="en">Subsc.static.p/gen</Title>
+				<Function>ACAR610</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008314</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cand. Sem Gabarito</Title>
+				<Title lang="es">Cand. Sin Soluc.</Title>
+				<Title lang="en">Cand.w/o Ans Sheet</Title>
+				<Function>ACAR640</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JAP</Tables>
+				<Tables>JA9</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008315</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gabarito Redacäo</Title>
+				<Title lang="es">Soluc. Redaccion</Title>
+				<Title lang="en">Essay Ans. Sheet</Title>
+				<Function>GABRED</Function>
+				<Type>3</Type>
+				<Tables>JAV</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JA1</Tables>
+				<Tables>JAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008316</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gabarito Respostas</Title>
+				<Title lang="es">Soluc. Respuestas</Title>
+				<Title lang="en">Answer Sheet</Title>
+				<Function>GABRESP</Function>
+				<Type>3</Type>
+				<Tables>JAV</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JA1</Tables>
+				<Tables>JAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008317</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiquetas Matric.</Title>
+				<Title lang="es">Etiq. Matriculas</Title>
+				<Title lang="en">Registr. Labels</Title>
+				<Function>ACAR010</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA2</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008318</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Academico</Title>
+			<Title lang="es">Academico</Title>
+			<Title lang="en">Academic</Title>
+			<ItemID>0000008320</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vagas Lista Espera</Title>
+				<Title lang="es">Vac. Lista Espera</Title>
+				<Title lang="en">Waiting List Vac.</Title>
+				<Function>ACAR950</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBB</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JBO</Tables>
+				<Tables>SE1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008321</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Presenca</Title>
+				<Title lang="es">Lista Presencia</Title>
+				<Title lang="en">Roll</Title>
+				<Function>ACAR200</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JCM</Tables>
+				<Tables>JAG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008322</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formandos</Title>
+				<Title lang="es">Graduandos</Title>
+				<Title lang="en">Seniors</Title>
+				<Function>ACAR210</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008323</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grade Curricular</Title>
+				<Title lang="es">Mapa Curricular</Title>
+				<Title lang="en">Curricular Grid</Title>
+				<Function>ACAR220</Function>
+				<Type>1</Type>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008324</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Horarios</Title>
+				<Title lang="es">Horarios</Title>
+				<Title lang="en">Timetables</Title>
+				<Function>ACAR230</Function>
+				<Type>1</Type>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008325</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos</Title>
+				<Title lang="es">Alumnos</Title>
+				<Title lang="en">Students</Title>
+				<Function>ACAR250</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBK</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JAG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008326</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Ensino</Title>
+				<Title lang="es">Plan de Ensenanza</Title>
+				<Title lang="en">Teaching Plan</Title>
+				<Function>ACAR260</Function>
+				<Type>1</Type>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAU</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JBV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008327</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Boletim</Title>
+				<Title lang="es">Boletin</Title>
+				<Title lang="en">Report Card</Title>
+				<Function>ACAR270</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JA3</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JDF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008328</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Historico Aluno</Title>
+				<Title lang="es">Historial Alum.</Title>
+				<Title lang="en">Student History</Title>
+				<Function>SECR002</Function>
+				<Type>3</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008329</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Reprovados</Title>
+				<Title lang="es">Alum Reprob.</Title>
+				<Title lang="en">Failed Students</Title>
+				<Function>ACAR520</Function>
+				<Type>1</Type>
+				<Tables>JCE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008330</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos/adaptação</Title>
+				<Title lang="es">Alumnos/ Adaptac.</Title>
+				<Title lang="en">Students/adapt.</Title>
+				<Function>ACAR575</Function>
+				<Type>1</Type>
+				<Tables>JCE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008331</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prof Sem Lanc Nota</Title>
+				<Title lang="es">Prof Sin Reg Nota</Title>
+				<Title lang="en">Teach.w/o Grad.ent</Title>
+				<Function>ACAR780</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JAE</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JBR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008332</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faltas Professor</Title>
+				<Title lang="es">Faltas Profesor</Title>
+				<Title lang="en">Teacher Absence</Title>
+				<Function>ACAR570</Function>
+				<Type>1</Type>
+				<Tables>JBW</Tables>
+				<Tables>JBY</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008333</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alocacäo Professor</Title>
+				<Title lang="es">Asig Profesor</Title>
+				<Title lang="en">Teacher Allocat.</Title>
+				<Function>ACAR580</Function>
+				<Type>1</Type>
+				<Tables>JBK</Tables>
+				<Tables>JBL</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JCJ</Tables>
+				<Tables>JCI</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008334</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Disc Pre Req Equiv</Title>
+				<Title lang="es">Mat Pre Req Equiv</Title>
+				<Title lang="en">Equiv.pre-req.desc</Title>
+				<Function>ACAR690</Function>
+				<Type>1</Type>
+				<Tables>JAR</Tables>
+				<Tables>JAY</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JBZ</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JC8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008335</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acäo Judic. Alunos</Title>
+				<Title lang="es">Acc. Judic. Alum.</Title>
+				<Title lang="en">Student Under Lega</Title>
+				<Function>ACAR700</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008336</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diario de Classe</Title>
+				<Title lang="es">Diario de Clase</Title>
+				<Title lang="en">Roll Call</Title>
+				<Function>ACADIA</Function>
+				<Type>3</Type>
+				<Tables>JA2</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JBV</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JDC</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JCH</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JA4</Tables>
+				<Tables>JA5</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JDF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008337</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiq. Endereco</Title>
+				<Title lang="es">Etiq. Direccion</Title>
+				<Title lang="en">Address Label</Title>
+				<Function>ACAR710</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008338</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Por Idade</Title>
+				<Title lang="es">Alum. Por Edad</Title>
+				<Title lang="en">Student Per Age</Title>
+				<Function>ACAR470</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JCK</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JC7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008339</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Por Servico</Title>
+				<Title lang="es">Alumnos Por Serv.</Title>
+				<Title lang="en">Student Per Serv.</Title>
+				<Function>ACAR665</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JIG</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JF6</Tables>
+				<Tables>JIE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proj. Resolucäo Dp</Title>
+				<Title lang="es">Proy Res Mat Rep</Title>
+				<Title lang="en">Res.proj.fail.subj</Title>
+				<Function>ACAR620</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008341</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resolucäo Dp</Title>
+				<Title lang="es">Resol. Mat. Reprob</Title>
+				<Title lang="en">Failed Subj. Resol</Title>
+				<Function>ACAR630</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBE</Tables>
+				<Tables>SE1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008342</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regime Domiciliar</Title>
+				<Title lang="es">Regimen Domiciliar</Title>
+				<Title lang="en">Home Schooling</Title>
+				<Function>ACAR720</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JCM</Tables>
+				<Tables>JA2</Tables>
+				<Tables>TMR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008343</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hist. Alter. Notas</Title>
+				<Title lang="es">Hist Mod Notas</Title>
+				<Title lang="en">Grades Hist. Edit.</Title>
+				<Function>ACAR790</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JD7</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JDA</Tables>
+				<Tables>JA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008344</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Cursos Dp</Title>
+				<Title lang="es">Alum Curs Mat Repr</Title>
+				<Title lang="en">Student X Failed s</Title>
+				<Function>ACAR920</Function>
+				<Type>1</Type>
+				<Tables>JAR</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAE</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JBL</Tables>
+				<Tables>SE1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008345</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Jubilados</Title>
+				<Title lang="es">Alum C Plazo Exced</Title>
+				<Title lang="en">Discont.student</Title>
+				<Function>ACAR800</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008346</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bolsas Concedidas</Title>
+				<Title lang="es">Becas Concedidas</Title>
+				<Title lang="en">Grant Scholarship</Title>
+				<Function>ACAR070</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC5</Tables>
+				<Tables>JC4</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008347</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrencias</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Occurrences</Title>
+				<Function>ACAR100</Function>
+				<Type>1</Type>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBU</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008348</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Doctos. Pendentes</Title>
+				<Title lang="es">Doc. Pendientes</Title>
+				<Title lang="en">Pending Document</Title>
+				<Function>ACAR110</Function>
+				<Type>1</Type>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008349</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requerimentos</Title>
+				<Title lang="es">Solicitudes</Title>
+				<Title lang="en">Requirement</Title>
+				<Function>ACAR120</Function>
+				<Type>1</Type>
+				<Tables>JBH</Tables>
+				<Tables>JBF</Tables>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008350</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato Financeiro</Title>
+				<Title lang="es">Extracto Financ.</Title>
+				<Title lang="en">Financialstatement</Title>
+				<Function>ACAR590</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC5</Tables>
+				<Tables>JC4</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JDK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008351</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Mat.x Curso</Title>
+				<Title lang="es">Alum Mat Vs Curso</Title>
+				<Title lang="en">Enrol.studs.xcours</Title>
+				<Function>ACAR970</Function>
+				<Type>1</Type>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008352</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Rep. Disci</Title>
+				<Title lang="es">Alum Repro Materia</Title>
+				<Title lang="en">Student Repeat Dis</Title>
+				<Function>ACAR990</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008353</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aulas X Materiais</Title>
+				<Title lang="es">Clases Vs Material</Title>
+				<Title lang="en">Classes Vsmaterial</Title>
+				<Function>ACAR980</Function>
+				<Type>1</Type>
+				<Tables>JEG</Tables>
+				<Tables>JD2</Tables>
+				<Tables>JAH</Tables>
+				<Tables>SB1</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JDK</Tables>
+				<Tables>SRA</Tables>
+				<Tables>JAE</Tables>
+				<Tables>SCP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008354</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Famílias</Title>
+				<Title lang="es">Familias</Title>
+				<Title lang="en">Families</Title>
+				<Function>ACAR905</Function>
+				<Type>1</Type>
+				<Tables>JHO</Tables>
+				<Tables>JHP</Tables>
+				<Tables>JHQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008355</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato Familiar</Title>
+				<Title lang="es">Extracto Familia</Title>
+				<Title lang="en">Family Statement</Title>
+				<Function>ACAR901</Function>
+				<Type>1</Type>
+				<Tables>JHO</Tables>
+				<Tables>JHP</Tables>
+				<Tables>JHQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008356</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha Fin Famíliar</Title>
+				<Title lang="es">Ficha Fin Familiar</Title>
+				<Title lang="en">Family Fin Card</Title>
+				<Function>ACAR591</Function>
+				<Type>1</Type>
+				<Tables>JHO</Tables>
+				<Tables>JHP</Tables>
+				<Tables>JHQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008357</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hist.escolar-ens.</Title>
+				<Title lang="es">Cert. de Estudios</Title>
+				<Title lang="en">School Hist.-ens.</Title>
+				<Function>SECR037</Function>
+				<Type>3</Type>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008358</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Matrícula</Title>
+				<Title lang="es">Ficha de Matricula</Title>
+				<Title lang="en">Registration Card</Title>
+				<Function>ACAR240</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008359</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ata de Resultados</Title>
+				<Title lang="es">Acta de Resultados</Title>
+				<Title lang="en">Result List</Title>
+				<Function>ACAR635</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008360</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Situação Geral</Title>
+				<Title lang="es">Situacion General</Title>
+				<Title lang="en">General Status</Title>
+				<Function>ACAR645</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008361</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Estatisticos</Title>
+			<Title lang="es">Estadisticas</Title>
+			<Title lang="en">Statistics</Title>
+			<ItemID>0000008363</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Disciplinas</Title>
+				<Title lang="es">Alum Materias</Title>
+				<Title lang="en">Subject Students</Title>
+				<Function>ACAR460</Function>
+				<Type>1</Type>
+				<Tables>JCE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JBO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008364</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reprovados Discip.</Title>
+				<Title lang="es">Reprobados Mat</Title>
+				<Title lang="en">Subject Failures</Title>
+				<Function>ACAR480</Function>
+				<Type>1</Type>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008365</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Curso</Title>
+				<Title lang="es">Alumnos Curso</Title>
+				<Title lang="en">Course Students</Title>
+				<Function>ACAR500</Function>
+				<Type>1</Type>
+				<Tables>JCE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008366</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Matriculad.</Title>
+				<Title lang="es">Alum. Matric.</Title>
+				<Title lang="en">Enrolled Student</Title>
+				<Function>ACAR510</Function>
+				<Type>1</Type>
+				<Tables>JCE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JBK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008367</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Sem Notas</Title>
+				<Title lang="es">Alum Sin Notas</Title>
+				<Title lang="en">Student W/o Grade</Title>
+				<Function>ACAR670</Function>
+				<Type>1</Type>
+				<Tables>JAR</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBS</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JBQ</Tables>
+				<Tables>JA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008368</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Iqcd - Idcd</Title>
+				<Title lang="es">Iqcd - Idcd</Title>
+				<Title lang="en">I Q C d - I d C d</Title>
+				<Function>ACAR680</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008369</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Presenca</Title>
+				<Title lang="es">Presencia</Title>
+				<Title lang="en">Attendance</Title>
+				<Function>ACAR810</Function>
+				<Type>1</Type>
+				<Tables>JCG</Tables>
+				<Tables>JCH</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008370</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Turmas X Vagas</Title>
+				<Title lang="es">Grupos Vs Vacan.</Title>
+				<Title lang="en">Classvs. Vacancies</Title>
+				<Function>ACAR930</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JC7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008371</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moviment. Alunos</Title>
+				<Title lang="es">Movim Alumnos</Title>
+				<Title lang="en">Student Transact.</Title>
+				<Function>ACAR940</Function>
+				<Type>1</Type>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008372</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bolsas</Title>
+				<Title lang="es">Becas</Title>
+				<Title lang="en">Scholarships</Title>
+				<Function>ACAR960</Function>
+				<Type>1</Type>
+				<Tables>JC4</Tables>
+				<Tables>JA2</Tables>
+				<Tables>SE1</Tables>
+				<Tables>JC5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008373</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Kit Matr. Rematr.</Title>
+			<Title lang="es">Kit Matr. Rematr</Title>
+			<Title lang="en">Re-registr. Kit</Title>
+			<ItemID>0000008375</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contrato</Title>
+				<Title lang="es">Contrato</Title>
+				<Title lang="en">Contract</Title>
+				<Function>ACAR300</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JC1</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008376</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requerimento</Title>
+				<Title lang="es">Solicitud</Title>
+				<Title lang="en">Requirement</Title>
+				<Function>ACAR290</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JC1</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008377</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calendario</Title>
+				<Title lang="es">Calendario</Title>
+				<Title lang="en">Schedule</Title>
+				<Function>ACAR440</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JCC</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JB5</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008378</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Circular</Title>
+				<Title lang="es">Circular</Title>
+				<Title lang="en">Circular</Title>
+				<Function>ACAR390</Function>
+				<Type>1</Type>
+				<Tables>JB5</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008379</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiquetas Kit Mat.</Title>
+				<Title lang="es">Etiq. Kit Mat.</Title>
+				<Title lang="en">Mat Kit Labels</Title>
+				<Function>ACAR310</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JA8</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAX</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008380</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Censo</Title>
+			<Title lang="es">Censo</Title>
+			<Title lang="en">Census</Title>
+			<ItemID>0000008382</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distribuicäo Vagas</Title>
+				<Title lang="es">Distr. Vacantes</Title>
+				<Title lang="en">Vacancy Distribut.</Title>
+				<Function>ACAR820</Function>
+				<Type>1</Type>
+				<Tables>JA6</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JA7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008383</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distr Cand/alu Nov</Title>
+				<Title lang="es">Dist Cand/ Alum Nu</Title>
+				<Title lang="en">Cand/new Stud.dist</Title>
+				<Function>ACAR830</Function>
+				<Type>1</Type>
+				<Tables>JAR</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008384</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perda de Alunos</Title>
+				<Title lang="es">Perdida Alumnos</Title>
+				<Title lang="en">Student Loss</Title>
+				<Function>ACAR840</Function>
+				<Type>1</Type>
+				<Tables>JAR</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008385</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Trancados</Title>
+				<Title lang="es">Alum Curs Interrum</Title>
+				<Title lang="en">Break Study Stud.</Title>
+				<Function>ACAR850</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008386</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distr Candidatos</Title>
+				<Title lang="es">Distr. Candidatos</Title>
+				<Title lang="en">Applicant Distr.</Title>
+				<Function>ACAR860</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JA7</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008387</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distr Alunos Novos</Title>
+				<Title lang="es">Dist Alum. Nuevos</Title>
+				<Title lang="en">New Stud.distr.</Title>
+				<Function>ACAR870</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JB2</Tables>
+				<Tables>JB6</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008388</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Total Alunos Curso</Title>
+				<Title lang="es">Total Alum Curso</Title>
+				<Title lang="en">Stud/course Total</Title>
+				<Function>ACAR880</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JB8</Tables>
+				<Tables>JB9</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008389</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Concluintes</Title>
+				<Title lang="es">Alum. Concluyentes</Title>
+				<Title lang="en">Senior Students</Title>
+				<Function>ACAR890</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JB8</Tables>
+				<Tables>JB9</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JA3</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008390</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alunos Hrs Seman.</Title>
+				<Title lang="es">Alum H Semanales</Title>
+				<Title lang="en">Sudent/weekly Hr</Title>
+				<Function>ACAR900</Function>
+				<Type>1</Type>
+				<Tables>JA2</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JB8</Tables>
+				<Tables>JB9</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008391</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A490000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Novas Func.</Title>
+			<Title lang="es">Nuevas Func.</Title>
+			<Title lang="en">New Functional.</Title>
+			<ItemID>0000008392</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integr.ge X Fiscal</Title>
+				<Title lang="es">Int. Ge Vs Fiscal</Title>
+				<Title lang="en">Integr. Ge Vs. Tax</Title>
+				<Function>ACAM080</Function>
+				<Type>1</Type>
+				<Tables>JJ1</Tables>
+				<Tables>JJ2</Tables>
+				<Tables>JJ3</Tables>
+				<Tables>JJ4</Tables>
+				<Tables>JJ5</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SB1</Tables>
+				<Tables>JA2</Tables>
+				<Tables>JAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008393</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Visibilidade</Title>
+			<Title lang="es">Visibilidad</Title>
+			<Title lang="en">Visibility</Title>
+			<ItemID>0000008394</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Segmentos</Title>
+				<Title lang="es">Arch. Segmentos</Title>
+				<Title lang="en">Segment File</Title>
+				<Function>ACAM050</Function>
+				<Type>1</Type>
+				<Tables>JA3</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAF</Tables>
+				<Tables>JAG</Tables>
+				<Tables>JAK</Tables>
+				<Tables>JBJ</Tables>
+				<Tables>JCR</Tables>
+				<Tables>JHC</Tables>
+				<Tables>JHD</Tables>
+				<Tables>JHE</Tables>
+				<Tables>JHF</Tables>
+				<Tables>JHG</Tables>
+				<Tables>JHH</Tables>
+				<Tables>JHI</Tables>
+				<Tables>JHJ</Tables>
+				<Tables>JHN</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008395</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Seleção Segmentos</Title>
+				<Title lang="es">Selecc. Segmentos</Title>
+				<Title lang="en">Segment Selection</Title>
+				<Function>ACAM060</Function>
+				<Type>1</Type>
+				<Tables>JHC</Tables>
+				<Tables>JHD</Tables>
+				<Tables>JHE</Tables>
+				<Tables>JHF</Tables>
+				<Tables>JHG</Tables>
+				<Tables>JHH</Tables>
+				<Tables>JHI</Tables>
+				<Tables>JHJ</Tables>
+				<Tables>JHN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008396</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Interfaces</Title>
+			<Title lang="es">Interfases</Title>
+			<Title lang="en">Interfaces</Title>
+			<ItemID>0000008397</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Import. Gabarito</Title>
+				<Title lang="es">Import. Solucion.</Title>
+				<Title lang="en">Import Answerkey</Title>
+				<Function>ACAA310</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JAE</Tables>
+				<Tables>JAM</Tables>
+				<Tables>JAP</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JAN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008398</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Import. Redacao</Title>
+				<Title lang="es">Import Redac.</Title>
+				<Title lang="en">Import Essay</Title>
+				<Function>ACAA720</Function>
+				<Type>1</Type>
+				<Tables>JA1</Tables>
+				<Tables>JA6</Tables>
+				<Tables>JAA</Tables>
+				<Tables>JAP</Tables>
+				<Tables>JAI</Tables>
+				<Tables>JAM</Tables>
+				<Tables>JA8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008399</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dig. Historico</Title>
+				<Title lang="es">Dig. Historial</Title>
+				<Title lang="en">Type History</Title>
+				<Function>ACAA500</Function>
+				<Type>1</Type>
+				<Tables>JGL</Tables>
+				<Tables>JGM</Tables>
+				<Tables>FJA</Tables>
+				<Tables>HJA</Tables>
+				<Tables>SJB</Tables>
+				<Tables>EJC</Tables>
+				<Tables>HJC</Tables>
+				<Tables>GJD</Tables>
+				<Tables>EJA</Tables>
+				<Tables>DJB</Tables>
+				<Tables>VJB</Tables>
+				<Tables>NJA</Tables>
+				<Tables>O</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008400</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Recalculos</Title>
+			<Title lang="es">Nuevos Calculos</Title>
+			<Title lang="en">Recalculations</Title>
+			<ItemID>0000008402</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acumuladores Vagas</Title>
+				<Title lang="es">Acumul. Vacantes</Title>
+				<Title lang="en">Vacancy Accru.</Title>
+				<Function>ACAM010</Function>
+				<Type>1</Type>
+				<Tables>JAF</Tables>
+				<Tables>JAH</Tables>
+				<Tables>JAR</Tables>
+				<Tables>JBO</Tables>
+				<Tables>JCE</Tables>
+				<Tables>JC7</Tables>
+				<Tables>JBL</Tables>
+				<Tables>JAS</Tables>
+				<Tables>JBM</Tables>
+				<Tables>JBE</Tables>
+				<Tables>JA5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008403</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Nº Chamada</Title>
+				<Title lang="es">Genera Nº Llamada</Title>
+				<Title lang="en">Generate Roll No.</Title>
+				<Function>ACAA890</Function>
+				<Type>1</Type>
+				<Tables>JBO</Tables>
+				<Tables>JBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008404</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Arquivamento</Title>
+			<Title lang="es">Archivo</Title>
+			<Title lang="en">Filing</Title>
+			<ItemID>0000008406</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Arquivos</Title>
+				<Title lang="es">Gener. Archivos</Title>
+				<Title lang="en">Generate Files</Title>
+				<Function>ACAM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008407</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importar Arquivos</Title>
+				<Title lang="es">Importar Arch.</Title>
+				<Title lang="en">Import Files</Title>
+				<Function>ACAM030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008408</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilhas Excel</Title>
+				<Title lang="es">Planillas Excel</Title>
+				<Title lang="en">Excel Worksheets</Title>
+				<Function>APEXCEL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>49</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008410</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B490000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B490000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

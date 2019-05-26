@@ -1,0 +1,1004 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAPRA</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A600000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Consulta Rfb</Title>
+			<Title lang="es">Consulta Rfb</Title>
+			<Title lang="en">Rfb Query</Title>
+			<ItemID>0000015162</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Loc. Doc. Sistema</Title>
+				<Title lang="es">Loc. Doc. Sistema</Title>
+				<Title lang="en">System Doc. Loc.</Title>
+				<Function>PRAA900</Function>
+				<Type>1</Type>
+				<Tables>DBO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015167</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Param. Cons. Din.</Title>
+				<Title lang="es">Param. Cons. Din.</Title>
+				<Title lang="en">Dyn. Query Param.</Title>
+				<Function>PRAA901</Function>
+				<Type>1</Type>
+				<Tables>DBP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015188</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sql Dinamico</Title>
+				<Title lang="es">Sql Dinamico</Title>
+				<Title lang="en">Dynamic Sql</Title>
+				<Function>PRAA902</Function>
+				<Type>1</Type>
+				<Tables>DBQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015189</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mensagens Rfb</Title>
+				<Title lang="es">Mensajes Rfb</Title>
+				<Title lang="en">Rfb Messages</Title>
+				<Function>PRAA903</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023468</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Agendamento</Title>
+			<Title lang="es">Programacion</Title>
+			<Title lang="en">Schedule</Title>
+			<ItemID>0000015190</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registro de Documentos</Title>
+				<Title lang="es">Registro Documento</Title>
+				<Title lang="en">Documents Record</Title>
+				<Function>PRAA806</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019798</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contêineres</Title>
+				<Title lang="es">Containeres</Title>
+				<Title lang="en">Containers</Title>
+				<Function>PRAA807</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020090</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Viagem Ferroviária</Title>
+				<Title lang="es">Viaje Ferroviaria</Title>
+				<Title lang="en">Train Trip</Title>
+				<Function>PRAA804</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019797</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ag. de Veículos</Title>
+				<Title lang="es">Ag. de Vehiculos</Title>
+				<Title lang="en">Veh Ag.</Title>
+				<Function>PRAA802</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015191</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Virtualização</Title>
+			<Title lang="es">Virtualizacion</Title>
+			<Title lang="en">Virtualization</Title>
+			<ItemID>0000015194</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status</Title>
+				<Title lang="es">Estatus</Title>
+				<Title lang="en">Status</Title>
+				<Function>PRAA860</Function>
+				<Type>1</Type>
+				<Tables>DBR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015195</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Célula</Title>
+				<Title lang="es">Tipo de Celda</Title>
+				<Title lang="en">Cell Type</Title>
+				<Function>PRAA861</Function>
+				<Type>1</Type>
+				<Tables>DBS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015196</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sistema</Title>
+				<Title lang="es">Sistema</Title>
+				<Title lang="en">System</Title>
+				<Function>PRAA862</Function>
+				<Type>1</Type>
+				<Tables>DBT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015197</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Virtualização</Title>
+				<Title lang="es">Virtualización</Title>
+				<Title lang="en">Virtualization</Title>
+				<Function>PRAA863</Function>
+				<Type>1</Type>
+				<Tables>DBU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015198</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parametros de Pesq</Title>
+				<Title lang="es">Parametros de Busq</Title>
+				<Title lang="en">Search Parameters</Title>
+				<Function>PRAA864</Function>
+				<Type>1</Type>
+				<Tables>DBV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015199</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Chaves Primarias</Title>
+				<Title lang="es">Claves Primarias</Title>
+				<Title lang="en">Primary Keys</Title>
+				<Function>PRAA865</Function>
+				<Type>1</Type>
+				<Tables>DBW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015200</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Sistema</Title>
+			<Title lang="es">Sistema</Title>
+			<Title lang="en">System</Title>
+			<ItemID>0000016928</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perm. de Acesso</Title>
+				<Title lang="es">Perm. de Acceso</Title>
+				<Title lang="en">Access Permit</Title>
+				<Function>PRAA805</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016929</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A600000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Consulta Rfb</Title>
+			<Title lang="es">Consulta Rfb</Title>
+			<Title lang="en">Rfb Query</Title>
+			<ItemID>0000015202</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.1 Cons. Dinamica</Title>
+				<Title lang="es">2.1 Cons. Dinamica</Title>
+				<Title lang="en">2.1 Dynamic Query</Title>
+				<Function>PRAC904</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015205</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">2.2.3 Ext. Cons.</Title>
+			<Title lang="es">2.2.3 Ext. Cons.</Title>
+			<Title lang="en">2.2.3 Query Stat.</Title>
+			<ItemID>0000015207</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.1 Ent/sai Pessoa</Title>
+				<Title lang="es">1.1 Ent/sale Pers.</Title>
+				<Title lang="en">1.1 Arriv/dep. Person</Title>
+				<Function>PRAC907</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020481</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.2 Ent/sai. Veic</Title>
+				<Title lang="es">1.2 Ent/sale Vehíc</Title>
+				<Title lang="en">1.2 Arriv/dep. Vehic</Title>
+				<Function>PRAC908</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020482</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.3 Ent/sai. Lote</Title>
+				<Title lang="es">1.3 Ent/sale Lote</Title>
+				<Title lang="en">1.3 Lot Infl/outfl.</Title>
+				<Function>PRAC909</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020483</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.4 Relação Nf.</Title>
+				<Title lang="es">1.4 Lista Factura</Title>
+				<Title lang="en">1.4 Invoice List</Title>
+				<Function>PRAC910</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020484</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.5 Carg. Não Des.</Title>
+				<Title lang="es">1.5 Carga No Des.</Title>
+				<Title lang="en">1.5 Load Not Unl</Title>
+				<Function>PRAC911</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020485</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.6 Desunit. Carga</Title>
+				<Title lang="es">1.6 Desunit. Carga</Title>
+				<Title lang="en">1.6 Load Deunit.</Title>
+				<Function>PRAC912</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020486</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.7 Unitiz. Carga</Title>
+				<Title lang="es">1.7 Unitiz. Carga</Title>
+				<Title lang="en">1.7 Load Unitiz.</Title>
+				<Function>PRAC913</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020487</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.8 Con/des. Carga</Title>
+				<Title lang="es">1.8 Con/des. Carga</Title>
+				<Title lang="en">1.8 Load Con/des.</Title>
+				<Function>PRAC914</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020488</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.9 Transf. Arm.</Title>
+				<Title lang="es">1.9 Transf. Alm.</Title>
+				<Title lang="en">1.9 Wareh. Transf.</Title>
+				<Function>PRAC915</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020489</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.10 Mud. Sit. Adn</Title>
+				<Title lang="es">1.10 Camb. Sit. Ad</Title>
+				<Title lang="en">1.10 Change Adn Status</Title>
+				<Function>PRAC916</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020490</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.10a Sit. Lote</Title>
+				<Title lang="es">1.10a Sit. Lote</Title>
+				<Title lang="en">1.10a Lot Status</Title>
+				<Function>PRAC917</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020491</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.11 Rtm</Title>
+				<Title lang="es">1.11 Rtm</Title>
+				<Title lang="en">1.11 Rtm</Title>
+				<Function>PRAC918</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020492</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.20 Mud. Reg. Adn</Title>
+				<Title lang="es">1.20 Camb. Reg. Ad</Title>
+				<Title lang="en">1.20 Adn Reg. Change</Title>
+				<Function>PRAC941</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020496</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">1.23 Reg. Avarias</Title>
+				<Title lang="es">1.23 Reg. Averías</Title>
+				<Title lang="en">1.23 Damages Rec.</Title>
+				<Function>PRAC919</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020494</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.2.4 Nota Fiscal</Title>
+				<Title lang="es">2.2.4 Factura</Title>
+				<Title lang="en">2.2.4 Invoice</Title>
+				<Function>PRAC920</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015208</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.2.5 Mov. Pessoas</Title>
+				<Title lang="es">2.2.5 Mov. Persona</Title>
+				<Title lang="en">2.2.5 People Flow</Title>
+				<Function>PRAC921</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015210</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.2.6 Mov.vei.cont</Title>
+				<Title lang="es">2.2.6 Mov.veh.cont</Title>
+				<Title lang="en">2.2.6 Cont.veh.fl.</Title>
+				<Function>PRAC922</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015211</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.2.7 Mov. Lotes</Title>
+				<Title lang="es">2.2.7 Mov. Lotes</Title>
+				<Title lang="en">2.2.7 Lot Flow</Title>
+				<Function>PRAC923</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015214</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.2.8 Desunit.</Title>
+				<Title lang="es">2.2.8 Desunit.</Title>
+				<Title lang="en">2.2.8 Separation</Title>
+				<Function>PRAC924</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015215</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.2.9 Permanencia</Title>
+				<Title lang="es">2.2.9 Permanencia</Title>
+				<Title lang="en">2.2.9 Permanence</Title>
+				<Function>PRAC925</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015216</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.2.10 Mov. Carga</Title>
+				<Title lang="es">2.2.10 Mov. Carga</Title>
+				<Title lang="en">2.2.10 Load Flow</Title>
+				<Function>PRAC926</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015217</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.2.14 Cons. Seq.</Title>
+				<Title lang="es">2.2.14 Cons. Sec.</Title>
+				<Title lang="en">2.2.14 Seq. Query</Title>
+				<Function>PRAC927</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015218</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.15 Tab. Sist.</Title>
+				<Title lang="es">2.15 Tab. Sist.</Title>
+				<Title lang="en">2.15 Syst. Tb.</Title>
+				<Function>PRAC928</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015219</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.17 Caixa Msg.</Title>
+				<Title lang="es">2.17 Caja Msj.</Title>
+				<Title lang="en">2.17 Msg Box</Title>
+				<Function>PRAC942</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019251</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.18 A) Log Sist</Title>
+				<Title lang="es">2.18 A) Log Sist</Title>
+				<Title lang="en">2.18 A) Syst. Log</Title>
+				<Function>PRAC929</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015220</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.18 B) Log Alt</Title>
+				<Title lang="es">2.18 B) Log Alt</Title>
+				<Title lang="en">2.18 B) Ch. Log</Title>
+				<Function>PRAC930</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015221</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.18 C) Per. Acess</Title>
+				<Title lang="es">2.18 C) Per. Acces</Title>
+				<Title lang="en">2.18 C) Access Per</Title>
+				<Function>PRAC931</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015222</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.18 C) Relatório</Title>
+				<Title lang="es">2.18 C) Informe</Title>
+				<Title lang="en">2.18 C) Report</Title>
+				<Function>PRAC932</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015223</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.18 D) Log Aces</Title>
+				<Title lang="es">2.18 D) Log Acces</Title>
+				<Title lang="en">2.18 D) Access Log</Title>
+				<Function>PRAC933</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015224</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.18 E) Doc. Fis</Title>
+				<Title lang="es">2.18 E) Doc. Fis</Title>
+				<Title lang="en">2.18 E) Phys. Doc.</Title>
+				<Function>PRAC934</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015225</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">2.18 F) Log Web</Title>
+				<Title lang="es">2.18 F) Log Web</Title>
+				<Title lang="en">2.18 F) Web Log</Title>
+				<Function>CFGX047</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015226</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Doc. Sistema</Title>
+				<Title lang="es">Doc. Sistema</Title>
+				<Title lang="en">System Doc.</Title>
+				<Function>PRAC935</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015227</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dac</Title>
+				<Title lang="es">Dac</Title>
+				<Title lang="en">Dac</Title>
+				<Function>PRAC936</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015231</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocupação Armazem</Title>
+				<Title lang="es">Ocupracion Almacen</Title>
+				<Title lang="en">Warehouse Occupat.</Title>
+				<Function>PRAC937</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015232</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tx Ocupação Local</Title>
+				<Title lang="es">Ts Ocupacion Local</Title>
+				<Title lang="en">Local Occupation F</Title>
+				<Function>PRAC940</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015327</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ext. Movimentação</Title>
+				<Title lang="es">Ext. Movimiento</Title>
+				<Title lang="en">Movt. Stat.</Title>
+				<Function>PRAC905</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015235</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas</Title>
+				<Title lang="es">Tablas</Title>
+				<Title lang="en">Tables</Title>
+				<Function>PRAC906</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015236</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Imp. Layout Branco</Title>
+				<Title lang="es">Imp. Layout Blanco</Title>
+				<Title lang="en">Imp. Blank Layout</Title>
+				<Function>PRAR903</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015237</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Virtualização</Title>
+			<Title lang="es">Virtualizacion</Title>
+			<Title lang="en">Virtualization</Title>
+			<ItemID>0000015240</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conf. Virtu.</Title>
+				<Title lang="es">Conf. Virtu.</Title>
+				<Title lang="en">Virt. Conf.</Title>
+				<Function>PRAA866</Function>
+				<Type>1</Type>
+				<Tables>DBR</Tables>
+				<Tables>DBS</Tables>
+				<Tables>DBT</Tables>
+				<Tables>DBU</Tables>
+				<Tables>DBW</Tables>
+				<Tables>DBV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015241</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Virtualização</Title>
+				<Title lang="es">Virtualizacion</Title>
+				<Title lang="en">Virtualization</Title>
+				<Function>PRAA8661</Function>
+				<Type>1</Type>
+				<Tables>DBR</Tables>
+				<Tables>DBS</Tables>
+				<Tables>DBT</Tables>
+				<Tables>DBU</Tables>
+				<Tables>DBW</Tables>
+				<Tables>DBV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>60</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015242</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B600000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B600000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

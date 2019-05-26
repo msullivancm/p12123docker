@@ -1,0 +1,13 @@
+versão=1.0
+UF009999|Outros débitos para ajuste de apuração ICMS para|01012009|
+UF109999|Outros débitos para ajuste de apuração ICMS ST para|01012009|
+UF019999|Estorno de créditos para ajuste de apuração ICMS para|01012009|
+UF119999|Estorno de créditos para ajuste de apuração ICMS ST para|01012009|
+UF029999|Outros créditos para ajuste de apuração ICMS para|01012009|
+UF129999|Outros créditos para ajuste de apuração ICMS ST para|01012009|
+UF039999|Estorno de débitos para ajuste de apuração ICMS para|01012009|
+UF139999|Estorno de débitos para ajuste de apuração ICMS ST para|01012009|
+UF049999|Deduções do imposto apurado na apuração ICMS para|01012009|
+UF149999|Deduções do imposto apurado na apuração ICMS ST para|01012009|
+UF059999|Débito especial de ICMS para|01012009|
+UF159999|Débito especial de ICMS ST para|01012009|

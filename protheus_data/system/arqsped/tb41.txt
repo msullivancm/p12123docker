@@ -1,0 +1,40 @@
+versão=1.0
+MS10000008|Outros créditos - Ativo permanente|01012009|
+MS10000009|Crédito presumido|01012009|
+MS10000013|Outros créditos - Restituição de ICMS/ST - creditamento|01012009|
+MS10000999|Crédito outorgado|01012009|
+MS10001014|Outros Créditos - Transporte|01012009|
+MS10990002|Transferência para operação própria|01012009|
+MS11000012|Outros créditos - Restituição de ICMS/ST - Abatimento|01012009|
+MS11900011|Outros créditos - Restituição de ICMS/ST - Ressarcimento|01012009|
+MS11990002|Transferência para ST|01012009|
+MS20010000|Recolhimento Antecipado do ICMS (Recolhimento Espontâneo)|01012009|
+MS20020000|Recolhimento Antecipado do ICMS (Recolhimento por autuação)|01012009|
+MS21010000|Recolhimento Antecipado do ICMS ST (Recolhimento Espontâneo)|01012009|
+MS21020000|Recolhimento Antecipado do ICMS ST (Recolhimento por autuação)|01012009|
+MS32990002|Dedução mês anterior - Crédito Próprio|01012009|
+MS40000000|Estorno de crédito|01012009|02012009
+MS40000999|Estorno de crédito de exportação|01012009|02012009
+MS50000000|Estorno de crédito|03012009|
+MS50000999|Estorno de crédito de exportação|03012009|
+MS40990002|Crédito acumulado transferido|01012009|
+MS41000000|Convênio 51/00|01012009|
+MS60000000|Deduções|01012009|
+MS70000001|Débito Especial - Diferencial de alíquota|01012009|
+MS70000004|Débito Especial - ICMS pago na entrada|01012009|
+MS70010004|Débito Especial - ICMS pago na entrada (Recolhimento Espontâneo)|01012009|
+MS70010010|Débito Especial - Débito extemporâneo do ICMS|01012009|
+MS70010017|Débito Especial - Importação|01012009|
+MS70010999|Débito Especial - Outros Ajustes|01012009|
+MS70020000|Débito Especial - ICMS pago na saída (Recolhimento por autuação)|01012009|
+MS70020004|Débito Especial - ICMS pago na entrada (Antecipação Tributária)|01012009|
+MS70020010|Débito Especial - Débito extemporâneo do ICMS|01012009|
+MS70020017|Débito Especial - Importação|01012009|
+MS70020999|Débito Especial - Encerramento do diferimento|01012009|
+MS70110000|Débito Especial - ICMS pago na entrada - Solidário (Recolhimento Espontâneo)|01012009|
+MS70120000|Débito Especial - ICMS pago na entrada - Solidário (Recolhimento por autuação)|01012009|
+MS71010005|Débito Especial - Diferencial de alíquota ST (Recolhimento Espontâneo)|01012009|
+MS71010010|Débito Especial - Débito extemporâneo do ICMS ST|01012009|
+MS71020005|Débito Especial - Diferencial de alíquota ST (Recolhimento por autuação)|01012009|
+MS71020010|Débito Especial - Débito extemporâneo do ICMS ST|01012009|
+MS90090017|Importação - Pagamento mês anterior|01012009|

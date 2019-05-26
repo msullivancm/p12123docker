@@ -1,0 +1,1365 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAGAV</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A650000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Básicos</Title>
+			<Title lang="es">Basicos</Title>
+			<Title lang="en">Basic</Title>
+			<ItemID>0000009799</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas</Title>
+				<Title lang="es">Monedas</Title>
+				<Title lang="en">Currencies</Title>
+				<Function>MATA090</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>6</Owner>
+				<ItemID>0000009800</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naturezas</Title>
+				<Title lang="es">Modalidades</Title>
+				<Title lang="en">Classes</Title>
+				<Function>FINA010</Function>
+				<Type>1</Type>
+				<Tables>SED</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>6</Owner>
+				<ItemID>0000009801</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Idiomas</Title>
+				<Title lang="es">Idiomas</Title>
+				<Title lang="en">Languages</Title>
+				<Function>GAVA011</Function>
+				<Type>1</Type>
+				<Tables>FS0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009802</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cond. Pagamento</Title>
+				<Title lang="es">Cond. Pago</Title>
+				<Title lang="en">Payment Terms</Title>
+				<Function>MATA360</Function>
+				<Type>1</Type>
+				<Tables>SE4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>6</Owner>
+				<ItemID>0000009803</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Localidades</Title>
+				<Title lang="es">Localidades</Title>
+				<Title lang="en">Locations</Title>
+				<Function>GAVA003</Function>
+				<Type>1</Type>
+				<Tables>FSE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009804</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categorias</Title>
+				<Title lang="es">Categorias</Title>
+				<Title lang="en">Categories</Title>
+				<Function>GAVA002</Function>
+				<Type>1</Type>
+				<Tables>FSJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009805</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Departments</Title>
+				<Function>GAVA004</Function>
+				<Type>1</Type>
+				<Tables>FSV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009806</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Áreas de Prática</Title>
+				<Title lang="es">Areas de Practica</Title>
+				<Title lang="en">Practice Areas</Title>
+				<Function>GAVA001</Function>
+				<Type>1</Type>
+				<Tables>FSF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009807</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Timekeepers</Title>
+				<Title lang="es">Timekeepers</Title>
+				<Title lang="en">Timekeepers</Title>
+				<Function>GAVA005</Function>
+				<Type>1</Type>
+				<Tables>FSA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009808</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Clientes</Title>
+				<Title lang="es">Grupo de Clientes</Title>
+				<Title lang="en">Customer Group</Title>
+				<Function>FATA110</Function>
+				<Type>1</Type>
+				<Tables>ACY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>5</Owner>
+				<ItemID>0000009809</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>MATA030</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>5</Owner>
+				<ItemID>0000009810</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SE4</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>2</Owner>
+				<ItemID>0000009811</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>TMKA070</Function>
+				<Type>1</Type>
+				<Tables>SU5</Tables>
+				<Tables>SQO</Tables>
+				<Tables>SQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>13</Owner>
+				<ItemID>0000009812</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Critérios Retifica</Title>
+				<Title lang="es">Criterios Rectific</Title>
+				<Title lang="en">Rect. Criteria</Title>
+				<Function>GAVA018</Function>
+				<Type>1</Type>
+				<Tables>FSK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009813</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classif. Serviços</Title>
+				<Title lang="es">Clasif. Servicios</Title>
+				<Title lang="en">Service Classif.</Title>
+				<Function>GAVA027</Function>
+				<Type>1</Type>
+				<Tables>FT4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009814</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cod. Enc. Assuntos</Title>
+				<Title lang="es">Cod. Enc. Asuntos</Title>
+				<Title lang="en">Subject Cl. Code</Title>
+				<Function>GAVA006</Function>
+				<Type>1</Type>
+				<Tables>FSM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009815</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Códigos Ddd</Title>
+				<Title lang="es">Codigos Ddn</Title>
+				<Title lang="en">Area Codes</Title>
+				<Function>GAVA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009816</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Códigos Ddi</Title>
+				<Title lang="es">Codigos Ddi</Title>
+				<Title lang="en">Country Codes</Title>
+				<Function>TMKA370</Function>
+				<Type>1</Type>
+				<Tables>ACJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>13</Owner>
+				<ItemID>0000009817</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cód. de Atividade</Title>
+				<Title lang="es">Cod. de Actividad</Title>
+				<Title lang="en">Activity Code</Title>
+				<Function>GAVA026</Function>
+				<Type>1</Type>
+				<Tables>FTA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009818</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Financeiros</Title>
+			<Title lang="es">Financieros</Title>
+			<Title lang="en">Financials</Title>
+			<ItemID>0000009819</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tab. de Honorários</Title>
+				<Title lang="es">Tab. de Honorarios</Title>
+				<Title lang="en">Fee Table</Title>
+				<Function>GAVA012</Function>
+				<Type>1</Type>
+				<Tables>FSY</Tables>
+				<Tables>FSZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009820</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Despesas</Title>
+				<Title lang="es">Tipos de Gastos</Title>
+				<Title lang="en">Expense Types</Title>
+				<Function>GAVA013</Function>
+				<Type>1</Type>
+				<Tables>FT8</Tables>
+				<Tables>FSG</Tables>
+				<Tables>FTG</Tables>
+				<Tables>SA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009821</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Eventos</Title>
+				<Title lang="es">Tipos de Eventos</Title>
+				<Title lang="en">Event Types</Title>
+				<Function>GAVA019</Function>
+				<Type>1</Type>
+				<Tables>FSQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009822</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contratos</Title>
+				<Title lang="es">Contratos</Title>
+				<Title lang="en">Contracts</Title>
+				<Function>GAVA009</Function>
+				<Type>1</Type>
+				<Tables>FSC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009823</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções Tab.honor</Title>
+				<Title lang="es">Excep. Tabla Honor</Title>
+				<Title lang="en">Fee Table Except.</Title>
+				<Function>GAVA021</Function>
+				<Type>1</Type>
+				<Tables>FT3</Tables>
+				<Tables>FS3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009824</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções Despesas</Title>
+				<Title lang="es">Excepciones Gastos</Title>
+				<Title lang="en">Expense Except.</Title>
+				<Function>GAVA020</Function>
+				<Type>1</Type>
+				<Tables>FS1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009825</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções Eventos</Title>
+				<Title lang="es">Excepciones Evento</Title>
+				<Title lang="en">Event Exceptions</Title>
+				<Function>GAVA017</Function>
+				<Type>1</Type>
+				<Tables>FT3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009826</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tab.honor.x Local</Title>
+				<Title lang="es">Tab Honor Vs Local</Title>
+				<Title lang="en">Fee Table Vs. Loc.</Title>
+				<Function>GAVA025</Function>
+				<Type>1</Type>
+				<Tables>FSO</Tables>
+				<Tables>FSY</Tables>
+				<Tables>FSE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009827</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesa X Usuários</Title>
+				<Title lang="es">Gastos Vs Usuarios</Title>
+				<Title lang="en">Expense Vs. Users</Title>
+				<Function>GAVA014</Function>
+				<Type>1</Type>
+				<Tables>FSG</Tables>
+				<Tables>FTU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009828</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesa X Fornec.</Title>
+				<Title lang="es">Gastos Vs Proveed.</Title>
+				<Title lang="en">Exp. Vs. Supplier</Title>
+				<Function>GAVA022</Function>
+				<Type>1</Type>
+				<Tables>FSG</Tables>
+				<Tables>FTG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009829</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distrib. Faturas</Title>
+				<Title lang="es">Distrib. Facturas</Title>
+				<Title lang="en">Distrib. Invoices</Title>
+				<Function>GAVM011</Function>
+				<Type>1</Type>
+				<Tables>FSN</Tables>
+				<Tables>FTN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009830</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio Apontamento</Title>
+				<Title lang="es">Prorrateo Apunte</Title>
+				<Title lang="en">Annot.proration</Title>
+				<Function>GAVM012</Function>
+				<Type>1</Type>
+				<Tables>FS5</Tables>
+				<Tables>FT5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009831</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Operacionais</Title>
+			<Title lang="es">Operativos</Title>
+			<Title lang="en">Operational</Title>
+			<ItemID>0000009832</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Assuntos</Title>
+				<Title lang="es">Asuntos</Title>
+				<Title lang="en">Subject</Title>
+				<Function>GAVA008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009833</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Permiss. de Apont.</Title>
+				<Title lang="es">Autoriz. de Apunte</Title>
+				<Title lang="en">Annotation Perm.</Title>
+				<Function>GAVA015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009834</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Espécie de Etapas</Title>
+				<Title lang="es">Especie de Etapas</Title>
+				<Title lang="en">Phase Variety</Title>
+				<Function>GAVA016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009835</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etapas de Pré-fat.</Title>
+				<Title lang="es">Etap de Fact Prev</Title>
+				<Title lang="en">Pre-inv.phases</Title>
+				<Function>GAVA007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009836</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Junção de Assuntos</Title>
+				<Title lang="es">Union de Asuntos</Title>
+				<Title lang="en">Subject Joint</Title>
+				<Function>GAVA023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009837</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Junção de Contrato</Title>
+				<Title lang="es">Union de Contrato</Title>
+				<Title lang="en">Contract Joint</Title>
+				<Function>GAVM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009838</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config.pre-fat/fat</Title>
+				<Title lang="es">Config Fac Pre/ Fa</Title>
+				<Title lang="en">Inv/pre-inv.setup</Title>
+				<Function>GAVA029</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009839</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000009840</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Apontamentos</Title>
+			<Title lang="es">Apuntes</Title>
+			<Title lang="en">Annotations</Title>
+			<ItemID>0000009841</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Horas Trabalhadas</Title>
+				<Title lang="es">Horas Trabajadas</Title>
+				<Title lang="en">Hours Worked</Title>
+				<Function>GAVM006</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009842</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesas</Title>
+				<Title lang="es">Gastos</Title>
+				<Title lang="en">Expenses</Title>
+				<Function>GAVM002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009843</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos Contrat.</Title>
+				<Title lang="es">Eventos Contrat.</Title>
+				<Title lang="en">Contract Event</Title>
+				<Function>GAVM004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009844</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retif.apontamentos</Title>
+				<Title lang="es">Rectif. Apuntes</Title>
+				<Title lang="en">Annot. Rectific.</Title>
+				<Function>GAVM001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009845</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tradução</Title>
+				<Title lang="es">Traduccion</Title>
+				<Title lang="en">Translation</Title>
+				<Function>GAVM023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009846</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Assuntos</Title>
+			<Title lang="es">Asuntos</Title>
+			<Title lang="en">Subjects</Title>
+			<ItemID>0000009847</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alt. Múltiplas</Title>
+				<Title lang="es">Modif. Multiples</Title>
+				<Title lang="en">Multiple Changes</Title>
+				<Function>GAVM005</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009848</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferências</Title>
+				<Title lang="es">Transferencias</Title>
+				<Title lang="en">Transfers</Title>
+				<Function>GAVM008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009849</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processamentos</Title>
+			<Title lang="es">Procesamientos</Title>
+			<Title lang="en">Processings</Title>
+			<ItemID>0000009850</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Pré-fatura</Title>
+				<Title lang="es">Gener. Fact Previa</Title>
+				<Title lang="en">Generate Pre-inv.</Title>
+				<Function>GAVM009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009851</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reversão Pré-fatur</Title>
+				<Title lang="es">Reversion Fact Pre</Title>
+				<Title lang="en">Reverse Pre-inv.</Title>
+				<Function>GAVM015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009852</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geracao de Etapas</Title>
+				<Title lang="es">Generacion Etapas</Title>
+				<Title lang="en">Generate Stages</Title>
+				<Function>GAVM013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009853</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Faturas</Title>
+				<Title lang="es">Generac. Facturas</Title>
+				<Title lang="en">Generate Invoices</Title>
+				<Function>GAVM003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009854</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cancelamento Fatur</Title>
+				<Title lang="es">Anulacion Factura</Title>
+				<Title lang="en">Cancel Inv.</Title>
+				<Function>GAVM016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009855</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Ctas.pagar</Title>
+				<Title lang="es">Gener. Ctas Pagar</Title>
+				<Title lang="en">Generate Acc. Pay.</Title>
+				<Function>GAVA028</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009856</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Caixinha</Title>
+			<Title lang="es">Caja Chica</Title>
+			<Title lang="en">Petty Cash</Title>
+			<ItemID>0000009857</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencäo</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>GAVM017</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009858</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuario X Caixinha</Title>
+				<Title lang="es">Usuario Vs Cj Chic</Title>
+				<Title lang="en">Uservs. Petty Cash</Title>
+				<Function>GAVM018</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009859</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mov. Adiantamento</Title>
+				<Title lang="es">Mov. Anticipo</Title>
+				<Title lang="en">Advance Transact.</Title>
+				<Function>GAVM019</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009860</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prestacao de Conta</Title>
+				<Title lang="es">Rendicion Cuentas</Title>
+				<Title lang="en">Rendering Of Acct.</Title>
+				<Function>GAVM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009861</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A650000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastros</Title>
+				<Title lang="es">Archivos</Title>
+				<Title lang="en">Files</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>99</Owner>
+				<ItemID>0000009862</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos X Entidad</Title>
+				<Title lang="es">Contactos Vs Entid</Title>
+				<Title lang="en">Contacts Vs.entity</Title>
+				<Function>GAVC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009863</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A650000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Pré-fatura/ms Word</Title>
+			<Title lang="es">Fac Prev/ Ms Word</Title>
+			<Title lang="en">Pre-inv./ms-word</Title>
+			<ItemID>0000009864</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-faturas/ms-wor</Title>
+				<Title lang="es">Fact Prev/ Ms Word</Title>
+				<Title lang="en">Pre-inv./ms-word</Title>
+				<Function>GAVR022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009865</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas/ms-word</Title>
+				<Title lang="es">Fact Prev /ms Word</Title>
+				<Title lang="en">Ms-word/invoices</Title>
+				<Function>GAVR032</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009866</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Essencias</Title>
+			<Title lang="es">Esenciales</Title>
+			<Title lang="en">Essentials</Title>
+			<ItemID>0000009867</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesas Por Assun</Title>
+				<Title lang="es">Gastos Por Asunto</Title>
+				<Title lang="en">Exp. By Subject</Title>
+				<Function>GAVR011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009868</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-faturas Emitid</Title>
+				<Title lang="es">Fact Prev Emitidas</Title>
+				<Title lang="en">Pre-inv. Issued</Title>
+				<Function>GAVR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009869</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Emitidas</Title>
+				<Title lang="es">Facturas Emitidas</Title>
+				<Title lang="en">Invoices Issued</Title>
+				<Function>GAVR008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009870</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Canceladas</Title>
+				<Title lang="es">Facturas Anuladas</Title>
+				<Title lang="en">Invoices Cancelled</Title>
+				<Function>GAVR009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009871</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Operacionais</Title>
+			<Title lang="es">Operativos</Title>
+			<Title lang="en">Operations</Title>
+			<ItemID>0000009872</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pre-faturas</Title>
+				<Title lang="es">Facturas Previas</Title>
+				<Title lang="en">Pre-invoices</Title>
+				<Function>GAVT001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009873</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Capa Pré-fatura</Title>
+				<Title lang="es">Portada Fact Prev</Title>
+				<Title lang="en">Pre-inv. Cov.sheet</Title>
+				<Function>GAVR005</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009874</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sumário Horas</Title>
+				<Title lang="es">Resumen Horas</Title>
+				<Title lang="en">Time Summary</Title>
+				<Function>GAVR002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009875</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sumário Despesas</Title>
+				<Title lang="es">Resumen Gastos</Title>
+				<Title lang="en">Expense Summary</Title>
+				<Function>GAVR003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009876</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sumário Eventos</Title>
+				<Title lang="es">Resumen Eventos</Title>
+				<Title lang="en">Event Summary</Title>
+				<Function>GAVR004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009877</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Comparativos</Title>
+			<Title lang="es">Comparativos</Title>
+			<Title lang="en">Comparisons</Title>
+			<ItemID>0000009878</ItemID>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A650000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Atualizações</Title>
+			<Title lang="es">Actualizaciones</Title>
+			<Title lang="en">Updates</Title>
+			<ItemID>0000009879</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Import. Cadastros</Title>
+				<Title lang="es">Import. Archivos</Title>
+				<Title lang="en">Import Records</Title>
+				<Function>GAVM007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009880</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Imp. Desp. Elite</Title>
+				<Title lang="es">Imp. Gastos Elite</Title>
+				<Title lang="en">Imp. Elite Expense</Title>
+				<Function>GAVM022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009881</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Man.desp. Elite</Title>
+				<Title lang="es">Man. Gastos Elite</Title>
+				<Title lang="en">Maintain Elite Exp</Title>
+				<Function>GVMANDSP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009882</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processamentos</Title>
+			<Title lang="es">Procesamientos</Title>
+			<Title lang="en">Processings</Title>
+			<ItemID>0000009883</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comp. Dicionário</Title>
+				<Title lang="es">Comp. Diccionario</Title>
+				<Title lang="en">Comp. Dictionary</Title>
+				<Function>BMKCOMPSX</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>99</Owner>
+				<ItemID>0000009884</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integracoes</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integrations</Title>
+			<ItemID>0000009885</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Workflow</Title>
+				<Title lang="es">Workflow</Title>
+				<Title lang="en">Workflow</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>65</Module>
+				<Owner>71</Owner>
+				<ItemID>0000009886</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B650000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B650000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

@@ -1,0 +1,22 @@
+versão=2.0
+PR020021|ICMS; Outros créditos; Ativo imobilizado - CIAP|01012009|
+PR010022|ICMS; Estorno de créditos; Ativo imobilizado|01012009|
+PR020041|ICMS; Outros créditos; Material de uso e consumo|01012009|
+PR010042|ICMS; Estorno de créditos; Material de uso e consumo|01012009|
+PR020061|ICMS; Outros créditos; Transferencia entre centralizado/centralizador|01012009|
+PR000062|ICMS; Outros débitos; Transferencia entre centralizado/centralizador|01012009|
+PR020071|ICMS; Outros créditos; Transferencia recebida de saldo acumulado|01012009|
+PR000072|ICMS; Outros débitos; Transferencia realizada de saldo acumulado|01012009|
+PR000081|ICMS; Outros débitos; Diferencial de aliquota|01012009|
+PR009999|ICMS; Outros débitos; Demais casos|01012009|
+PR059999|ICMS; Débito especial; Demais casos|01012009|
+PR109999|ICMS ST; Outros débitos; Demais casos|01012009|
+PR019999|ICMS; Estorno de créditos; Demais casos|01012009|
+PR119999|ICMS ST; Estorno de créditos; Demais casos|01012009|
+PR029999|ICMS; Outros créditos; Demais casos|01012009|
+PR129999|ICMS ST; Outros créditos; Demais casos|01012009|
+PR039999|ICMS; Estorno de débitos; Demais casos|01012009|
+PR139999|ICMS ST; Estorno de débitos; Demais casos|01012009|
+PR049999|ICMS; Deduções do imposto apurado; Demais casos|01012009|
+PR149999|ICMS ST; Deduções do imposto apurado; Demais casos|01012009|
+PR159999|ICMS ST; Débito especial; Demais casos|01012009|

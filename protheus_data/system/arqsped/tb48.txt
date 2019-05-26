@@ -1,0 +1,63 @@
+versão=1.0
+PB10000999|Outros Créditos; Operação Pópria; Própria; A apurar; Mercadoria; Outros ajustes|01012009|30052009
+PB40000999|Outros Débitos; Operação Pópria; Própria; A apurar; Mercadoria; Outros ajustes|01012009|30052009
+PB10001000|Outros créditos; Op.Própria; Própria; A apurar; Transporte; Op. Normal|01012009|30052009
+PB10990002|Outros créditos; Op.Própria; Informativo; Informativo; Mercadoria; Transf. Crédito|01012009|30052009
+PB10040010|Outros créditos; Op.Própria; Própria; Extemporâneo; Mercadoria; Lançamento extemporâneo|01012009|30052009
+PB10000013|Outros créditos; Op.Própria; Própria; A apurar; Mercadoria; Rest.ICMS/ST - Creditamento|01012009|30052009
+PB10040013|Outros créditos; Op.Própria; Própria; Extemporâneo; Mercadoria; Rest.ICMS/ST - Creditamento|01012009|30052009
+PB10000019|Outros créditos; Op.Própria; Própria; A apurar; Mercadoria; ICMS ST já retido|01012009|30052009
+PB10040019|Outros créditos; Op.Própria; Própria; Extemporâneo; Mercadoria; ICMS ST já retido|01012009|30052009
+PB20010004|Estorno de débito; Op.Própria; Própria; Recolhimento Espontâneo; Mercadoria; Antecipação Tributária|01012009|30052009
+PB20020004|Estorno de débito; Op.Própria; Própria; Recolhimento por autuação; Mercadoria; Antecipação Tributária|01012009|30052009
+PB40000000|Outros débitos; Op.Própria; Própria; A apurar; Mercadoria; Op. Normal|01012009|30052009
+PB40990002|Outros débitos; Op.Própria; Informativo; Informativo; Mercadoria; Transf. Crédito|01012009|30052009
+PB70000001|Débitos especiais; Op.Própria; Própria; A apurar; Mercadoria; Dif.Alíquota|01012009|30052009
+PB70010001|Débitos especiais; Op.Própria; Própria; Recolhimento Espontâneo; Mercadoria; Dif.Alíquota|01012009|30052009
+PB70020001|Débitos especiais; Op.Própria; Própria; Recolhimento por autuação; Mercadoria; Dif.Alíquota|01012009|30052009
+PB70040001|Débitos especiais; Op.Própria; Própria; Extemporâneo; Mercadoria; Dif.Alíquota|01012009|30052009
+PB70040010|Débitos especiais; Op.Própria; Própria; Extemporâneo; Mercadoria; Lançamento extemporâneo|01012009|30052009
+PB70020015|Débitos especiais; Op.Própria; Própria; Recolhimento por autuação; Mercadoria; Origem em Autuações|01012009|30052009
+PB70010017|Débitos especiais; Op.Própria; Própria; Recolhimento Espontâneo; Mercadoria; Importação|01012009|30052009
+PB70020017|Débitos especiais; Op.Própria; Própria; Recolhimento por autuação; Mercadoria; Importação|01012009|30052009
+PB70030017|Débitos especiais; Op.Própria; Própria; Compensação crédito; Mercadoria; Importação|01012009|30052009
+PB70040017|Débitos especiais; Op.Própria; Própria; Extemporâneo; Mercadoria; Importação|01012009|30052009
+PB70110999|Débitos especiais; Op.Própria; Solidária; Recolhimento Espontâneo; Mercadoria; Outros Ajustes|01012009|30052009
+PB70120999|Débitos especiais; Op.Própria; Solidária; Recolhimento por autuação; Mercadoria; Outros Ajustes|01012009|30052009
+PB90990007|Informativo; Op.Própria; Informativo; Informativo; Mercadoria; Desconto - ICMS repassado ao destinatário|01012009|30052009
+PB90990008|Informativo; Op.Própria; Informativo; Informativo; Mercadoria; Ativo Permanente|01012009|30052009
+PB90990018|Informativo; Op.Própria; Informativo; Informativo; Mercadoria; Uso e Consumo|01012009|30052009
+PB11900011|Outros créditos; Op.ST; Informativo; A apurar; Mercadoria; Rest.ICMS/ST - Ressarcimento|01012009|30052009
+PB11940011|Outros créditos; Op.ST; Informativo; Extemporâneo; Mercadoria; Rest.ICMS/ST - Ressarcimento|01012009|30052009
+PB11000012|Outros créditos; Op.ST; Própria; A apurar; Mercadoria; Rest.ICMS/ST - Abatimento|01012009|30052009
+PB11040012|Outros créditos; Op.ST; Própria; Extemporâneo; Mercadoria; Rest.ICMS/ST - Abatimento|01012009|30052009
+PB21010004|Estorno de débito; Op.ST; Própria; Recolhimento Espontâneo; Mercadoria; Antecipação Tributária|01012009|30052009
+PB21020004|Estorno de débito; Op.ST; Própria; Recolhimento por autuação; Mercadoria; Antecipação Tributária|01012009|30052009
+PB71010005|Débitos especiais; Op.ST; Própria; Recolhimento Espontâneo; Mercadoria; ST - Dif.Aliquota|01012009|30052009
+PB71110005|Débitos especiais; Op.ST; Solidária; Recolhimento Espontâneo; Mercadoria; ST - Dif.Aliquota|01012009|30052009
+PB71020005|Débitos especiais; Op.ST; Própria; Recolhimento por autuação; Mercadoria; ST - Dif.Aliquota|01012009|30052009
+PB71120005|Débitos especiais; Op.ST; Solidária; Recolhimento por autuação; Mercadoria; ST - Dif.Aliquota|01012009|30052009
+PB71040005|Débitos especiais; Op.ST; Própria; Extemporâneo; Mercadoria; ST - Dif.Aliquota|01012009|30052009
+PB71140005|Débitos especiais; Op.ST; Solidária; Extemporâneo; Mercadoria; ST - Dif.Aliquota|01012009|30052009
+PB71040010|Débitos especiais; Op.ST; Própria; Extemporâneo; Mercadoria; Lançamento extemporâneo|01012009|30052009
+PB71020015|Débitos especiais; Op.ST; Própria; Recolhimento por autuação; Mercadoria; Origem em Autuações|01012009|30052009
+PB71010017|Débitos especiais; Op.ST; Própria; Recolhimento Espontâneo; Mercadoria; Importação|01012009|30052009
+PB71020017|Débitos especiais; Op.ST; Própria; Recolhimento por autuação; Mercadoria; Importação|01012009|30052009
+PB71030017|Débitos especiais; Op.ST; Própria; Compensação crédito; Mercadoria; Importação|01012009|30052009
+PB71040017|Débitos especiais; Op.ST; Própria; Extemporâneo; Mercadoria; Importação|01012009|30052009
+PB71010020|Débitos especiais; Op.ST; Própria; Recolhimento Espontâneo; Mercadoria; ST Interna|01012009|30052009
+PB71020020|Débitos especiais; Op.ST; Própria; Recolhimento por autuação; Mercadoria; ST Interna|01012009|30052009
+PB71040020|Débitos especiais; Op.ST; Própria; Extemporâneo; Mercadoria; ST Interna|01012009|30052009
+PB71000021|Débitos especiais; Op.ST; Própria; A apurar; Mercadoria; Repasse ICMS ST|01012009|30052009
+PB71000022|Débitos especiais; Op.ST; Própria; A apurar; Mercadoria; ICMS ST Complementar|01012009|30052009
+PB71110999|Débitos especiais; Op.ST; Solidária; Recolhimento Espontâneo; Mercadoria; Outros Ajustes|01012009|30052009
+PB71120999|Débitos especiais; Op.ST; Solidária; Recolhimento por autuação; Mercadoria; Outros Ajustes|01012009|30052009
+PB91990006|Informativo; Op.ST; Informativo; Informativo; Mercadoria; Reembolso Comercial|01012009|30052009
+PB91990011|Informativo; Op.ST; Informativo; Informativo; Mercadoria; Rest.ICMS/ST - Ressarcimento|01012009|30052009
+PB71001014|Débitos especiais; Op.ST; Própria; A apurar; Transporte; ST - Transporte|01012009|30052009
+PB91001014|Informativo; Op.ST; Própria; A apurar; Transporte; ST - Transporte|01012009|30052009
+PB91011014|Informativo; Op.ST; Própria; Recolhimento Espontâneo; Transporte; ST - Transporte|01012009|30052009
+PB91021014|Informativo; Op.ST; Própria; Recolhimento por autuação; Transporte; ST - Transporte|01012009|30052009
+PB91041014|Informativo; Op.ST; Própria; Extemporâneo; Transporte; ST - Transporte|01012009|30052009
+PB92990002|Informativo; Outras Apurações; Informativo; Informativo; Mercadoria; Transf. Crédito|01012009|30052009
+PB92990003|Informativo; Outras Apurações; Informativo; Informativo; Mercadoria; Compensação saldo|01012009|30052009

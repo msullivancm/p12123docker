@@ -1,0 +1,59 @@
+versão=1.0
+MG02990002|Crédito por entrada; Outras Apurações; Resp.: Informativo; Apur.: Informativo; Mercadoria; Transf. Crédito.|01012009|
+MG10000004|Outros créditos; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Antecipação Tributária.|01012009|
+MG10000008|Outros créditos; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Ativo permanente.|01012009|
+MG10000013|Outros créditos; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Rest.ICMS/ST - Creditamento.|01012009|
+MG10000503|Outros créditos; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; ICMS ST de Insumo.|01012009|
+MG10000504|Outros créditos; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Uso e consumo.|01012009|
+MG10001014|Outros créditos; Op.Própria; Resp.: Própria; Apur.: A apurar; Transporte; ST - Transporte.|01012009|
+MG10990002|Outros créditos; Op.Própria; Resp.: Informativo; Apur.: Informativo; Mercadoria; Transf. Crédito.|01012009|
+MG10990010|Outros créditos; Op.Própria; Resp.: Informativo; Apur.: Informativo; Mercadoria; Lançamento extemporâneo.|01012009|
+MG11000012|Outros créditos; Op.ST; Resp.: Própria; Apur.: A apurar; Mercadoria; Rest.ICMS/ST - Abatimento.|01012009|
+MG11900011|Outros créditos; Op.ST; Resp.: Informativo; Apur.: A apurar; Mercadoria; Rest.ICMS/ST - Ressarcimento.|01012009|
+MG11990002|Outros créditos; Op.ST; Resp.: Informativo; Apur.: Informativo; Mercadoria; Transf. Crédito.|01012009|
+MG20010000|Estorno de débito; Op.Própria; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; Op. Normal.|01012009|
+MG20000008|Estorno débito; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Ativo permanente.|01012009|
+MG20020000|Estorno de débito; Op.Própria; Resp.: Própria; Apur.: Recolhimento por autuação; Mercadoria; Op. Normal.|01012009|
+MG20000504|Estorno débito; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Uso e Consumo.|01012009|
+MG21010000|Estorno de débito; Op.ST; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; Op. Normal.|01012009|
+MG21020000|Estorno de débito; Op.ST; Resp.: Própria; Apur.: Recolhimento por autuação; Mercadoria; Op. Normal.|01012009|
+MG32990002|Débito por saída; Outras Apurações; Resp.: Informativo; Apur.: Informativo; Mercadoria; Transf. Crédito.|01012009|
+MG40000000|Outros débitos; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Op. Normal.|01012009|
+MG40000008|Outros débitos; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Ativo permanente.|01012009|
+MG40000999|Outros débitos; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Outros Ajustes.|01012009|
+MG40990002|Outros débitos; Op.Própria; Resp.: Informativo; Apur.: Informativo; Mercadoria; Transf. Crédito.|01012009|
+MG41000000|Outros débitos; Op.ST; Resp.: Própria; Apur.: A apurar; Mercadoria; Op. Normal.|01012009|
+MG70000001|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Dif.Alíquota.|01012009|
+MG70000004|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: A apurar; Mercadoria; Antecipação Tributária.|01012009|
+MG70010001|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; Dif.Alíquota.|01012009|
+MG70010004|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; Antecipação Tributária.|01012009|
+MG70010010|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; Lançamento extemporâneo.|01012009|
+MG70010017|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; Importação.|01012009|
+MG70010502|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; Diferimento.|01012009|
+MG70020004|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento por autuação; Mercadoria; Antecipação Tributária.|01012009|
+MG70020010|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento por autuação; Mercadoria; Lançamento extemporâneo.|01012009|
+MG70020017|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento por autuação; Mercadoria; Importação.|01012009|
+MG70020502|Débitos especiais; Op.Própria; Resp.: Própria; Apur.: Recolhimento por autuação; Mercadoria; Diferimento.|01012009|
+MG70090017|Débitos especiais; Outras Apurações; Resp.: Própria; Apur.: Informativo; Mercadoria; Importação.|01012009|
+MG70110000|Débitos especiais; Op.Própria; Resp.: Solidária; Apur.: Recolhimento Espontâneo; Mercadoria; Op. Normal.|01012009|
+MG70120000|Débitos especiais; Op.Própria; Resp.: Solidária; Apur.: Recolhimento por autuação; Mercadoria; Op. Normal.|01012009|
+MG71000501|Débitos especiais; Op.ST; Resp.: Própria; Apur.: A apurar; Mercadoria; ST interna.|01012009|
+MG71010010|Débitos especiais; Op.ST; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; Lançamento extemporâneo.|01012009|
+MG71010501|Débitos especiais; Op.ST; Resp.: Própria; Apur.: Recolhimento Espontâneo; Mercadoria; ST interna.|01012009|
+MG71020010|Débitos especiais; Op.ST; Resp.: Própria; Apur.: Recolhimento por autuação; Mercadoria; Lançamento extemporâneo.|01012009|
+MG71020501|Débitos especiais; Op.ST; Resp.: Própria; Apur.: Recolhimento por autuação; Mercadoria; ST interna.|01012009|
+MG71091014|Débitos especiais; Op.ST; Resp.: Própria; Apur.: Informativo; Transporte; ST - Transporte.|01012009|
+MG71110000|Débitos especiais; Op.ST; Resp.: Solidária; Apur.: Recolhimento Espontâneo; Mercadoria; Op. Normal.|01012009|
+MG71120000|Débitos especiais; Op.ST; Resp.: Solidária; Apur.: Recolhimento por autuação; Mercadoria; Op. Normal.|01012009|
+MG90090017|Informativo; Op.Própria; Resp.: Própria; Apur.: Informativo; Mercadoria; Importação.|01012009|
+MG90990001|Informativo; Op.Própria; Resp.: Informativo; Apur.: Informativo; Mercadoria; Dif.Alíquota.|01012009|
+MG90990007|Informativo; Op.Própria; Resp.: Informativo; Apur.: Informativo; Mercadoria; Desconto - ICMS repassado ao destinatário.|01012009|
+MG90990008|Informativo; Op.Própria; Resp.: Informativo; Apur.: Informativo; Mercadoria; Ativo Permanente.|01012009|
+MG91001014|Informativo; Op.ST; Resp.: Própria; Apur.: A apurar; Transporte; ST - Transporte.|01012009|
+MG91011014|Informativo; Op.ST; Resp.: Própria; Apur.: Recolhimento Espontâneo; Transporte; ST - Transporte.|01012009|
+MG91021014|Informativo; Op.ST; Resp.: Própria; Apur.: Recolhimento por autuação; Transporte; ST - Transporte.|01012009|
+MG91090501|Informativo; Op.ST; Resp.: Própria; Apur.: Informativo; Mercadoria; ST interna.|01012009|
+MG91990005|Informativo; Op.ST; Resp.: Informativo; Apur.: Informativo; Mercadoria; ST - Dif.Aliquota.|01012009|
+MG91990006|Informativo; Op.ST; Resp.: Informativo; Apur.: Informativo; Mercadoria; Reembolso Comercial.|01012009|
+MG91990011|Informativo; Op.ST; Resp.: Informativo; Apur.: Informativo; Mercadoria; Rest.ICMS/ST - Ressarcimento.|01012009|
+MG99990002|Informativo; Informativo; Resp.: Informativo; Apur.: Informativo; Mercadoria; Transf. Crédito.|01012009|

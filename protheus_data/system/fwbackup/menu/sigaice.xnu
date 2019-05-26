@@ -1,0 +1,753 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAICE</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A660000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000009887</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comitê e Participante</Title>
+				<Title lang="es">Comite Y Participante</Title>
+				<Title lang="en">Participant Committee</Title>
+				<Function>ICEA010</Function>
+				<Type>1</Type>
+				<Tables>IC1</Tables>
+				<Tables>IC2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009888</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatores - Fcs</Title>
+				<Title lang="es">Factores - Fcs</Title>
+				<Title lang="en">Factors - Fcs</Title>
+				<Function>ICEA020</Function>
+				<Type>1</Type>
+				<Tables>IC3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009889</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Riscos Empresariais</Title>
+				<Title lang="es">Riesgos Empresariales</Title>
+				<Title lang="en">Company Risks</Title>
+				<Function>ICEA030</Function>
+				<Type>1</Type>
+				<Tables>IC4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009890</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Controle</Title>
+				<Title lang="es">Puntos de Control</Title>
+				<Title lang="en">Control Points</Title>
+				<Function>ICEA040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009891</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Evidências</Title>
+				<Title lang="es">Evidencias</Title>
+				<Title lang="en">Evidences</Title>
+				<Function>ICEA045</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009892</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Objetos de Controle</Title>
+				<Title lang="es">Objetos de Control</Title>
+				<Title lang="en">Control Objects</Title>
+				<Function>ICEA055</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009893</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos e Funções</Title>
+				<Title lang="es">Cargos Y Funciones</Title>
+				<Title lang="en">Positions And Functions</Title>
+				<Function>QDOA160</Function>
+				<Type>1</Type>
+				<Tables>QAC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009894</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamento e Setor</Title>
+				<Title lang="es">Departamento Y Sector</Title>
+				<Title lang="en">Department And Sector</Title>
+				<Function>QAXA030</Function>
+				<Type>1</Type>
+				<Tables>QAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009895</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários Responsáveis</Title>
+				<Title lang="es">Usuarios Responsables</Title>
+				<Title lang="en">Responsible Users</Title>
+				<Function>QIEA050</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QAB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009896</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuários</KeyWord>
+					<KeyWord lang="es">Usuarios</KeyWord>
+					<KeyWord lang="en">Users</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Etapas</Title>
+				<Title lang="es">Archivo de Etapas</Title>
+				<Title lang="en">Stage File</Title>
+				<Function>QNCA110</Function>
+				<Type>1</Type>
+				<Tables>QID</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009897</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelos de Passos e Etapas</Title>
+				<Title lang="es">Modelos de Pasos Y Etapas</Title>
+				<Title lang="en">Steps And Stage Models</Title>
+				<Function>QNCA080</Function>
+				<Type>1</Type>
+				<Tables>QIB</Tables>
+				<Tables>QIC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009898</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Etapas</KeyWord>
+					<KeyWord lang="es">Etapas</KeyWord>
+					<KeyWord lang="en">Stages</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisa</Title>
+				<Title lang="es">Busqueda</Title>
+				<Title lang="en">Search</Title>
+				<Function>ICEA090</Function>
+				<Type>1</Type>
+				<Tables>IC6</Tables>
+				<Tables>ICC</Tables>
+				<Tables>ICD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009899</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Checklist</Title>
+			<Title lang="es">Checklist</Title>
+			<Title lang="en">Checklist</Title>
+			<ItemID>0000009901</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Respostas</Title>
+				<Title lang="es">Respuestas</Title>
+				<Title lang="en">Answers</Title>
+				<Function>ICEA120</Function>
+				<Type>1</Type>
+				<Tables>IC4</Tables>
+				<Tables>IC5</Tables>
+				<Tables>IC6</Tables>
+				<Tables>IC7</Tables>
+				<Tables>IC8</Tables>
+				<Tables>IC9</Tables>
+				<Tables>ICA</Tables>
+				<Tables>ICB</Tables>
+				<Tables>ICC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009902</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos</Title>
+				<Title lang="es">Procesos</Title>
+				<Title lang="en">Processes</Title>
+				<Function>ICEA100</Function>
+				<Type>1</Type>
+				<Tables>IC5</Tables>
+				<Tables>IC6</Tables>
+				<Tables>IC7</Tables>
+				<Tables>IC8</Tables>
+				<Tables>IC9</Tables>
+				<Tables>ICA</Tables>
+				<Tables>ICB</Tables>
+				<Tables>ICC</Tables>
+				<Tables>ICD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009903</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Subprocessos</Title>
+				<Title lang="es">Subprocesos</Title>
+				<Title lang="en">Subprocesses</Title>
+				<Function>ICEA130</Function>
+				<Type>1</Type>
+				<Tables>IC4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009904</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questões</Title>
+				<Title lang="es">Cuestiones</Title>
+				<Title lang="en">Questions</Title>
+				<Function>ICEA110</Function>
+				<Type>1</Type>
+				<Tables>IC5</Tables>
+				<Tables>IC6</Tables>
+				<Tables>IC7</Tables>
+				<Tables>IC8</Tables>
+				<Tables>IC9</Tables>
+				<Tables>ICA</Tables>
+				<Tables>ICB</Tables>
+				<Tables>ICC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009905</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Avaliacão de Riscos</Title>
+			<Title lang="es">Evaluacion de Riesgos</Title>
+			<Title lang="en">Risk Evaluation</Title>
+			<ItemID>0000009907</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Avaliacão de Riscos</Title>
+				<Title lang="es">Evaluacion de Riesgos</Title>
+				<Title lang="en">Risk Evaluation</Title>
+				<Function>ICEA200</Function>
+				<Type>1</Type>
+				<Tables>AA1</Tables>
+				<Tables>IC2</Tables>
+				<Tables>ICC</Tables>
+				<Tables>ICD</Tables>
+				<Tables>ICH</Tables>
+				<Tables>ICI</Tables>
+				<Tables>ICJ</Tables>
+				<Tables>ICK</Tables>
+				<Tables>ICL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009908</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Monitoramento</Title>
+			<Title lang="es">Monitoreo</Title>
+			<Title lang="en">Monitoring</Title>
+			<ItemID>0000009910</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Ação</Title>
+				<Title lang="es">Plan de Accion</Title>
+				<Title lang="en">Action Plan</Title>
+				<Function>QNCA030</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Tables>QIA</Tables>
+				<Tables>QAA</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QA4</Tables>
+				<Tables>QID</Tables>
+				<Tables>QIF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009911</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Follow Up</Title>
+				<Title lang="es">Follow Up</Title>
+				<Title lang="en">Follow Up</Title>
+				<Function>ICEA300</Function>
+				<Type>1</Type>
+				<Tables>AA1</Tables>
+				<Tables>IC2</Tables>
+				<Tables>ICC</Tables>
+				<Tables>ICD</Tables>
+				<Tables>ICH</Tables>
+				<Tables>ICI</Tables>
+				<Tables>ICJ</Tables>
+				<Tables>ICK</Tables>
+				<Tables>ICL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009912</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A660000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Folha de Projeto</Title>
+				<Title lang="es">Hoja de Proyecto</Title>
+				<Title lang="en">Project Sheet</Title>
+				<Function>ICEC010</Function>
+				<Type>1</Type>
+				<Tables>AA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009914</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Avaliacão de Riscos</Title>
+				<Title lang="es">Evaluacion de Riesgos</Title>
+				<Title lang="en">Risk Evaluation</Title>
+				<Function>ICEC020</Function>
+				<Type>1</Type>
+				<Tables>AA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009915</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Follow Up</Title>
+				<Title lang="es">Follow Up</Title>
+				<Title lang="en">Follow Up</Title>
+				<Function>ICEC030</Function>
+				<Type>1</Type>
+				<Tables>AA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009916</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastros Genéricos</Title>
+				<Title lang="es">Archivos Genericos</Title>
+				<Title lang="en">Generic Register</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009918</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A660000003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comitê Disciplinar</Title>
+				<Title lang="es">Comite Disciplinar</Title>
+				<Title lang="en">Discipline Committee</Title>
+				<Function>ICER010</Function>
+				<Type>1</Type>
+				<Tables>IC5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009920</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fcs - Fator Critico</Title>
+				<Title lang="es">Fcs - Factor Critico</Title>
+				<Title lang="en">Cfs - Critical Factor</Title>
+				<Function>ICER020</Function>
+				<Type>1</Type>
+				<Tables>IC5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009921</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Riscos e Referência</Title>
+				<Title lang="es">Riesgos Y Referencia</Title>
+				<Title lang="en">Risks And Reference</Title>
+				<Function>ICER030</Function>
+				<Type>1</Type>
+				<Tables>IC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009922</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos</Title>
+				<Title lang="es">Procesos</Title>
+				<Title lang="en">Processes</Title>
+				<Function>ICER040</Function>
+				<Type>1</Type>
+				<Tables>ICC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009923</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisa</Title>
+				<Title lang="es">Busqueda</Title>
+				<Title lang="en">Search</Title>
+				<Function>ICER050</Function>
+				<Type>1</Type>
+				<Tables>ICC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009924</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questões</Title>
+				<Title lang="es">Cuestiones</Title>
+				<Title lang="en">Questions</Title>
+				<Function>ICER060</Function>
+				<Type>1</Type>
+				<Tables>ICC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009925</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Respostas</Title>
+				<Title lang="es">Respuestas</Title>
+				<Title lang="en">Answers</Title>
+				<Function>ICER070</Function>
+				<Type>1</Type>
+				<Tables>ICC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009926</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Abstencoes</Title>
+				<Title lang="es">Abstenciones</Title>
+				<Title lang="en">Abstentions</Title>
+				<Function>ICER130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009927</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Certificado 20f</Title>
+				<Title lang="es">Certificado 20f</Title>
+				<Title lang="en">Certificate 20f</Title>
+				<Function>ICEXSOX</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009928</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A660000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reprocessar Respostas</Title>
+				<Title lang="es">Reprocesar Respuestas</Title>
+				<Title lang="en">Reprocess Answers</Title>
+				<Function>ICEA400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009930</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Miscelânea</Title>
+			<Title lang="es">Miscelanea</Title>
+			<Title lang="en">Miscellaneous</Title>
+			<ItemID>0000009931</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000009932</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009933</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuarios</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009934</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>66</Module>
+				<Owner>66</Owner>
+				<ItemID>0000009935</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B660000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B660000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

@@ -1,0 +1,36 @@
+versão=4.0
+PB000001|Outros débitos para ajuste de apuração ICMS para PB|01012009|
+PB100001|Outros débitos para ajuste de apuração ICMS ST para PB|01012009|
+PB010001|Estorno de créditos para ajuste de apuração ICMS para PB|01012009|
+PB110001|Estorno de créditos para ajuste de apuração ICMS ST para PB|01012009|
+PB020001|Outros créditos para ajuste de apuração ICMS para PB|01012009|
+PB020002|Outros Regimes Especiais - Valor do crédito presumido para ajuste de apuração ICMS para PB|01012009|
+PB020003|Termo de Acordo de Regime Especila (TARE) - Valor do crédito presumido para ajuste de apuração ICMS para PB|01012009|
+PB020004|Previsão no RICMS - Valor do crédito presumido para ajuste de apuração ICMS para PB|01012009|
+PB020005|FAIN - Valor do crédito presumido para ajuste de apuração ICMS para PB|01012009|
+PB020006|Cheque Habitação - Valor do crédito gerado com o recebimento do cheque habitação como pagamento para ajuste de apuração ICMS para PB|01012009|
+PB020007|Cheque Educação - Valor do crédito gerado com o recebimento do cheque educação como pagamento para ajuste de apuração ICMS para PB|01012009|
+PB020008|Gol de Placa - Valor do crédito utilizado com o Incentivo denominado Gol de Placa para ajuste de apuração ICMS para PB|01012009|
+PB020009|FIC (Fundo de Incentivo a Cultura) - Valor concedido de crédito presumido do ICMS de até 80% (oitenta por cento) do valor aplicado pelos contribuintes no financiamento de projetos culturais para ajuste de apuração ICMS para PB|01012009|
+PB020010|Processos Judiciais - Valor de credito concedido para ajuste de apuração ICMS PB|01012009|
+PB020011|Ativo Imobilizado - Valor do Crédito do Ativo Imobilizado|01012009|
+PB020012|Garantido recolhido - Valor de crédito para ajuste do ICMS PB|01012009|
+PB020013|Antecipado recolhido - Valor de Crédito para ajuste do ICMS PB|01012009|
+PB012001|Outros créditos para ajuste de apuração ICMS ST para PB|01012009|02012009
+PB012003|Repasse- Valor do repasse para outras UF'S para ajuste a crédito de apuração ICMS ST para PB|01012009|02012009
+PB120001|Outros créditos para ajuste de apuração ICMS  ST para PB|03012009|
+PB120003|Repasse- Valor do  repasse para outras UF'S para ajuste a crédito de apuração ICMS ST para PB|03012009|
+PB120004|Substituição tributária interna motivada por regime especial de tributação - Fonte|01012009|
+PB030001|Estorno de débitos para ajuste de apuração ICMS para PB|01012009|
+PB030002|FUNCEP-PB-ICMS NORMAL - O valor informado neste campo deverá se no máximo 2% do valor informado no registro para estorno de debitos para ajuste de apuração ICMS para PB|01012009|
+PB130001|Estorno de débitos para ajuste de apuração ICMS ST para PB|01012009|
+PB130002|FUNCEP - PB- SUBSTITUIÇÃO PELAS SAÍDAS PARA O ESTADO - Valor recolhido - estorno de debitos para ajuste de apuração ICMS para PB|01012009|
+PB130003|FUNCEP - PB- SUBSTITUIÇÃO PELAS ENTRADAS - Valor recolhido - estorno de debitos para ajuste de apuração ICMS para PB|01012009|
+PB130004|FUNCEP - PB - REGIME FONTE - Valor recolhido - estorno de debitos para ajuste de apuração ICMS SUBSTITUIÇÃO para PB|01012009|
+PB040001|Deduções do imposto apurado na apuração ICMS para PB|01012009|
+PB140001|Deduções do imposto apurado na apuração ICMS ST para PB|01012009|
+PB050001|Outros Débitos especiais de ICMS para a  PB|01012009|01012009|
+PB050002|Diferencial de Alíquota de consumo e ativo fixo|01012009|
+PB050003|FUNCEP - PB - Diferencial de alíquota - Valor Recolhido|01012009|
+PB150001|Outros Débitos especiais de ICMS ST para a PB|01012009|
+PB150002|FUNCEP - PB - Substituição por Entrada - Valor Recolhido|01012009|

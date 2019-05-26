@@ -1,0 +1,1622 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGACON</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A030000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000315</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Contas</Title>
+				<Title lang="es">Plan de Cuentas</Title>
+				<Title lang="en">Chart Of Accounts</Title>
+				<Function>CONA020</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000316</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Itens Contábeis</Title>
+				<Title lang="es">Ítems Contables</Title>
+				<Title lang="en">Accounting Items</Title>
+				<Function>CONA340</Function>
+				<Type>1</Type>
+				<Tables>SID</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000317</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamento Padrão</Title>
+				<Title lang="es">Asiento Estándar</Title>
+				<Title lang="en">Standard Entry</Title>
+				<Function>CONA010</Function>
+				<Type>1</Type>
+				<Tables>SI5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000318</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custos</Title>
+				<Title lang="es">Centro de Costos</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CONA060</Function>
+				<Type>1</Type>
+				<Tables>SI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000319</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Históricos</Title>
+				<Title lang="es">Historiales</Title>
+				<Title lang="en">Histories</Title>
+				<Function>CONA030</Function>
+				<Type>1</Type>
+				<Tables>SI8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000320</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas</Title>
+				<Title lang="es">Monedas</Title>
+				<Title lang="en">Currencies</Title>
+				<Function>MATA090</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000321</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Criação de Contas</Title>
+				<Title lang="es">Creación de Cuenta</Title>
+				<Title lang="en">Account Creation</Title>
+				<Function>CONA130</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000322</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateios On-line</Title>
+				<Title lang="es">Prorrateos On-line</Title>
+				<Title lang="en">On-line Proration</Title>
+				<Function>CONA040</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000323</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateios Off-line</Title>
+				<Title lang="es">Prorrateo Off-line</Title>
+				<Title lang="en">Off-line Proration</Title>
+				<Function>CONA240</Function>
+				<Type>1</Type>
+				<Tables>SIB</Tables>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000324</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orçamentos</Title>
+				<Title lang="es">Presupuestos</Title>
+				<Title lang="en">Quotations</Title>
+				<Function>CONA190</Function>
+				<Type>1</Type>
+				<Tables>SIA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000325</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Reais</Title>
+				<Title lang="es">Saldos Reales</Title>
+				<Title lang="en">Actual Balances</Title>
+				<Function>CONA090</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000326</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Moedas</Title>
+				<Title lang="es">Saldos Monedas</Title>
+				<Title lang="en">Currency Balances</Title>
+				<Function>CONA110</Function>
+				<Type>1</Type>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000327</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas</Title>
+				<Title lang="es">Formulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>CFGX019</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Tables>SM4</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000328</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000000330</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lanç. Contábeis</Title>
+				<Title lang="es">Asientos Contables</Title>
+				<Title lang="en">Accounting Entries</Title>
+				<Function>CONA050</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SIA</Tables>
+				<Tables>SI4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000331</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-lançamentos</Title>
+				<Title lang="es">Asientos Previos</Title>
+				<Title lang="en">Pre Entry</Title>
+				<Function>CONA051</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SIC</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SIA</Tables>
+				<Tables>SI4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000332</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A030000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000333</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generics</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000334</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão</Title>
+				<Title lang="es">Libro Mayor</Title>
+				<Title lang="en">Ledger</Title>
+				<Function>CONC010</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000336</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A030000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000338</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Contas</Title>
+				<Title lang="es">Plan de Cuentas</Title>
+				<Title lang="en">Chart Of Accounts</Title>
+				<Function>CONR010</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000339</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo</Title>
+				<Title lang="es">Centro de Costos</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CONR230</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relacao Historicos</Title>
+				<Title lang="es">Lista Historiales</Title>
+				<Title lang="en">List Histories</Title>
+				<Function>CONR020</Function>
+				<Type>1</Type>
+				<Tables>SI8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000341</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Itens Contabeis</Title>
+				<Title lang="es">Items Contables</Title>
+				<Title lang="en">Accounting Items</Title>
+				<Function>CONR400</Function>
+				<Type>1</Type>
+				<Tables>SID</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000342</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Operacionais</Title>
+			<Title lang="es">Operativos</Title>
+			<Title lang="en">Operations</Title>
+			<ItemID>0000000344</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel Lancamentos</Title>
+				<Title lang="es">Lista Registros</Title>
+				<Title lang="en">List Entries</Title>
+				<Function>CONR030</Function>
+				<Type>1</Type>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000345</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lancamentos P/lote</Title>
+				<Title lang="es">Registros Por Lote</Title>
+				<Title lang="en">Entries By Lot</Title>
+				<Function>CONR120</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000346</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Dia</Title>
+				<Title lang="es">Registros Dia</Title>
+				<Title lang="en">Day Entries</Title>
+				<Function>CONR250</Function>
+				<Type>1</Type>
+				<Tables>SI2</Tables>
+				<Tables>SI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000348</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha Lancamentos</Title>
+				<Title lang="es">Ficha Registros</Title>
+				<Title lang="en">Entry Card</Title>
+				<Function>CONR330</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SID</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000349</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relacao C Prova</Title>
+				<Title lang="es">Lista  C Prueba</Title>
+				<Title lang="en">List C Test</Title>
+				<Function>CONR150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000350</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lotes C/ Diferenca</Title>
+				<Title lang="es">Lotes C Diferencia</Title>
+				<Title lang="en">Lot W/differences</Title>
+				<Function>CONR420</Function>
+				<Type>1</Type>
+				<Tables>SI2</Tables>
+				<Tables>SIC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000351</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gerenciais</Title>
+			<Title lang="es">de Gestion</Title>
+			<Title lang="en">Management</Title>
+			<ItemID>0000000353</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Reais</Title>
+				<Title lang="es">Bal. Parc. Reales</Title>
+				<Title lang="en">Trial Blnce In R$</Title>
+				<Function>CONR040</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000354</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Suspens</Title>
+				<Title lang="es">Bal. Parc. Suspen.</Title>
+				<Title lang="en">Susp. Trial Blnce.</Title>
+				<Function>CONR260</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000355</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Trimest</Title>
+				<Title lang="es">Bal. Parc. Trimes.</Title>
+				<Title lang="en">Quart. Trial Blnce</Title>
+				<Function>CONR350</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000356</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razao</Title>
+				<Title lang="es">Libro Mayor</Title>
+				<Title lang="en">Ledger</Title>
+				<Function>CONR060</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000357</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razao Moedas</Title>
+				<Title lang="es">Lib. Mayor Monedas</Title>
+				<Title lang="en">Currency Ledger</Title>
+				<Function>CONR070</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000358</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razao C Custo</Title>
+				<Title lang="es">Lib. Mayor C. Cost</Title>
+				<Title lang="en">Cost C. Ledger</Title>
+				<Function>CONR440</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000359</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diario Geral</Title>
+				<Title lang="es">Diario General</Title>
+				<Title lang="en">General Journal</Title>
+				<Function>CONR080</Function>
+				<Type>1</Type>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000360</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diario Geral Ccext</Title>
+				<Title lang="es">Diar. Gen. Cc Ext</Title>
+				<Title lang="en">Ccext Gen.journal</Title>
+				<Function>CONR430</Function>
+				<Type>1</Type>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000363</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanco Geral</Title>
+				<Title lang="es">Balance General</Title>
+				<Title lang="en">General Bal. Sheet</Title>
+				<Function>CONR090</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000364</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Estrang</Title>
+				<Title lang="es">Bal. Parc. Extranj</Title>
+				<Title lang="en">Foreign Trial Bal.</Title>
+				<Function>CONR050</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000365</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Moeda</Title>
+				<Title lang="es">Bal. Parc. Monedas</Title>
+				<Title lang="en">T. Balance Curren.</Title>
+				<Function>CONR220</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000366</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Anuais</Title>
+				<Title lang="es">Saldos Anuales</Title>
+				<Title lang="en">Annual Balances</Title>
+				<Function>CONR100</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000368</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movim Mes a Mes</Title>
+				<Title lang="es">Movim Mes Por Mes</Title>
+				<Title lang="en">Monthly Transact.</Title>
+				<Function>CONR110</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000369</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mov Mes Mes Cc Ext</Title>
+				<Title lang="es">Mov Mes Mes Cc Ext</Title>
+				<Title lang="en">Mthly. Trn. C C Ex</Title>
+				<Function>CONR280</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000370</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa de Resultados</Title>
+				<Title lang="es">Mapa de Resultados</Title>
+				<Title lang="en">Result Map</Title>
+				<Function>CONR190</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000371</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desp Cc Contabil</Title>
+				<Title lang="es">Gasto Cc Contab.</Title>
+				<Title lang="en">Acc. C C Expenses</Title>
+				<Function>CONR200</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000373</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lanc Ccusto Contb.</Title>
+				<Title lang="es">Reg. C. Cost.ctbl</Title>
+				<Title lang="en">Acc. C C Entry</Title>
+				<Function>CONR180</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000374</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lanc Ccusto Extra</Title>
+				<Title lang="es">Reg. C Costo Extr</Title>
+				<Title lang="en">Extra C C Entry</Title>
+				<Function>CONR140</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000375</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desp Ccusto Extra</Title>
+				<Title lang="es">Gasto C Costo Extr</Title>
+				<Title lang="en">Extra C C Expenses</Title>
+				<Function>CONR410</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000376</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Cc Extra</Title>
+				<Title lang="es">Bal. Parc. C C Ext</Title>
+				<Title lang="en">Extra C C Tr. Bal.</Title>
+				<Function>CONR380</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000377</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonst.variacao</Title>
+				<Title lang="es">Estado Variacion</Title>
+				<Title lang="en">Variation Statem.</Title>
+				<Function>CONR170</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000378</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo Orcam.</Title>
+				<Title lang="es">Comparativo Presup</Title>
+				<Title lang="en">Comparative Budget</Title>
+				<Function>CONR390</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SIA</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SID</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000379</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete X Item</Title>
+				<Title lang="es">Bal. Parc. Vs Item</Title>
+				<Title lang="en">Trial Bal.vs. Item</Title>
+				<Function>CONR300</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000380</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bal. Diario X Item</Title>
+				<Title lang="es">Bal. Diar. Vs Item</Title>
+				<Title lang="en">Daily Bal.vs. Item</Title>
+				<Function>CONR340</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SID</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000381</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diario X Item</Title>
+				<Title lang="es">Diario Vs Item</Title>
+				<Title lang="en">Journal Vs. Item</Title>
+				<Function>CONR310</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SIA</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000382</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanc C.c. X Item</Title>
+				<Title lang="es">Bal. C C Vs Item</Title>
+				<Title lang="en">C C Tr. Bal./ Item</Title>
+				<Function>CONR320</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SID</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000384</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movim. Mensal Rxd</Title>
+				<Title lang="es">Mov. Mens. I Vs G</Title>
+				<Title lang="en">R X e Mth. Trans.</Title>
+				<Function>CONR360</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000385</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razao Em 2 Moedas</Title>
+				<Title lang="es">Lib May En 2 Moned</Title>
+				<Title lang="en">Ledger In 2 Curr.</Title>
+				<Function>CONR370</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000387</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Especifcos</Title>
+			<Title lang="es">Especificos</Title>
+			<Title lang="en">Specific</Title>
+			<ItemID>0000018426</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diário</Title>
+				<Title lang="es">Diario</Title>
+				<Title lang="en">Daily</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables>CWP</Tables>
+				<Tables>CWR</Tables>
+				<Tables>CWS</Tables>
+				<Tables>CWT</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018427</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Diario,diário</KeyWord>
+					<KeyWord lang="es">Diario,diario</KeyWord>
+					<KeyWord lang="en">Daily,daily</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sub-diário</Title>
+				<Title lang="es">Subdiario</Title>
+				<Title lang="en">Sub-diary</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables>CWP</Tables>
+				<Tables>CWR</Tables>
+				<Tables>CWS</Tables>
+				<Tables>CWT</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018428</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Subdiario,subdiário</KeyWord>
+					<KeyWord lang="es">Subsidiario,subsidiario</KeyWord>
+					<KeyWord lang="en">Subsidiary,subsidiary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A030000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Atualizacoes</Title>
+			<Title lang="es">Actualizaciones</Title>
+			<Title lang="en">Updates</Title>
+			<ItemID>0000000392</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atual Sinteticas</Title>
+				<Title lang="es">Actual. Sinteticas</Title>
+				<Title lang="en">Update Summarized</Title>
+				<Function>CONA070</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000393</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos de Abertura</Title>
+				<Title lang="es">Saldos de Apertura</Title>
+				<Title lang="en">Opening Balances</Title>
+				<Function>CONA120</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000394</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reprocessamento</Title>
+				<Title lang="es">Reprocesamiento</Title>
+				<Title lang="en">Reprocessing</Title>
+				<Function>CONA080</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000395</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efetivacao</Title>
+				<Title lang="es">Efectivizacion</Title>
+				<Title lang="en">Confirmation</Title>
+				<Function>CONA350</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SIC</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SID</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000396</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualizacao Moedas</Title>
+				<Title lang="es">Actualiza Monedas</Title>
+				<Title lang="en">Update Currency</Title>
+				<Function>CONA180</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000397</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conversão Saldos</Title>
+				<Title lang="es">Convers. Saldos</Title>
+				<Title lang="en">Converte Balances</Title>
+				<Function>CONA140</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000398</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variacao Monetaria</Title>
+				<Title lang="es">Variac. Monetaria</Title>
+				<Title lang="en">Index</Title>
+				<Function>CONA170</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000399</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Var Monet Cc Extra</Title>
+				<Title lang="es">Var Monet Cc Extra</Title>
+				<Title lang="en">Index Extra C C</Title>
+				<Function>CONA320</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000400</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consolidação</Title>
+				<Title lang="es">Consolidacion</Title>
+				<Title lang="en">Consolidate</Title>
+				<Function>CONA210</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000401</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateios Off Line</Title>
+				<Title lang="es">Prorrateos Off Lin</Title>
+				<Title lang="en">Offline Apportion.</Title>
+				<Function>CONA250</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SIB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000402</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ajuste Orcamentos</Title>
+				<Title lang="es">Ajustar Presupuest</Title>
+				<Title lang="en">Adjust Budgets</Title>
+				<Function>CONA360</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SIA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000403</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilizacao Txt</Title>
+				<Title lang="es">Contabil. Txt</Title>
+				<Title lang="en">Account T X T</Title>
+				<Function>CONA260</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000404</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabil. Cprova</Title>
+				<Title lang="es">Contabil. C. Prueb</Title>
+				<Title lang="en">Account C Test</Title>
+				<Function>CONA270</Function>
+				<Type>1</Type>
+				<Tables>SI2</Tables>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000405</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Folha</Title>
+				<Title lang="es">Int. Plan. Haberes</Title>
+				<Title lang="en">Integrate Payroll</Title>
+				<Function>CONA220</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000406</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inter Company</Title>
+				<Title lang="es">Inter Company</Title>
+				<Title lang="en">Intercompany</Title>
+				<Function>CONA300</Function>
+				<Type>1</Type>
+				<Tables>SIC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000407</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Cód Invertido</Title>
+				<Title lang="es">Gen. Cod Invertido</Title>
+				<Title lang="en">Generate Inv. Code</Title>
+				<Function>CONA330</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000408</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fechamento</Title>
+			<Title lang="es">Cierre</Title>
+			<Title lang="en">Closing</Title>
+			<ItemID>0000000411</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lucros e Perdas</Title>
+				<Title lang="es">Gananc. Y Perdidas</Title>
+				<Title lang="en">Profits And Losses</Title>
+				<Function>CONA160</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000412</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transporta Sald Lp</Title>
+				<Title lang="es">Transp. Saldo Gp</Title>
+				<Title lang="en">Carry Fwd P/l Blnc</Title>
+				<Function>CONA310</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000413</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Encerram de Saldos</Title>
+				<Title lang="es">Cierre de Saldos</Title>
+				<Title lang="en">Close Balances</Title>
+				<Function>CONA150</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000414</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Excel</Title>
+				<Title lang="es">Planilla Excel</Title>
+				<Title lang="en">Excel Worksheet</Title>
+				<Function>APEXCEL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000416</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">.limpeza Mensal</Title>
+				<Title lang="es">.limpieza Mensual</Title>
+				<Title lang="en">.monthly Cleanup</Title>
+				<Function>CONA280</Function>
+				<Type>1</Type>
+				<Tables>SI2</Tables>
+				<Tables>SI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000419</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000000421</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000422</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuarios</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000423</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000424</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Especificos</Title>
+			<Title lang="es">Especificos</Title>
+			<Title lang="en">Specifics</Title>
+			<ItemID>0000018431</ItemID>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B030000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B030000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

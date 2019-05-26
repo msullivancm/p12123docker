@@ -1,0 +1,1957 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAPDS</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A910000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Iniciais</Title>
+			<Title lang="es">Registros Iniciales</Title>
+			<Title lang="en">Start Register</Title>
+			<ItemID>0000020860</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Especialidade</Title>
+				<Title lang="es">Especialidad</Title>
+				<Title lang="en">Specialty</Title>
+				<Function>HSPAHA08</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020891</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Despesa</Title>
+				<Title lang="es">Grupo de Gasto</Title>
+				<Title lang="en">Expense Group</Title>
+				<Function>HSPAHA03</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020880</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Justificativa</Title>
+				<Title lang="es">Justificación</Title>
+				<Title lang="en">Justification</Title>
+				<Function>HSPAHA33</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020938</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Setor</Title>
+				<Title lang="es">Sector</Title>
+				<Title lang="en">Sector</Title>
+				<Function>HSPAHA12</Function>
+				<Type>1</Type>
+				<Tables>GM0</Tables>
+				<Tables>GM1</Tables>
+				<Tables>GM2</Tables>
+				<Tables>GM3</Tables>
+				<Tables>GM4</Tables>
+				<Tables>GM5</Tables>
+				<Tables>GM6</Tables>
+				<Tables>GMB</Tables>
+				<Tables>GMC</Tables>
+				<Tables>GCT</Tables>
+				<Tables>CTT</Tables>
+				<Tables>GCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020924</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clinica</Title>
+				<Title lang="es">Clínica</Title>
+				<Title lang="en">Policlinic</Title>
+				<Function>HSPAHAA4</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020945</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orgão Emissor</Title>
+				<Title lang="es">Órgano Emisor</Title>
+				<Title lang="en">Issuing Body</Title>
+				<Function>HSPAHAC1</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020926</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indicadores</Title>
+				<Title lang="es">Indicadores</Title>
+				<Title lang="en">Indicators</Title>
+				<Function>HSPAHP03</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020855</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Empresa</Title>
+				<Title lang="es">Empresa</Title>
+				<Title lang="en">Company</Title>
+				<Function>HSPAHA05</Function>
+				<Type>1</Type>
+				<Tables>GAE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020939</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. de Sinalizadores</Title>
+				<Title lang="es">Arch. de Señalizadores</Title>
+				<Title lang="en">Sign Register</Title>
+				<Function>PLSPRO02</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>33</Owner>
+				<ItemID>0000020837</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prestador</Title>
+				<Title lang="es">Prestador</Title>
+				<Title lang="en">Provider</Title>
+				<Function>HSPAHA32</Function>
+				<Type>1</Type>
+				<Tables>GAZ</Tables>
+				<Tables>GEU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020894</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Profissional</Title>
+				<Title lang="es">Profesional</Title>
+				<Title lang="en">Professional</Title>
+				<Function>HSPAHA24</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020893</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Interação Medicamentosa</Title>
+				<Title lang="es">Interacción Medicamentosa</Title>
+				<Title lang="en">Medicine Interaction</Title>
+				<Function>PLSPRO03</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>91</Owner>
+				<ItemID>0000020836</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SA5</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SED</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SEA</Tables>
+				<Tables>SAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>2</Owner>
+				<ItemID>0000020936</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Municipio</Title>
+				<Title lang="es">Municipio</Title>
+				<Title lang="en">City</Title>
+				<Function>HSPAHA04</Function>
+				<Type>1</Type>
+				<Tables>GAM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020940</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cid</Title>
+				<Title lang="es">Cie</Title>
+				<Title lang="en">Icd</Title>
+				<Function>HSPAHA20</Function>
+				<Type>1</Type>
+				<Tables>GAS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020879</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lanc/to Automatico</Title>
+				<Title lang="es">Asiento Automático</Title>
+				<Title lang="en">Automatic Entry</Title>
+				<Function>HSPAHAA8</Function>
+				<Type>1</Type>
+				<Tables>GDC</Tables>
+				<Tables>GDM</Tables>
+				<Tables>GDD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020876</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo</Title>
+				<Title lang="es">Centro de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA180</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>CTT</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>34</Owner>
+				<ItemID>0000020937</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Convenio</Title>
+				<Title lang="es">Convenio</Title>
+				<Title lang="en">Insurance</Title>
+				<Function>HSPAHA18</Function>
+				<Type>1</Type>
+				<Tables>GA9</Tables>
+				<Tables>GCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020870</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro Para Agendamento</Title>
+			<Title lang="es">Archivo Para Programación En Agenda</Title>
+			<Title lang="en">File For Schedule</Title>
+			<ItemID>0000020834</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo Agendamento</Title>
+				<Title lang="es">Motivo Programación En Agenda</Title>
+				<Title lang="en">Schedule Reason</Title>
+				<Function>HSPAHM55</Function>
+				<Type>1</Type>
+				<Tables>GT7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020839</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Disponibilidade</Title>
+				<Title lang="es">Disponibilidad</Title>
+				<Title lang="en">Availability</Title>
+				<Function>HSPAHACJ</Function>
+				<Type>1</Type>
+				<Tables>GM6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020842</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo Cancelam. Agenda</Title>
+				<Title lang="es">Motivo Anul. Agenda</Title>
+				<Title lang="en">Reason Cancelation Schedule</Title>
+				<Function>HSPAHA96</Function>
+				<Type>1</Type>
+				<Tables>GM7</Tables>
+				<Tables>GM9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021285</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Taxas/diarias</Title>
+				<Title lang="es">Arch. Tasas/tarifas Diarias</Title>
+				<Title lang="en">Register Rates/daily Fees</Title>
+				<Function>HSPAHA21</Function>
+				<Type>1</Type>
+				<Tables>GAA</Tables>
+				<Tables>GAB</Tables>
+				<Tables>SBM</Tables>
+				<Tables>GA9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020875</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Credenciamento</Title>
+				<Title lang="es">Acreditación</Title>
+				<Title lang="en">Accreditation</Title>
+				<Function>HSPAHA35</Function>
+				<Type>1</Type>
+				<Tables>GAY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020897</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros do Paciente</Title>
+			<Title lang="es">Archivos Del Paciente</Title>
+			<Title lang="en">Patient Registers</Title>
+			<ItemID>0000020913</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Paciente</Title>
+				<Title lang="es">Paciente</Title>
+				<Title lang="en">Patient</Title>
+				<Function>HSPAHA58</Function>
+				<Type>1</Type>
+				<Tables>GBH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020914</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nacionalidades</Title>
+				<Title lang="es">Nacionalidades</Title>
+				<Title lang="en">Nationalities</Title>
+				<Function>HSPAHABR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020915</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Origem Paciente</Title>
+				<Title lang="es">Origen Paciente</Title>
+				<Title lang="en">Patient Source</Title>
+				<Function>HSPAHAA5</Function>
+				<Type>1</Type>
+				<Tables>GD0</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020916</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Destino Paciente</Title>
+				<Title lang="es">Destino Paciente</Title>
+				<Title lang="en">Patient Destination</Title>
+				<Function>HSPAHABH</Function>
+				<Type>1</Type>
+				<Tables>GEV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020917</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo Interdição</Title>
+				<Title lang="es">Motivo Interdicción</Title>
+				<Title lang="en">Interdiction Reason</Title>
+				<Function>HSPAHAB2</Function>
+				<Type>1</Type>
+				<Tables>GDI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020941</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Utilitarios</Title>
+			<Title lang="es">Utilidades</Title>
+			<Title lang="en">Utilities</Title>
+			<ItemID>0000021513</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SA5</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDD</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SC4</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SG2</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SYD</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SIC</Tables>
+				<Tables>SID</Tables>
+				<Tables>SJ2</Tables>
+				<Tables>SBG</Tables>
+				<Tables>SBS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>2</Owner>
+				<ItemID>0000021276</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impressoras</Title>
+				<Title lang="es">Impresoras</Title>
+				<Title lang="en">Printers</Title>
+				<Function>HSPAHA06</Function>
+				<Type>1</Type>
+				<Tables>GFJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020943</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Recurso</Title>
+				<Title lang="es">Arch. Recurso</Title>
+				<Title lang="en">Resource Register</Title>
+				<Function>HSPAHACH</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020946</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Farmaco</Title>
+				<Title lang="es">Fármaco</Title>
+				<Title lang="en">Drug</Title>
+				<Function>HSPAHA09</Function>
+				<Type>1</Type>
+				<Tables>GA0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021516</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Região da Imagem</Title>
+				<Title lang="es">Región de La Imagen</Title>
+				<Title lang="en">Image Region</Title>
+				<Function>HSPAHM60</Function>
+				<Type>1</Type>
+				<Tables>GTE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020841</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapeamento Imagem</Title>
+				<Title lang="es">Mapeo Imagen</Title>
+				<Title lang="en">Image Mapping</Title>
+				<Function>HSPAHM58</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020838</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros de Procedimento</Title>
+			<Title lang="es">Archivos de Procedimiento</Title>
+			<Title lang="en">Procedure Registers</Title>
+			<ItemID>0000021523</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Procedimento</Title>
+				<Title lang="es">Arch. Procedimiento</Title>
+				<Title lang="en">Procedure Register</Title>
+				<Function>HSPAHA28</Function>
+				<Type>1</Type>
+				<Tables>GA7</Tables>
+				<Tables>GA8</Tables>
+				<Tables>GA3</Tables>
+				<Tables>SBM</Tables>
+				<Tables>GAZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020871</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tab. Procedimento</Title>
+				<Title lang="es">Tab. Procedimiento</Title>
+				<Title lang="en">Procedure Table</Title>
+				<Function>HSPAHA15</Function>
+				<Type>1</Type>
+				<Tables>GCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020869</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo Procedimento</Title>
+				<Title lang="es">Grupo Procedimiento</Title>
+				<Title lang="en">Procedure Group</Title>
+				<Function>HSPAHA11</Function>
+				<Type>1</Type>
+				<Tables>GAQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020873</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Guia</Title>
+				<Title lang="es">Tipo de Formulario</Title>
+				<Title lang="en">Form Type</Title>
+				<Function>HSPAHA99</Function>
+				<Type>1</Type>
+				<Tables>GCU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020877</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Procedimento Padra</Title>
+				<Title lang="es">Procedimiento Estándar</Title>
+				<Title lang="en">Standard Procedure</Title>
+				<Function>HSPAHA23</Function>
+				<Type>1</Type>
+				<Tables>GA1</Tables>
+				<Tables>GA2</Tables>
+				<Tables>GAA</Tables>
+				<Tables>GA7</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020874</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regra Cred. Proced</Title>
+				<Title lang="es">Regla Acred. Proced</Title>
+				<Title lang="en">Procedure Accreditation Rule</Title>
+				<Function>HSPAHAB5</Function>
+				<Type>1</Type>
+				<Tables>GDV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020896</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cred. Procedimento</Title>
+				<Title lang="es">Acred. Procedimeniento</Title>
+				<Title lang="en">Procedure Accreditation</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020898</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Para Atendimento</Title>
+			<Title lang="es">Archivos Para Atención</Title>
+			<Title lang="en">Registers For Service</Title>
+			<ItemID>0000021524</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Atendimento</Title>
+				<Title lang="es">Tipo de Atención</Title>
+				<Title lang="en">Service Type</Title>
+				<Function>HSPAHA60</Function>
+				<Type>1</Type>
+				<Tables>G07</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021598</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pergunta</Title>
+				<Title lang="es">Pregunta</Title>
+				<Title lang="en">Question</Title>
+				<Function>HSPAHA86</Function>
+				<Type>1</Type>
+				<Tables>GCH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020908</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Pergunta</Title>
+				<Title lang="es">Grupo de Pregunta</Title>
+				<Title lang="en">Question Group</Title>
+				<Function>HSPAHA91</Function>
+				<Type>1</Type>
+				<Tables>GCO</Tables>
+				<Tables>GCG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020905</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Programas</Title>
+				<Title lang="es">Archivo de Programas</Title>
+				<Title lang="en">Programs Register</Title>
+				<Function>PLSPRO01</Function>
+				<Type>1</Type>
+				<Tables>BOA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>91</Owner>
+				<ItemID>0000020835</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questionário Anamn</Title>
+				<Title lang="es">Cuestionario Anamn</Title>
+				<Title lang="en">Anamnese Questinnaire</Title>
+				<Function>HSPAHA47</Function>
+				<Type>1</Type>
+				<Tables>GFS</Tables>
+				<Tables>GFT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020904</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Guia Tiss</Title>
+				<Title lang="es">Tipo de Formulario Tiss</Title>
+				<Title lang="en">Tiss Form Type</Title>
+				<Function>HSPAHA76</Function>
+				<Type>1</Type>
+				<Tables>G16</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000021179</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carater Atendiment</Title>
+				<Title lang="es">Carácter Atención</Title>
+				<Title lang="en">Service Character</Title>
+				<Function>HSPAHAA6</Function>
+				<Type>1</Type>
+				<Tables>GD1</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020918</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sala de Atendiment</Title>
+				<Title lang="es">Sala de Atención</Title>
+				<Title lang="en">Service Room</Title>
+				<Function>HSPAHABJ</Function>
+				<Type>1</Type>
+				<Tables>GF3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020928</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo Cancelament Atendimento</Title>
+				<Title lang="es">Motivo Anulación Atención</Title>
+				<Title lang="en">Service Cancelation Reason</Title>
+				<Function>HSPAHABG</Function>
+				<Type>1</Type>
+				<Tables>GES</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020927</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo Alta</Title>
+				<Title lang="es">Tipo Alta</Title>
+				<Title lang="en">Type Discharge</Title>
+				<Function>HSPAHA16</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020925</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuarios Bloq./fic</Title>
+				<Title lang="es">Usuarios Bloq./fic</Title>
+				<Title lang="en">Users Block./fic</Title>
+				<Function>HSPAHACB</Function>
+				<Type>1</Type>
+				<Tables>GGY</Tables>
+				<Tables>GHW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020944</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000021530</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gestão do Programa</Title>
+				<Title lang="es">Gestión Del Programa</Title>
+				<Title lang="en">Program Management</Title>
+				<Function>PLSMPROM</Function>
+				<Type>1</Type>
+				<Tables>BOM</Tables>
+				<Tables>BOA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>91</Owner>
+				<ItemID>0000020831</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Horários</Title>
+				<Title lang="es">Genera Horarios</Title>
+				<Title lang="en">Generates Fees</Title>
+				<Function>HSPAHM53</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020840</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda</Title>
+				<Title lang="es">Agenda</Title>
+				<Title lang="en">Schedule</Title>
+				<Function>HSPAHM54</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020832</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimento Eletivo</Title>
+				<Title lang="es">Atención Electiva</Title>
+				<Title lang="en">Elective Service</Title>
+				<Function>HSPM24AA</Function>
+				<Type>1</Type>
+				<Tables>GCY</Tables>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GM1</Tables>
+				<Tables>GBH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020859</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel Atendimento</Title>
+				<Title lang="es">Panel Atención</Title>
+				<Title lang="en">Service Panel</Title>
+				<Function>HSPAHM59</Function>
+				<Type>1</Type>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020833</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Anamnese</Title>
+				<Title lang="es">Anamnesis</Title>
+				<Title lang="en">Anamnesis</Title>
+				<Function>HSPAHMA7</Function>
+				<Type>1</Type>
+				<Tables>GFS</Tables>
+				<Tables>GFT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020902</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A910000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000020930</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genericos</Title>
+				<Title lang="es">Genéricos</Title>
+				<Title lang="en">Generics</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020947</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A910000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Agenda</Title>
+			<Title lang="es">Agenda</Title>
+			<Title lang="en">Schedule</Title>
+			<ItemID>0000020931</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda Marcada</Title>
+				<Title lang="es">Agenda Marcada</Title>
+				<Title lang="en">Schedule Booked</Title>
+				<Function>HSPAHR48</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Tables>GBJ</Tables>
+				<Tables>GBH</Tables>
+				<Tables>GCM</Tables>
+				<Tables>GA7</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GM6</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020948</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda Cancelada</Title>
+				<Title lang="es">Agenda Anulada</Title>
+				<Title lang="en">Schedule Canceled</Title>
+				<Function>HSPAHR73</Function>
+				<Type>1</Type>
+				<Tables>GM9</Tables>
+				<Tables>GMA</Tables>
+				<Tables>GM7</Tables>
+				<Tables>SRA</Tables>
+				<Tables>GCM</Tables>
+				<Tables>GA7</Tables>
+				<Tables>GCS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020949</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda Transferida</Title>
+				<Title lang="es">Agenda Transferida</Title>
+				<Title lang="en">Schedule Transferred</Title>
+				<Function>HSPAHR74</Function>
+				<Type>1</Type>
+				<Tables>GMA</Tables>
+				<Tables>GM7</Tables>
+				<Tables>SRA</Tables>
+				<Tables>GCM</Tables>
+				<Tables>GA7</Tables>
+				<Tables>GCS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020950</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda Complementa</Title>
+				<Title lang="es">Agenda Complementa</Title>
+				<Title lang="en">Complementary Schedule</Title>
+				<Function>HSPAHR75</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Tables>GBJ</Tables>
+				<Tables>GBH</Tables>
+				<Tables>GCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020951</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Marcacao  Periodo</Title>
+				<Title lang="es">Marcacción Período</Title>
+				<Title lang="en">Period Selection</Title>
+				<Function>HSPAHRA0</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020952</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Marcacao Horario</Title>
+				<Title lang="es">Marcacción Horario</Title>
+				<Title lang="en">Timekeeping</Title>
+				<Function>HSPRA6AM</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020953</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agendas Por Medico</Title>
+				<Title lang="es">Agendas Por Médico</Title>
+				<Title lang="en">Schedules By Medical Doctor</Title>
+				<Function>HSPR24AM</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020954</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pac. Atend./faltosos</Title>
+				<Title lang="es">Pac. Atend./faltantes</Title>
+				<Title lang="en">Service Pack/absentees</Title>
+				<Function>HSPAHR52</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020955</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estatist Marcacoes</Title>
+				<Title lang="es">Estadíst Marcaciones</Title>
+				<Title lang="en">Statistic Selections</Title>
+				<Function>HSPAHR46</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Tables>GBJ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020956</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Promoção da Saude</Title>
+			<Title lang="es">Promoción de La Salud</Title>
+			<Title lang="en">Health Promotion</Title>
+			<ItemID>0000020957</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatorio Geral</Title>
+				<Title lang="es">Informe General</Title>
+				<Title lang="en">General Report</Title>
+				<Function>PLSRPRO02</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>91</Owner>
+				<ItemID>0000020958</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Atendimento</Title>
+			<Title lang="es">Atención</Title>
+			<Title lang="en">Service</Title>
+			<ItemID>0000020959</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Admissao Pacientes</Title>
+				<Title lang="es">Ingreso Pacientes</Title>
+				<Title lang="en">Entry Patients</Title>
+				<Function>HSPAHR26</Function>
+				<Type>1</Type>
+				<Tables>GCY</Tables>
+				<Tables>SRA</Tables>
+				<Tables>GA9</Tables>
+				<Tables>GCZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020960</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saida de Pacientes</Title>
+				<Title lang="es">Salida de Pacientes</Title>
+				<Title lang="en">Patients Exit</Title>
+				<Function>HSPAHR33</Function>
+				<Type>1</Type>
+				<Tables>GCY</Tables>
+				<Tables>SRA</Tables>
+				<Tables>GA9</Tables>
+				<Tables>GCZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020961</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atend. No Periodo</Title>
+				<Title lang="es">Atenc. En El Período</Title>
+				<Title lang="en">Service In Period</Title>
+				<Function>HSPAHR27</Function>
+				<Type>1</Type>
+				<Tables>GCY</Tables>
+				<Tables>SRA</Tables>
+				<Tables>GCZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020962</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Guias Por Setor</Title>
+				<Title lang="es">Formularios Por Sector</Title>
+				<Title lang="en">Forms By Sector</Title>
+				<Function>HSPAHRC9</Function>
+				<Type>1</Type>
+				<Tables>GCY</Tables>
+				<Tables>SRA</Tables>
+				<Tables>GCZ</Tables>
+				<Tables>GCU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020963</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proced. Realizados</Title>
+				<Title lang="es">Proced. Realizados</Title>
+				<Title lang="en">Proced. Performed</Title>
+				<Function>HSPAHRDI</Function>
+				<Type>1</Type>
+				<Tables>GD7</Tables>
+				<Tables>GA7</Tables>
+				<Tables>GAQ</Tables>
+				<Tables>GCY</Tables>
+				<Tables>GCZ</Tables>
+				<Tables>GA9</Tables>
+				<Tables>GCS</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020964</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Disponib. Consulto</Title>
+				<Title lang="es">Disponib. Consulto</Title>
+				<Title lang="en">Query Availability</Title>
+				<Function>HSPAHRDQ</Function>
+				<Type>1</Type>
+				<Tables>GM6</Tables>
+				<Tables>GM5</Tables>
+				<Tables>GF3</Tables>
+				<Tables>SRA</Tables>
+				<Tables>GCS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020965</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atend. Cancelado</Title>
+				<Title lang="es">Atenc. Anulada</Title>
+				<Title lang="en">Service Canceled</Title>
+				<Function>HSPAHRC1</Function>
+				<Type>1</Type>
+				<Tables>GCY</Tables>
+				<Tables>GBH</Tables>
+				<Tables>GA9</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020966</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atend. Por Usuario</Title>
+				<Title lang="es">Atenc. Por Usuario</Title>
+				<Title lang="en">Service By User</Title>
+				<Function>HSPAHR49</Function>
+				<Type>1</Type>
+				<Tables>GCY</Tables>
+				<Tables>GCS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020967</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contas Medicas</Title>
+			<Title lang="es">Cuentas Médicas</Title>
+			<Title lang="en">Medical Accounts</Title>
+			<ItemID>0000020968</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atend. Por Periodo</Title>
+				<Title lang="es">Atenc. Por Período</Title>
+				<Title lang="en">Service By Period</Title>
+				<Function>HSPAHR19</Function>
+				<Type>1</Type>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Tables>GBH</Tables>
+				<Tables>GCZ</Tables>
+				<Tables>GA9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020969</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Estatistica</Title>
+			<Title lang="es">Estadística</Title>
+			<Title lang="en">Kardex By Day</Title>
+			<ItemID>0000020972</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Agenda</Title>
+			<Title lang="es">Agenda</Title>
+			<Title lang="en">Schedule</Title>
+			<ItemID>0000020973</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Medico/proced.</Title>
+				<Title lang="es">Médico/proced.</Title>
+				<Title lang="en">Medical Doctor/procedure</Title>
+				<Function>HSPR2901</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020978</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proced/medico</Title>
+				<Title lang="es">Proced/médico</Title>
+				<Title lang="en">Procedure/medical Doctor</Title>
+				<Function>HSPR2902</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020979</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Medico</Title>
+				<Title lang="es">Médico</Title>
+				<Title lang="en">Medical Doctor</Title>
+				<Function>HSPR3102</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020980</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Municipio</Title>
+				<Title lang="es">Municipio</Title>
+				<Title lang="en">City</Title>
+				<Function>HSPR3101</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020981</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Procedimento</Title>
+				<Title lang="es">Procedimiento</Title>
+				<Title lang="en">Procedure</Title>
+				<Function>HSPR3103</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020982</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuario</Title>
+				<Title lang="es">Usuario</Title>
+				<Title lang="en">User</Title>
+				<Function>HSPR3104</Function>
+				<Type>1</Type>
+				<Tables>GM8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020983</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda Cancelada</Title>
+				<Title lang="es">Agenda Anulada</Title>
+				<Title lang="en">Schedule Canceled</Title>
+				<Function>HSPAHR11</Function>
+				<Type>1</Type>
+				<Tables>GM7</Tables>
+				<Tables>GM8</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020984</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Atendimentos</Title>
+			<Title lang="es">Atenciones</Title>
+			<Title lang="en">Services</Title>
+			<ItemID>0000020985</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto Por Clinica</Title>
+				<Title lang="es">Atención Por Clínica</Title>
+				<Title lang="en">Service By Clinic</Title>
+				<Function>HSPRC001</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Tables>GCW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020986</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto Por Cid</Title>
+				<Title lang="es">Atenc Por Cie</Title>
+				<Title lang="en">Service By City</Title>
+				<Function>HSPRC002</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020987</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdo Por Origem</Title>
+				<Title lang="es">Atenc Por Origen</Title>
+				<Title lang="en">Health Care By Origin</Title>
+				<Function>HSPRC003</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Tables>GD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020988</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto Por Especiad</Title>
+				<Title lang="es">Atenc Por Especialidad</Title>
+				<Title lang="en">Healthcare By Specialization</Title>
+				<Function>HSPRC004</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020989</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto Por Convenio</Title>
+				<Title lang="es">Atenc Por Seguro</Title>
+				<Title lang="en">Healthcare By Insurance Plan</Title>
+				<Function>HSPRC005</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Tables>GA9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020990</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto Por Plano</Title>
+				<Title lang="es">Atenc Por Plan</Title>
+				<Title lang="en">Healthcare By Plan</Title>
+				<Function>HSPRC006</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Tables>GCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020991</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto Por Profis.</Title>
+				<Title lang="es">Atenc Por Profes.</Title>
+				<Title lang="en">Healthcare By Profession</Title>
+				<Function>HSPRC007</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020992</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto Por Dia Sem.</Title>
+				<Title lang="es">Atenc Por Día Sem.</Title>
+				<Title lang="en">Healthcare By Day Of Week</Title>
+				<Function>HSPRC008</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020993</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto Por Horario</Title>
+				<Title lang="es">Atenc Por Horario</Title>
+				<Title lang="en">Healthcare By Time</Title>
+				<Function>HSPRC009</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020994</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdo Diario/horari</Title>
+				<Title lang="es">Atenc Diaria/horari</Title>
+				<Title lang="en">Daily Service/time</Title>
+				<Function>HSPAHR32</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020995</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saida Tipo de Alta</Title>
+				<Title lang="es">Salida Tipo de Alta</Title>
+				<Title lang="en">Discharge Type Exit</Title>
+				<Function>HSPRC010</Function>
+				<Type>1</Type>
+				<Tables>GCZ</Tables>
+				<Tables>GCS</Tables>
+				<Tables>GCY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020996</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atdto X Status</Title>
+				<Title lang="es">Atenc Vs. Estatus</Title>
+				<Title lang="en">Service X Status</Title>
+				<Function>HSPR7901</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000020997</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Genericos</Title>
+			<Title lang="es">Genéricos</Title>
+			<Title lang="en">Generics</Title>
+			<ItemID>0000020999</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impressao Etiqueta</Title>
+				<Title lang="es">Impresión Etiqueta</Title>
+				<Title lang="en">Tag Printing</Title>
+				<Function>HSPAHR71</Function>
+				<Type>1</Type>
+				<Tables>GC7</Tables>
+				<Tables>GC8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>91</Module>
+				<Owner>51</Owner>
+				<ItemID>0000021000</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B910000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B910000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

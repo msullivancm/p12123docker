@@ -1,0 +1,22 @@
+versão=3.0
+PA109999|Outros débitos para ajuste de apuração ICMS ST|01012009|
+PA119999|Estorno de créditos para ajuste de apuração ICMS ST|01012009|
+PA129999|Outros créditos para ajuste de apuração ICMS ST|01012009|
+PA139999|Estorno de débitos para ajuste de apuração ICMS ST|01012009|
+PA149999|Deduções do imposto apurado na apuração ICMS ST|01012009|
+PA059999|Débito especial de ICMS|01012009|
+PA159999|Débito especial de ICMS ST|01012009|
+PA009999|Outros Débitos|01012009|
+PA019999|Outros Estornos de Créditos|01012009|
+PA020001|Crédito Presumido - Incentivo Fiscal|01012009|
+PA020002|Crédito do Ativo Imobilizado - Registrar 1/48|01012009|
+PA020003|Crédito Homologado por Antecipação na Saída|01012009|
+PA020004|Crédito pelo Recolhimento do ICMS Antecipado Glosa Crédito|01012009|
+PA020005|Crédito Cheque Moradia - Crédito Outorgado de ICMS relativo ao Programa Nossa Casa (Baixa)|01012009|
+PA020006|Restituição de indébito|01012009|
+PA020007|Saldo Credor do Período Anterior|01012009|
+PA029999|Outros Créditos|01012009|
+PA039999|Estorno de Débitos|01012009|
+PA040001|Deduções - Lei Semear|01012009|
+PA040002|Deduções - FICOP|01012009|
+PA049999|Outras Deduções|01012009|

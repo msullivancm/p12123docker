@@ -1,0 +1,56 @@
+versão=3.0
+MS009999|Outros débitos para ajuste de apuração ICMS.|01012009|
+MS019999|Estorno de créditos para ajuste de apuração ICMS.|01012009|31032009|
+MS019999|Outros estornos de crédito para ajuste de apuração ICMS.|01042009|
+MS020001|Aquisição de ativos (exceto ECF).|01012009|
+MS020002|Crédito Outorgado.|01012009|
+MS020003|Crédito Presumido - por aquisição de ECF.|01012009|
+MS020004|Crédito Presumido - Operações Interestaduais.|01012009|
+MS020005|Crédito Presumido - Operações Internas.|01012009|
+MS020006|Crédito Presumido - Serviço de Transporte.|01012009|
+MS020007|Entrada ICMS autorizado.|01012009|
+MS020008|Homologados através do CECRE (Cert. de Créd.).|01012009|
+MS020009|PDAGRO.|01012009|
+MS020010|Programa de Incentivo - 1º Emprego.|01012009|
+MS020011|Programa de Incentivo - Leitão Vida.|01012009|
+MS020012|Programa de Incentivo - Novilho Precoce.|01012009|
+MS020013|Incentivo - Outros.|01012009|
+MS020014|Outros créditos - Exceto estimativa.|01012009|
+MS020030|Outros créditos - Determinados por ato administrativo ou judicial.|01012009|31032009|
+MS020030|Crédito reconhecido por ato administrativo ou judicial.|01042009|
+MS020015|Crédito pela entrada de energia elétrica para consumo no processo de industrialização.|01012009|
+MS020016|Crédito pela entrada de energia elétrica destinada a operação de saída subseqüente.|01012009|
+MS020017|Crédito pela entrada de energia elétrica cujo consumo resultar em operação de saída ou prestação para o exterior.|01012009|
+MS020018|Crédito pelo serviço de comunicação utilizado na prestação de serviço da mesma natureza.|01012009|
+MS020019|Crédito pelo serviço de comunicação utilizado do qual resultar operação de saída para o exterior.|01012009|
+MS020020|Ressarcimento / Restituição de ICMS.|01012009|
+MS020021|Transferência de crédito de ICMS.|01012009|
+MS029999|Outros créditos para ajuste de apuração do ICMS.|01012009|
+MS030001|Estorno de débitos - Determinados por ato administrativo ou judicial.|01012009|
+MS039999|Estorno de débitos para ajuste de apuração ICMS.|01012009|31032009|
+MS039999|Outros estornos de débito para ajuste de apuração ICMS.|01042009|
+MS040001|Dedução do imposto apurado - Utilização de crédito transferido|01012009|
+MS040051|Dedução do imposto apurado - ICMS Mínimo|01012009|
+MS040052|Dedução do imposto apurado - Incentivo Pró-Indústria CDI|01012009|
+MS040053|Dedução do imposto apurado - Programa de Incentivo a Cultura|01012009|
+MS040054|Dedução do imposto apurado - Programa de Incentivo ao Desporto|01012009|
+MS040055|Dedução do imposto apurado - FIS|01012009|
+MS040056|Dedução do imposto apurado - Outras Deduções (Exceto Estimativa)|01012009|
+MS040057|Dedução do imposto apurado - ICMS Garantido|01012009|
+MS040058|Dedução do imposto apurado - ICMS recol. com base nas entr.|01012009|
+MS040059|Dedução do imposto apurado - Saldo cred. resultante da apur. da est. do sem.|01012009|
+MS040060|Dedução do imposto apurado - Programa Estadual de Segurança Alimentar|01012009|
+MS040061|Dedução do imposto apurado - Fundo de Investimentos Esportivos (FIE/MS)|01012009|
+MS040062|Dedução do imposto apurado - ICMS Adicional|01012009|
+MS049999|Deduções do imposto apurado na apuração ICMS.|01012009|31032009|
+MS049999|Outras deduções do imposto apurado na apuração ICMS.|01042009|
+MS050001|Diferencial de Alíquota do ICMS.|01012009|
+MS059999|Outros débitos especiais do ICMS.|01012009|
+MS109999|Outros débitos para ajuste de apuração ICMS ST.|01012009|
+MS119999|Estorno de créditos para ajuste de apuração ICMS ST.|01012009|
+MS129999|Outros créditos para ajuste de apuração do ICMS ST.|01012009|
+MS120020|Ressarcimento / Restituição de ICMS ST.|01012009|
+MS139999|Estorno de débitos para ajuste de apuração ICMS ST.|01012009|
+MS149999|Deduções do imposto apurado na apuração ICMS ST.|01012009|
+MS150001|Diferencial de Alíquota do ICMS ST.|01012009|
+MS159999|Outros débitos especiais do ICMS ST.|01012009|

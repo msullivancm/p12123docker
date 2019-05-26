@@ -1,0 +1,19 @@
+versão=1.0
+RO000001|Diferencial Alíquota Ativo Permanente|01012009|
+RO000002|Diferencial Alíquota Uso e Consumo|01012009|
+RO010001|Estorno de créditos . Processo Administrativo ou Judicial|01012009|
+RO020001|Ressarcimento|01012009|
+RO020002|Presumido|01012009|
+RO020003|Crédito Fiscal - Antecipado|01012009|
+RO030001|Estorno de débitos. Precesso Administrativo ou Judicial|01012009|
+RO040001|Incentivo Fiscal|01012009|
+RO009999|Outros débitos para ajuste de apuração ICMS|01012009|
+RO019999|Estorno de créditos para ajuste de apuração ICMS;|01012009|
+RO029999|Outros créditos para ajuste de apuração ICMS|01012009|
+RO039999|Estorno de débitos para ajuste de apuração ICMS|01012009|
+RO049999|Deduções do imposto apurado na apuração ICMS|01012009|
+RO109999|Outros débitos para ajuste de apuração ICMS ST|01012009|
+RO119999|Estorno de créditos para ajuste de apuração ICMS ST|01012009|
+RO129999|Outros créditos para ajuste de apuração ICMS ST;|01012009|
+RO139999|Estorno de débitos para ajuste de apuração ICMS ST|01012009|
+RO149999|Deduções do imposto apurado na apuração ICMS ST|01012009|

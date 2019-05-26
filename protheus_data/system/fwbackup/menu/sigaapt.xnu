@@ -1,0 +1,524 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAAPT</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A640000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000009772</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos</Title>
+				<Title lang="es">Tipos</Title>
+				<Title lang="en">Types</Title>
+				<Function>APTA080</Function>
+				<Type>1</Type>
+				<Tables>RE5</Tables>
+				<Tables>REK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009773</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Siglas Registros de Classe</Title>
+				<Title lang="es">Siglas Registros de Clase</Title>
+				<Title lang="en">Accronyms Class Registers</Title>
+				<Function>APTA130</Function>
+				<Type>1</Type>
+				<Tables>RE8</Tables>
+				<Tables>REK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009774</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escritórios Advocacia</Title>
+				<Title lang="es">Estudios Abogacia</Title>
+				<Title lang="en">Law Offices</Title>
+				<Function>APTA020</Function>
+				<Type>1</Type>
+				<Tables>RE3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009775</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Juízes</Title>
+				<Title lang="es">Jueces</Title>
+				<Title lang="en">Judges</Title>
+				<Function>APTA030</Function>
+				<Type>1</Type>
+				<Tables>REJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009776</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regiões</Title>
+				<Title lang="es">Regiones</Title>
+				<Title lang="en">Regions</Title>
+				<Function>APTA040</Function>
+				<Type>1</Type>
+				<Tables>RER</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009777</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comarcas e Fóruns</Title>
+				<Title lang="es">Comarcas Y Foros</Title>
+				<Title lang="en">Districts & Courts</Title>
+				<Function>APTA050</Function>
+				<Type>1</Type>
+				<Tables>REC</Tables>
+				<Tables>RER</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009778</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Varas</Title>
+				<Title lang="es">Jurisdiccion</Title>
+				<Title lang="en">Jurisdictions</Title>
+				<Function>APTA060</Function>
+				<Type>1</Type>
+				<Tables>RE1</Tables>
+				<Tables>RER</Tables>
+				<Tables>REC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009779</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Postos Protocolo</Title>
+				<Title lang="es">Puestos Protocolo</Title>
+				<Title lang="en">Voucher Posts</Title>
+				<Function>APTA170</Function>
+				<Type>1</Type>
+				<Tables>REE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009780</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custos</Title>
+				<Title lang="es">Costos</Title>
+				<Title lang="en">Costs</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>34</Owner>
+				<ItemID>0000009781</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Ítem Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBA040</Function>
+				<Type>1</Type>
+				<Tables>CTD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013268</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBA060</Function>
+				<Type>1</Type>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013264</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pessoas</Title>
+			<Title lang="es">Personas</Title>
+			<Title lang="en">Persons</Title>
+			<ItemID>0000009782</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pessoas</Title>
+				<Title lang="es">Personas</Title>
+				<Title lang="en">Persons</Title>
+				<Function>APDA020</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RD0</Tables>
+				<Tables>RDE</Tables>
+				<Tables>RDZ</Tables>
+				<Tables>RE8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>7</Owner>
+				<ItemID>0000009783</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registro de Classes</Title>
+				<Title lang="es">Registro de Clase</Title>
+				<Title lang="en">Class Record</Title>
+				<Function>APTA120</Function>
+				<Type>1</Type>
+				<Tables>REU</Tables>
+				<Tables>RE6</Tables>
+				<Tables>RD0</Tables>
+				<Tables>RE8</Tables>
+				<Tables>REK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009784</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processos</Title>
+			<Title lang="es">Procesos</Title>
+			<Title lang="en">Processes</Title>
+			<ItemID>0000009785</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos</Title>
+				<Title lang="es">Procesos</Title>
+				<Title lang="en">Lawsuits</Title>
+				<Function>APTA100</Function>
+				<Type>1</Type>
+				<Tables>RE0</Tables>
+				<Tables>REL</Tables>
+				<Tables>RE4</Tables>
+				<Tables>REA</Tables>
+				<Tables>RE9</Tables>
+				<Tables>REO</Tables>
+				<Tables>RES</Tables>
+				<Tables>REM</Tables>
+				<Tables>REH</Tables>
+				<Tables>SRA</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SRV</Tables>
+				<Tables>RC1</Tables>
+				<Tables>REG</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SE2</Tables>
+				<Tables>RE5</Tables>
+				<Tables>RD0</Tables>
+				<Tables>CTT</Tables>
+				<Tables>REC</Tables>
+				<Tables>RCE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009786</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A640000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009787</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda</Title>
+				<Title lang="es">Agenda</Title>
+				<Title lang="en">Schedule</Title>
+				<Function>APTC010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009788</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A640000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Processos</Title>
+			<Title lang="es">Procesos</Title>
+			<Title lang="en">Lawsuits</Title>
+			<ItemID>0000009789</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo Processos</Title>
+				<Title lang="es">Resumen Procesos</Title>
+				<Title lang="en">Lawsuit Summary</Title>
+				<Function>APTR010</Function>
+				<Type>1</Type>
+				<Tables>RE0</Tables>
+				<Tables>REL</Tables>
+				<Tables>RE4</Tables>
+				<Tables>RES</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009790</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico Processos</Title>
+				<Title lang="es">Historial Proceso</Title>
+				<Title lang="en">Process History</Title>
+				<Function>APTR020</Function>
+				<Type>1</Type>
+				<Tables>RE0</Tables>
+				<Tables>REL</Tables>
+				<Tables>REH</Tables>
+				<Tables>RE4</Tables>
+				<Tables>REA</Tables>
+				<Tables>RE9</Tables>
+				<Tables>REO</Tables>
+				<Tables>RES</Tables>
+				<Tables>REP</Tables>
+				<Tables>REM</Tables>
+				<Tables>RC1</Tables>
+				<Tables>REG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009791</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pauta Audiência</Title>
+				<Title lang="es">Pauta Audiencia</Title>
+				<Title lang="en">Hearing Agenda</Title>
+				<Function>APTR030</Function>
+				<Type>1</Type>
+				<Tables>RE0</Tables>
+				<Tables>REA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009792</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultado dos Pleitos</Title>
+				<Title lang="es">Resultado de Pleitos</Title>
+				<Title lang="en">Litigatoin Result</Title>
+				<Function>APTR040</Function>
+				<Type>1</Type>
+				<Tables>RE0</Tables>
+				<Tables>REL</Tables>
+				<Tables>RE5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009793</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A640000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Integrações</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integration</Title>
+			<ItemID>0000009794</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Financeiro</Title>
+				<Title lang="es">Integracion Financiero</Title>
+				<Title lang="en">Financial Integration</Title>
+				<Function>GPEM670</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>7</Owner>
+				<ItemID>0000009795</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Folha Pagamento</Title>
+				<Title lang="es">Integracion Planilla Pago</Title>
+				<Title lang="en">Payroll Integration</Title>
+				<Function>APTM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009796</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Excel</Title>
+				<Title lang="es">Planilla Excel</Title>
+				<Title lang="en">Excel Worksheet</Title>
+				<Function>APEXCEL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>64</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009797</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B640000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B640000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

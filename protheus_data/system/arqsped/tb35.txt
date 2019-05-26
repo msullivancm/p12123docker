@@ -1,0 +1,173 @@
+versão=3.0
+AL00000000|Crédito Presumido Por Operação Interestadual de Produto abrangido pela sua Atividade - Decreto 1.284/03(Atacadistas)|01012009|31122009
+AL00000001|Crédito Presumido Por Operação Interestadual de Produto não abrangido pela sua Atividade - Decreto 1.284/03(Atacadistas)|01012009|31122009
+AL00000002|Redução de BC - Decreto 1.284/03(Atacadistas)|01012009|28012009
+AL00000003|Crédito do ICMS Específico - Decreto 1.284/03(Atacadistas)|01012009|31122009
+AL00000004|Crédito do Ativo Imobilizado - 1/48 (CIAP)|01012009|31122009
+AL00000005|Redução de BC em Operacao Interestadual quando o valor de saída for 40% superior ao de entrada - Decreto 1.284/03(Atacadistas)|01012009|28012009
+AL00000006|Redução de BC em Operacao de Importação de Produto Alimentício - Decreto 1.284/03(Atacadistas)|01012009|28012009
+AL00000007|Redução de BC em Operacao de Importação de Produto Alimentício - Decreto 1.284/03(Atacadistas)|01012009|28012009
+AL50000001|Estorno de Crédito Por Operação Interestadual de Produto abrangido pela sua Atividade - Decreto 1.284/03(Atacadistas)|01012009|31122009
+AL50000002|Estorno de Crédito Por Operação Interestadual de Produto não abrangido pela sua Atividade - Decreto 1.284/03(Atacadistas)|01012009|31122009
+AL99999100|Não Incidência - saída de mercadoria com destino a armazém geral situado neste Estado, para depósito em nome do remetente;|01012009|31122009
+AL99999101|Não Incidência - saída de mercadoria com destino a depósito fechado, localizado neste Estado, do próprio contribuinte;|01012009|31122009
+AL99999102|Não Incidência - saída de mercadoria dos estabelecimentos referidos nos incisos anteriores, em retorno ao estabelecimento depositante;|01012009|31122009
+AL99999103|Não Incidência - entrada e saída de mercadoria, pertencente a terceiro, de estabelecimento de empresa de transporte ou de depósito, por conta e ordem desta, ressalvado o imposto incidente sobre a prestação de serviço de transporte interestadual ou interm|01012009|31122009
+AL99999104|Não Incidência - saída de máquinas, equipamentos, ferramentas e objeto de uso do contribuinte, bem como de suas partes e peças, com destino a outro estabelecimento para lubrificação, limpeza, revisão, conserto, restauração ou recondicionamento, ou ainda|01012009|31122009
+AL99999105|Não Incidência - saída em retorno ao estabelecimento de origem de bem mencionado no inciso anterior, ressalvadas as hipóteses de fornecimento de mercadoria dos incisos VII e VIII do artigo 2º, deste Regulamento;|01012009|31122009
+AL99999106|Não Incidência - a saída de gado, em regime de transferência dentro do Estado, de um para outro estabelecimento do mesmo pecuarista ou de terceiros, desde que em decorrência de contrato de arrendamento legalmente celebrada;|01012009|31122009
+AL99999107|Não Incidência - operações decorrentes de alienação fiduciária em garantia na transmissão do domínio feita pelo devedor fiduciante em favor do credor fiduciário;|01012009|31122009
+AL99999108|Não Incidência - operações decorrentes de alienação fiduciária em garantia na transferência da posse do bem em favor do credor em razão de inadimplemento do devedor;|01012009|31122009
+AL99999109|Não Incidência - operações decorrentes de alienação fiduciária em garantia na transmissão do domínio do credor para o devedor em virtude da extinção da garantia, pelo pagamento;|01012009|31122009
+AL99999110|Não Incidência - as saídas de estabelecimento prestadores de serviços, definidos em lei complementar nacional como de competência tributária do Município, de mercadorias a serem ou que tenham sido utilizadas na prestação de tais serviços, ressalvados os|01012009|31122009
+AL99999111|Não Incidência - saída de peças, veículos, ferramentas, equipamentos e outros bens não pertencentes a linha normal de comercialização do contribuinte, quando utilizados como instrumento de trabalho pelo próprio estabelecimento;|01012009|31122009
+AL99999112|Não Incidência - incorporação ao ativo fixo de pessoas jurídicas, de máquinas, equipamentos, instalações, móveis e utensílios, desde que em pagamento de capital social subscrito ou em decorrência de incorporação ou de fusão de sociedades;|01012009|31122009
+AL99999113|Não Incidência - prestação de transporte de carga própria ou prestações efetuadas entre estabelecimentos do mesmo titular, desde que se faça acompanhar da Nota Fiscal correspondente e nela contenham os dados que comprovem tratar-se de veículo próprio ou|01012009|31122009
+AL99999114|Não Incidência - transporte de pessoas, não remunerado, efetuado por particulares.|01012009|31122009
+AL99999200|Suspensão - remessas interestaduais de produtos destinados a conserto, reparo ou industrialização, desde que os mesmos retornem ao estabelecimento de origem no prazo de 180 (cento e oitenta) dias, contados da data das respectivas saídas, prorrogáveis por|01012009|31122009
+AL99999201|Suspensão - saídas, em retorno ao estabelecimento e no prazo préestabelecido, das mercadorias de que trata a inciso anterior, devendo, contudo, ser debitado o imposto relativo ao valor adicionado quando a mercadoria em retorno não se destinar a novo proc|01012009|31122009
+AL99999202|Suspensão - saídas de mercadorias para fins de demonstração, quando o destinatário estiver localizado no território do Estado e se revestir da qualidade de contribuinte do imposto;|01012009|31122009
+AL99999203|Suspensão - operações com gado destinado a "Recurso de Pasto" ou transferência de pastagem (Protocolo 31/91).|01012009|31122009
+AL99999300|Diferimento - saídas de leite destinado a industrialização neste Estado, nos termos dos artigos 439 a 443;|01012009|31122009
+AL99999301|Diferimento - saída, neste Estado, promovida por produtor destinada a comerciante, industrial, cooperativa ou qualquer outro contribuinte, exceto produtor, quando devidamente indicado na documentação fiscal correspondente;|01012009|31122009
+AL99999302|Diferimento - transferência de estoque de mercadoria, em virtude de fusão, cisão ou incorporação, devidamente autorizada pela autoridade fazendária do domicílio do sucessor;|01012009|31122009
+AL99999303|Diferimento - transferência total de mercadoria, decorrente de mudança do estabelecimento para outro Município, dentro do Estado;|01012009|31122009
+AL99999304|Diferimento - saídas de papel usado, aparas de papel, sucata de metal, caco de vidro, retalho ou resíduos ou fragmentos|01012009|31122009
+AL99999305|Diferimento - saídas de fumo em folha, nas saídas do estabelecimento do produtor para o do comerciante ou industrial, neste Estado;|01012009|31122009
+AL99999306|Diferimento - saídas de fumo em folha, nas saídas de um para outro estabelecimento da mesma empresa, neste Estado;|01012009|31122009
+AL99999307|Diferimento - saídas de fumo em folha, nas saídas para empresas comerciais localizadas neste Estado, que operem, exclusivamente, no comércio de exportação;|01012009|31122009
+AL99999308|Diferimento - saídas de fumo em folha, nas saídas para armazéns alfandegários e entrepostos aduaneiros situados neste Estado;|01012009|31122009
+AL99999309|Diferimento - saídas de gado bovino, bufalino, caprino, suíno ou ovino;|01012009|31122009
+AL99999310|Diferimento - saídas de mercadorias do estabelecimento de cooperativa de produtores, para estabelecimento dentro do Estado, da própria cooperativa, de cooperativa central ou de federação de cooperativas da qual a cooperativa remetente faça parte, observa|01012009|31122009
+AL99999311|Diferimento - saída de álcool, de qualquer espécie, para estabelecimento industrial, empresa distribuidora de combustíveis e Petróleo Brasileiro S/A - PETROBRÁS S/A;|01012009|31122009
+AL99999312|Diferimento - subcontratação de serviço de transporte interestadual e intermunicipal, desde que as partes contratantes situem-se neste Estado;|01012009|31122009
+AL99999313|Diferimento - entrada, no estabelecimento de contribuintes, de mercadorias ou bens importados do exterior;|01012009|31122009
+AL99999314|Diferimento - operações internas com bagaço-de-cana;|01012009|31122009
+AL99999315|Diferimento - saídas internas com bagaço-de-cana de estabelecimento produtor com destino a empresas industriais situadas em Alagoas, bem como ao consumo em processo de industrialização (Dec. 34.214/90);|01012009|31122009
+AL99999316|Diferimento - saídas de algodão em caroço (rama), em pluma, bagas de mamona e sisal;|01012009|31122009
+AL99999317|Diferimento - entrada no imobilizado de estabelecimentos industriais, dos equipamentos relacionados no Art 12, XV do RICMS, , para o momento de sua desintegração do patrimônio do estabelecimento adquirente, a qualquer título|01012009|31122009
+AL99999318|Diferimento - operações internas, inclusive de importação do exterior, de aparelhos, máquinas, equipamentos e instrumentos médico-hospitalares, radiológicos ou técnico-científicos laboratoriais, sem similar nacional, realizadas diretamente por hospitais,|01012009|31122009
+AL99999319|Diferimento - saídas internas e interestaduais com álcool etílico anidro combustível, para o momento em que ocorrer a saída da gasolina resultante da mistura com aquele produto, do estabelecimento distribuidor de combustíveis, como tal definido pelo Depa|01012009|31122009
+AL99999320|Diferimento - operações de importação do exterior de produtos, sem similar nacional, classificados na posição 9022.13 e 9022.12.00 da NBM, realizadas diretamente por estabelecimento optante da sistemática prevista no item 12 do Anexo III do RICMS;|01012009|31122009
+AL99999321|Diferimento - operações de importação, com máquinas e equipamentos, sem similar produzido no país, para integração ao ativo permanente imobilizado de estabelecimento industrial, excluídos, em qualquer hipótese, os relacionados com as atividades administra|01012009|31122009
+AL99999322|Diferimento - nas operações de importação, com máquinas e equipamentos, sem similar produzido no país, para integração ao ativo imobilizado de contribuinte que tenha como atividade principal a prestação de serviços de televisão por assinatura, código de a|01012009|31122009
+AL99999323|Diferimento - ICMS diferido na aquisição, em operação interna, de matéria prima, nos termos do art. 19, I, do Decreto n° 38.394 de 24 de maio de 2000;|01012009|31122009
+AL99999324|Diferimento - ICMS diferido na aquisição, em operação de importação, de matéria prima, nos termos do art. 19, II, do Decreto n° 38.394 de 24 de maio de 2000;|01012009|31122009
+AL99999325|Diferimento - ICMS diferido na aquisição em operação interna de bem para ativo fixo, nos termos do art. 18, I, do Decreto n° 38.394 de 24 de maio de 2000;|01012009|31122009
+AL99999326|Diferimento - ICMS diferido na aquisição em operação interestadual de bem para ativo fixo, nos termos do art. 18, II, do Decreto n° 38.394 de 24 de maio de 2000;|01012009|31122009
+AL99999327|Diferimento - ICMS diferido na aquisição em operação de importação de bem para ativo fixo, nos termos do art. 18, III, do Decreto n° 38.394 de 24 de maio de 2000;|01012009|31122009
+AL99999328|Isenção - Operações internas e interestaduais com embrião ou sêmem congelado ou resfriado de bovino, ovino, caprino ou suíno;|01012009|28012009
+AL99999329|Isenção - Saídas, a título de distribuição gratuita, de amostra de produto de diminuto ou nenhum valor comercial-amostra grátis, desde que em quantidade estritamente necessária para dar a conhecer a sua natureza, espécie e qualidade;|01012009|28012009
+AL99999330|Isenção - Saída, para comercialização ou industrialização, nos casos previstos no item 3 do Anexo I do RICMS;|01012009|28012009
+AL99999331|Isenção - recebimento, bem como a posterior saída, de mercadoria importada do exterior em decorrência de doação efetuada por organização internacional ou estrangeira ou por país estrangeiro, destinada a distribuição gratuita em programa implementado por|01012009|28012009
+AL99999332|Isenção - Prestações de serviço de transporte rodoviário de passageiros realizada por veículo registrado na categoria de aluguel-táxi;|01012009|28012009
+AL99999333|Isenção - Prestação de serviços de telecomunicações efetuada a partir de equipamento terminal instalado em dependência da própria empresa concessionária de serviço de   telecomunicações, inclusive a Telecomunicações Brasileira S.A - TELEBRÁS, na condição|01012009|28012009
+AL99999334|Isenção - saída de estabelecimento de concessionária de serviço público de telecomunições nos casos previstos no item 7 do Anexo I do RICMS;|01012009|28012009
+AL99999335|Isenção - operações,previstas no item 8 do Anexo I do RICMS, com máquinas, equipamentos, aparelhos, instrumentos ou material, ou seus respectivos acessórios, sobressalentes ou ferramentas;|01012009|28012009
+AL99999336|Isenção - saídas de papel moeda, moeda metálica e cupons de distribuição de leite, promovidas pela Casa da Moeda do Brasil;|01012009|28012009
+AL99999337|Isenção - saídas internas de mudas de plantas, exceto as ornamentais;|01012009|28012009
+AL99999338|Isenção - saídas de obras de arte, decorrentes de operações realizadas pelo próprio autor;|01012009|28012009
+AL99999339|Isenção - saídas de vasilhames, recipientes e embalagens, inclusive sacaria, quando não cobrados do destinatário ou não computados no valor das mercadorias que acondicione e desde que devam retornar ao estabelecimento remetente ou a outro do mesmo titula|01012009|28012009
+AL99999340|Isenção - saídas de vasilhames, recipientes e embalagens, inclusive sacaria, em retorno ao estabelecimento remetente ou a outro do mesmo titular ou a depósito em seu nome;|01012009|28012009
+AL99999341|Isenção - recebimento, pelo respectivo exportador, em retorno, de mercadoria exportada no caso dos incisos previstos no item 14 do Anexo I do RICMS;|01012009|28012009
+AL99999342|Isenção - recebimento de amostra, sem valor comercial, tal como definida pela legislação federal que outorga a isenção do Imposto de Importação;|01012009|28012009
+AL99999343|Isenção - ingresso de bens procedentes do exterior integrantes de bagagem de viajante, quando não tenha havido contratação de câmbio e a operação não tenha sido onerada pelo Imposto de Importação;|01012009|28012009
+AL99999344|Isenção - As operações com produtos industrializados descritas no item 17 do Anexo I do RICMS;|01012009|28012009
+AL99999345|Isenção - saídas relacionadas com a destroca de botijões vazios (vasilhame) destinados ao acondicionamento de gás liqüefeito de petróleo (GLP), promovidas por distribuidor de gás, como tal definido pela legislação federal específica, seus revendedores cr|01012009|28012009
+AL99999346|Isenção - operações internas com veículos, quando adquiridos pela Secretaria de Segurança Pública, vinculados ao "Programa de Reequipamento Policial", da Polícia Militar, e pela Secretaria da Fazenda, para reequipamento da fiscalização Estadual.|01012009|28012009
+AL99999347|Isenção - operações internas com peças de argamassa armada destinada a construção de obras com finalidades sociais, objeto de Convênios e/ou contratos firmados com o Governo Federal, Estadual ou Municipal (Conv. ICMS 12/93).|01012009|28012009
+AL99999348|Isenção - saída direta de combustíveis e lubrificantes para o abastecimento de embarcações e aeronaves nacionais com destino ao exterior;|01012009|28012009
+AL99999349|Isenção - Recebimento, pelo importador, de mercadoria importada sob o regime "DRAWBACK", desde que sejam obedecidas as disposições contidas nos arts. 738 a 745 deste Regulamento; """|01012009|28012009
+AL99999350|Isenção - Saída de mercadoria com destino a exposição ou feira, para mostra ao público em geral, assim como o respectivo retorno, desde que a mercadoria retorne ao estabelecimento de origem no prazo de 60 (sessenta) dias, contados da data da saída;"""|01012009|28012009
+AL99999351|Isenção - Saída interna ou interestadual promovida por órgão da administração pública, empresa, sociedade de economia mista ou empresa concessionária de serviço público, para fins de industrialização, desde que os produtos industrializados retornem ao ór|01012009|28012009
+AL99999352|Isenção - Saída de mercadoria com destino a Itaipú Binacional, desde que haja comprovação de efetiva entrega da mercadoria, mediante "Certificado de Recebimento"por ela emitido ou documento que vier a instituir, contendo, no mínimo, o número, a data da e|01012009|28012009
+AL99999353|Isenção - saídas de mercadorias para fins de assistência a vítimas de calamidade pública, bem como as prestações de serviços de transporte daquelas mercadorias, desde que o estado de calamidade tenha sido declarado por ato expresso do Poder Executivo Fed|01012009|28012009
+AL99999354|Isenção - Saída de produtos farmacêuticos realizada por Órgão ou Entidade, inclusive Fundação, da Administração Direta ou Indireta da União, dos Estados ou dos Municípios, com destino a outro Órgão ou Entidade da mesma natureza ou a consumidor, se a saí|01012009|28012009
+AL99999355|Isenção - saídas internas de leite  in natura, do estabelecimento do produtor ou do varejista, com destino a consumidor final ou pasteurizado, exceto do tipo "longa vida", do estabelecimento varejista, com destino a consumidor final;|01012009|28012009
+AL99999356|Isenção - operações com reprodutores ou matrizes de animais vacuns, ovinos, suínos ou bufalinos, puros de origem ou puros por cruza;|01012009|28012009
+AL99999357|Isenção - fornecimento de refeições sem fins lucrativos;"""|01012009|28012009
+AL99999358|Isenção - Saída interna e interestadual de produtos típicos de artesanato regional, quando confeccionados na residência do artesão, sem a utilização de trabalho assalariado;"""|01012009|28012009
+AL99999359|Isenção - Saída interna de bem integrado no Ativo Imobilizado e de material de uso ou consumo;|01012009|28012009
+AL99999360|Isenção - Saída interna e interestadual dos produtos descritos no item 35 do Anexo I do RICMS;"""|01012009|28012009
+AL99999361|Isenção - saídas efetuadas diretamente do território do Estado para o exterior, dos produtos primários descritos no item 36 do Anexo I do RICMS;|01012009|28012009
+AL99999362|Isenção - saída (fornecimento) de água canalizada promovida por concessionária de serviço público; """|01012009|28012009
+AL99999363|Isenção - Saída de produtos industrializados de origem nacional destinados a embarcações ou aeronaves de bandeira estrangeira aportadas no País, para fins de consumo da tripulação ou dos passageiros, ou ao uso ou consumo durável da própria embarcação ou|01012009|28012009
+AL99999364|Isenção - saída de estabelecimento de concessionária de serviço público de energia elétrica de bens destinados a utilização em suas próprias instalações ou guarda em outro estabelecimento da mesma empresa;|01012009|28012009
+AL99999365|Isenção - saídas, em operações internas, de produtos resultantes do trabalho de reeducação dos detentos, promovidas pelos estabelecimentos do Sistema Penitenciário do Estado|01012009|28012009
+AL99999366|Isenção - recebimento, por doação, de produtos importados do exterior, diretamente por órgãos ou entidades da administração pública, direta ou indireta, bem como fundações ou entidades beneficentes ou de assistência social;|01012009|28012009
+AL99999367|Isenção - operações de comércio exterior descritas no item 35 do Anexo I do RICMS;|01012009|28012009
+AL99999368|Isenção - saída de mercadoria de produção própria promovida por instituição de assistência social e educação|01012009|28012009
+AL99999369|Isenção - operações internas de fornecimento de energia elétrica, destinadas a consumo por órgãos da Administração Pública Estadual Direta e suas Fundações e Autarquias, mantidas pelo Poder Público Estadual e regidas por normas de Direito Público, bem co|01012009|28012009
+AL99999370|Isenção - operações com mercadorias relacionadas com o Programa de Energia Renovável para o semi-árido alagoano desenvolvido pela Fundação Teotônio;|01012009|28012009
+AL99999371|Isenção - prestações de serviços de transporte ferroviário de carga vinculadas a operações de exportação e importação de países signatários do "Acordo sobre o Transporte Internacional", e desde que ocorram, cumulativamente, as situações do item 46 do Aen|01012009|28012009
+AL99999372|Isenção - Saída de embarcação construída no país, promovidas por quaisquer estabelecimentos, bem como os fornecimentos, promovidos pela indústria naval, de peças, partes e componentes aplicados nos serviços de reparo, conserto e reconstrução das mesmas;|01012009|28012009
+AL99999373|Isenção - operações interestaduais de transferências de bens do Ativo Fixo e de uso e consumo realizadas pelas empresas prestadoras de serviços de transporte aéreo;"""|01012009|28012009
+AL99999374|Isenção - operações com os produtos a indicados no item 49 do Anexo I do RICMS;|01012009|28012009
+AL99999375|Isenção - operações com os produtos descritos no item 49 do Anexo I do RICMS;|01012009|28012009
+AL99999376|Isenção - doações de microcomputadores usados (semi-novos) para escolas públicas especiais e profissionalizantes, associações destinadas a portadores de deficiência e comunidades carentes, efetuadas diretamente pelos fabricantes ou suas filiais;|01012009|28012009
+AL99999377|Isenção - recebimento de mercadorias do exterior, sem similar nacional, destinadas a integrar ao ativo imobilizado ou para uso ou consumo, assim como o transporte respectivo, importadas diretamente por Órgão da Administração Pública Direta, Autarquia ou F|01012009|28012009
+AL99999378|Isenção - saídas internas descritas no item 56 do Anexo I do RICMS;|01012009|28012009
+AL99999379|Isenção - saídas internas de venda a consumidor final de carnes e subprodutos derivados do abate de animais, promovidas por pessoas físicas não inscritas junto ao Cadastro de Contribuintes do ICMS do Estado de Alagoas - CACEAL.|01012009|28012009
+AL99999380|Isenção - operações internas com medicamentos quimioterápicos usados no tratamento de câncer.|01012009|28012009
+AL99999001|Imunidade - Saídas para o Exterior de produtos industrializados, nos termos do Art. 5º, I, RICMS;|28012009|31122009
+AL99999002|Imunidade - Saidas interestaduais de energia elétrica ou petróleo, inclusive lubrificantes ou combustíveis líquidos e gasosos, dele derivados, nos termos do Art. 5º, II, RICMS;|28012009|31122009
+AL99999003|Imunidade - Saídas de ouro, quando ativo financ. ou instrumento cambial, em operações com a interveniência de instituições do SFN, sob condições autorizadas pelo BACEN, conforme Art 5, III,RICMS;|28012009|31122009
+AL99999004|Imunidade - Saidas de livros, jornais e periódicos, inclusive o papel destinado exclusivamente à sua impressão, nos termos do Art. 5º, IV, RICMS;|28012009|31122009
+AL99999099|Outras Hipóteses de Imunidade|28012009|31122009
+AL99999199|Outras Hipóteses de Não Incidência|28012009|31122009
+AL99999299|Outras Hipóteses de Suspensão|28012009|31122009
+AL99999399|Outras Hipóteses de Diferimentos|28012009|31122009
+AL99999400|Isenção - Operações internas e interestaduais com embrião ou sêmem congelado ou resfriado de bovino, ovino, caprino ou suíno;|28012009|31122009
+AL99999401|Isenção - Saídas, a título de distribuição gratuita, de amostra de produto de diminuto ou nenhum valor comercial-amostra grátis, desde que em quantidade estritamente necessária para dar a conhecer a sua natureza, espécie e qualidade;|28012009|31122009
+AL99999402|Isenção - Saída, para comercialização ou industrialização, nos casos previstos no item 3 do Anexo I do RICMS;|28012009|31122009
+AL99999403|Isenção - recebimento, bem como a posterior saída, de mercadoria importada do exterior em decorrência de doação efetuada por organização internacional ou estrangeira ou por país estrangeiro, destinada a distribuição gratuita em programa implementado por|28012009|31122009
+AL99999404|Isenção - Prestações de serviço de transporte rodoviário de passageiros realizada por veículo registrado na categoria de aluguel-táxi;|28012009|31122009
+AL99999405|Isenção - Prestação de serviços de telecomunicações efetuada a partir de equipamento terminal instalado em dependência da própria empresa concessionária de serviço de   telecomunicações, inclusive a Telecomunicações Brasileira S.A - TELEBRÁS, na condição|28012009|31122009
+AL99999406|Isenção - saída de estabelecimento de concessionária de serviço público de telecomunições nos casos previstos no item 7 do Anexo I do RICMS;|28012009|31122009
+AL99999407|Isenção - operações,previstas no item 8 do Anexo I do RICMS, com máquinas, equipamentos, aparelhos, instrumentos ou material, ou seus respectivos acessórios, sobressalentes ou ferramentas;|28012009|31122009
+AL99999408|Isenção - saídas de papel moeda, moeda metálica e cupons de distribuição de leite, promovidas pela Casa da Moeda do Brasil;|28012009|31122009
+AL99999409|Isenção - saídas internas de mudas de plantas, exceto as ornamentais;|28012009|31122009
+AL99999410|Isenção - saídas de obras de arte, decorrentes de operações realizadas pelo próprio autor;|28012009|31122009
+AL99999411|Isenção - saídas de vasilhames, recipientes e embalagens, inclusive sacaria, quando não cobrados do destinatário ou não computados no valor das mercadorias que acondicione e desde que devam retornar ao estabelecimento remetente ou a outro do mesmo titular|28012009|31122009
+AL99999412|Isenção - saídas de vasilhames, recipientes e embalagens, inclusive sacaria, em retorno ao estabelecimento remetente ou a outro do mesmo titular ou a depósito em seu nome;|28012009|31122009
+AL99999413|Isenção - recebimento, pelo respectivo exportador, em retorno, de mercadoria exportada no caso dos incisos previstos no item 14 do Anexo I do RICMS;|28012009|31122009
+AL99999414|Isenção - recebimento de amostra, sem valor comercial, tal como definida pela legislação federal que outorga a isenção do Imposto de Importação;|28012009|31122009
+AL99999415|Isenção - ingresso de bens procedentes do exterior integrantes de bagagem de viajante, quando não tenha havido contratação de câmbio e a operação não tenha sido onerada pelo Imposto de Importação;|28012009|31122009
+AL99999416|Isenção - As operações com produtos industrializados descritas no item 17 do Anexo I do RICMS;|28012009|31122009
+AL99999417|Isenção - saídas relacionadas com a destroca de botijões vazios (vasilhame) destinados ao acondicionamento de gás liqüefeito de petróleo (GLP), promovidas por distribuidor de gás, como tal definido pela legislação federal específica, seus revendedores cr|28012009|31122009
+AL99999418|Isenção - operações internas com veículos, quando adquiridos pela Secretaria de Segurança Pública, vinculados ao "Programa de Reequipamento Policial", da Polícia Militar, e pela Secretaria da Fazenda, para reequipamento da fiscalização Estadual.|28012009|31122009
+AL99999419|Isenção - operações internas com peças de argamassa armada destinada a construção de obras com finalidades sociais, objeto de Convênios e/ou contratos firmados com o Governo Federal, Estadual ou Municipal (Conv. ICMS 12/93).|28012009|31122009
+AL99999420|Isenção - saída direta de combustíveis e lubrificantes para o abastecimento de embarcações e aeronaves nacionais com destino ao exterior;|28012009|31122009
+AL99999421|Isenção - Recebimento, pelo importador, de mercadoria importada sob o regime "DRAWBACK", desde que sejam obedecidas as disposições contidas nos arts. 738 a 745 deste Regulamento;|28012009|31122009
+AL99999422|Isenção - Saída de mercadoria com destino a exposição ou feira, para mostra ao público em geral, assim como o respectivo retorno, desde que a mercadoria retorne ao estabelecimento de origem no prazo de 60 (sessenta) dias, contados da data da saída;|28012009|31122009
+AL99999423|Isenção - Saída interna ou interestadual promovida por órgão da administração pública, empresa, sociedade de economia mista ou empresa concessionária de serviço público, para fins de industrialização, desde que os produtos industrializados retornem ao ór|28012009|31122009
+AL99999424|Isenção - Saída de mercadoria com destino a Itaipú Binacional, desde que haja comprovação de efetiva entrega da mercadoria, mediante "Certificado de Recebimento" por ela emitido ou documento que vier a instituir, contendo, no mínimo, o número, a data da e|28012009|31122009
+AL99999425|Isenção - saídas de mercadorias para fins de assistência a vítimas de calamidade pública, bem como as prestações de serviços de transporte daquelas mercadorias, desde que o estado de calamidade tenha sido declarado por ato expresso do Poder Executivo Fed|28012009|31122009
+AL99999426|Isenção - Saída de produtos farmacêuticos realizada por Órgão ou Entidade, inclusive Fundação, da Administração Direta ou Indireta da União, dos Estados ou dos Municípios, com destino a outro Órgão ou Entidade da mesma natureza ou a consumidor, se a saí|28012009|31122009
+AL99999427|Isenção - saídas internas de leite  in natura, do estabelecimento do produtor ou do varejista, com destino a consumidor final ou pasteurizado, exceto do tipo "longa vida", do estabelecimento varejista, com destino a consumidor final;|28012009|31122009
+AL99999428|Isenção - operações com reprodutores ou matrizes de animais vacuns, ovinos, suínos ou bufalinos, puros de origem ou puros por cruza;|28012009|31122009
+AL99999429|Isenção - fornecimento de refeições sem fins lucrativos;|28012009|31122009
+AL99999430|Isenção - Saída interna e interestadual de produtos típicos de artesanato regional, quando confeccionados na residência do artesão, sem a utilização de trabalho assalariado;|28012009|31122009
+AL99999431|Isenção - Saída interna de bem integrado no Ativo Imobilizado e de material de uso ou consumo;|28012009|31122009
+AL99999432|Isenção - Saída interna e interestadual dos produtos descritos no item 35 do Anexo I do RICMS;|28012009|31122009
+AL99999433|Isenção - saídas efetuadas diretamente do território do Estado para o exterior, dos produtos primários descritos no item 36 do Anexo I do RICMS;|28012009|31122009
+AL99999434|Isenção - saída (fornecimento) de água canalizada promovida por concessionária de serviço público;|28012009|31122009
+AL99999435|Isenção - Saída de produtos industrializados de origem nacional destinados a embarcações ou aeronaves de bandeira estrangeira aportadas no País, para fins de consumo da tripulação ou dos passageiros, ou ao uso ou consumo durável da própria embarcação ou|28012009|31122009
+AL99999436|Isenção - saída de estabelecimento de concessionária de serviço público de energia elétrica de bens destinados a utilização em suas próprias instalações ou guarda em outro estabelecimento da mesma empresa;|28012009|31122009
+AL99999437|Isenção - saídas, em operações internas, de produtos resultantes do trabalho de reeducação dos detentos, promovidas pelos estabelecimentos do Sistema Penitenciário do Estado|28012009|31122009
+AL99999438|Isenção - recebimento, por doação, de produtos importados do exterior, diretamente por órgãos ou entidades da administração pública, direta ou indireta, bem como fundações ou entidades beneficentes ou de assistência social;|28012009|31122009
+AL99999439|Isenção - operações de comércio exterior descritas no item 35 do Anexo I do RICMS;|28012009|31122009
+AL99999440|Isenção - saída de mercadoria de produção própria promovida por instituição de assistência social e educação|28012009|31122009
+AL99999441|Isenção - operações internas de fornecimento de energia elétrica, destinadas a consumo por órgãos da Administração Pública Estadual Direta e suas Fundações e Autarquias, mantidas pelo Poder Público Estadual e regidas por normas de Direito Público, bem co|28012009|31122009
+AL99999442|Isenção - operações com mercadorias relacionadas com o Programa de Energia Renovável para o semi-árido alagoano desenvolvido pela Fundação Teotônio;|28012009|31122009
+AL99999443|Isenção - prestações de serviços de transporte ferroviário de carga vinculadas a operações de exportação e importação de países signatários do "Acordo sobre o Transporte Internacional", e desde que ocorram, cumulativamente, as situações do item 46 do Aen|28012009|31122009
+AL99999444|Isenção - Saída de embarcação construída no país, promovidas por quaisquer estabelecimentos, bem como os fornecimentos, promovidos pela indústria naval, de peças, partes e componentes aplicados nos serviços de reparo, conserto e reconstrução das mesmas;|28012009|31122009
+AL99999445|Isenção - operações interestaduais de transferências de bens do Ativo Fixo e de uso e consumo realizadas pelas empresas prestadoras de serviços de transporte aéreo;|28012009|31122009
+AL99999446|Isenção - operações com os produtos a indicados no item 49 do Anexo I do RICMS;|28012009|31122009
+AL99999447|Isenção - operações com os produtos descritos no item 49 do Anexo I do RICMS;|28012009|31122009
+AL99999448|Isenção - doações de microcomputadores usados (semi-novos) para escolas públicas especiais e profissionalizantes, associações destinadas a portadores de deficiência e comunidades carentes, efetuadas diretamente pelos fabricantes ou suas filiais;|28012009|31122009
+AL99999449|Isenção - recebimento de mercadorias do exterior, sem similar nacional, destinadas a integrar ao ativo imobilizado ou para uso ou consumo, assim como o transporte respectivo, importadas diretamente por Órgão da Administração Pública Direta, Autarquia ou F|28012009|31122009
+AL99999450|Isenção - saídas internas descritas no item 56 do Anexo I do RICMS;|28012009|31122009
+AL99999451|Isenção - saídas internas de venda a consumidor final de carnes e subprodutos derivados do abate de animais, promovidas por pessoas físicas não inscritas junto ao Cadastro de Contribuintes do ICMS do Estado de Alagoas - CACEAL.|28012009|31122009
+AL99999452|Isenção - operações internas com medicamentos quimioterápicos usados no tratamento de câncer.|28012009|31122009
+AL99999499|Outras Hipóteses de Isenção|28012009|31122009

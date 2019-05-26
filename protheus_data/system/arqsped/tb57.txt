@@ -1,0 +1,72 @@
+versão=2.0
+SE02990002|Crédito por entrada; Outras Apuração; Informativo; Informativo; Mercadoria; Transferência de crédito. - Transferencia para pagamento de Saldo Devedor.|01012009|
+SE10000004|Outros créditos; ICMS próprio; Resp.própria; A apurar; Mercadoria; Antecipação tributária. - Crédito Farinha de Trigo|01012009|
+SE10000008|Outros créditos; ICMS próprio; Resp.própria; A apurar; Mercadoria; Ativo Permanente. - Crédito Ativo Permanente|01012009|
+SE10000013|Outros créditos; ICMS próprio; Resp.própria; A apurar; Mercadoria; Creditamento. - Creditamento|01012009|
+SE10000999|Outros créditos; ICMS próprio; Resp.própria; A apurar; Mercadoria; Outros Ajustes. - Crédito ICMS ST de insumo|01012009|
+SE10001014|Outros créditos; ICMS próprio; Resp.própria; A apurar; Transporte; ST Transporte. - Credito Transporte|01012009|
+SE10990002|Outros créditos; ICMS próprio; Informativo; Informativo; Mercadoria; Transferência de crédito. - Transferência para apuração ICMS próprio|01012009|
+SE11000012|Outros créditos; ICMS ST; Resp.própria; A apurar; Mercadoria; Abatimento. - Abatimento|01012009|
+SE11900011|Outros créditos; ICMS ST; Informativo; A apurar; Mercadoria; Ressarcimento. - Ressarcimento|01012009|
+SE11990002|Outros créditos; ICMS ST; Informativo; Informativo; Mercadoria; Transferência de crédito. - Transferência para apuração ICMS ST|01012009|
+SE20010000|Estorno de débito; ICMS próprio; Resp.própria; Rec.espontâneo; Mercadoria; Operação normal. - Recolhimento antecipado do ICMS|01012009|
+SE20020000|Estorno de débito; ICMS próprio; Resp.própria; Rec.por autuação; Mercadoria; Operação normal. - Recolhimento antecipado do ICMS|01012009|
+SE21010000|Estorno de débito; ICMS ST; Resp.própria; Rec.espontâneo; Mercadoria; Operação normal. - Recolhimento antecipado do ICMS ST|01012009|
+SE21020000|Estorno de débito; ICMS ST; Resp.própria; Rec.por autuação; Mercadoria; Operação normal. - Recolhimento antecipado do ICMS ST|01012009|
+SE32990002|Débito por saída; Outras Apuração; Informativo; Informativo; Mercadoria; Transferência de crédito. - Dedução mês anterior - créd.próprio|01012009|
+SE40000000|Outros débitos; ICMS próprio; Resp.própria; A apurar; Mercadoria; Operação normal. - Estorno de crédito|01012009|
+SE40000999|Outros débitos; ICMS próprio; Resp.própria; A apurar; Mercadoria; Outros Ajustes. - Estorno de crédito de exportação|01012009|
+SE40990002|Outros débitos; ICMS próprio; Informativo; Informativo; Mercadoria; Transferencia de crédito. - Crédito acumulado transferido/Utilização p/ pagamento PTA ou Importação|01012009|
+SE41000000|Outros débitos; ICMS ST; Resp.própria; A apurar; Mercadoria; Operação normal. - Convênio 51/00 (veículos novos)|01012009|
+SE70000001|Débito especial; ICMS próprio; Resp.própria; A apurar; Mercadoria; Diferença de alíquota. - Diferença de Alíquota|01012009|
+SE70000003|Débito especial; ICMS próprio; Pesp.propria; A apurar; Mercadoria; Ajuste p/o inventário - AJuste p/o inventário|01012009|
+SE70000004|Débito especial; ICMS próprio; Resp.própria; A apurar; Mercadoria; Antecipação Tributária. - ICMS pago na entrada|01012009|
+SE70010004|Débito especial; ICMS próprio; Resp.própria; Rec.espontâneo; Mercadoria; Antecipação Tributária. - ICMS pago na entrada|01012009|
+SE70010010|Débito especial; ICMS próprio; Resp.própria; Rec.espontâneo; Mercadoria; Lanç.extemporâneo. - Débito extemporâneo do ICMS|01012009|
+SE70010017|Débito especial; ICMS próprio; Resp.própria; Rec.espontâneo; Mercadoria; Importação. - Importação|01012009|
+SE70010019|Débito especial; ICMS próprio; Resp.própria; Rec.espontâneo; Mercadoria; Diferimento. - Encerramento do diferimento|01012009|
+SE70020000|Débito especial; ICMS próprio; Resp.própria; Rec.por autuação; Mercadoria; Operação normal. - ICMS pago na saída|01012009|
+SE70020004|Débito especial; ICMS próprio; Resp.própria; Rec. Por autuação; Mercadoria; Antecipação Tributária. - ICMS pago na entrada|01012009|
+SE70020010|Débito especial; ICMS próprio; Resp.própria; Rec.por autuação; Mercadoria; Lanç.extemporâneo. - Débito extemporâneo do ICMS|01012009|
+SE70020017|Débito especial; ICMS próprio; Resp.própria; Rec. Por autuação; Mercadoria; Importação. - Importação|01012009|
+SE70020019|Débito especial; ICMS próprio; Resp.própria; Rec.por autuação; Mercadoria; Diferimento. - Encerramento do diferimento|01012009|
+SE70090017|Débito especial; ICMS próprio; Resp.própria; Informativo; Mercadoria; Importação. - Utilização de crédito para pagamento|01012009|
+SE70110000|Débito especial; ICMS próprio; Resp.solidária; Rec. espontâneo; Mercadoria; Operação normal. - ICMS pago na entrada|01012009|
+SE70120000|Débito especial; ICMS próprio; Resp.solidária; Rec. Por autuação; Mercadoria; Operação normal. - ICMS pago na entrada|01012009|
+SE71010005|Débito especial; ICMS ST; Resp.própria; Rec. espontâneo; Mercadoria; ST Diferença de alíquota. - ST Diferença de alíquota|01012009|
+SE71010010|Débito especial; ICMS ST; Resp.própria; Rec.espontâneo; Mercadoria; Lanç.extemporâneo. - Débito extemporâneo do ICMS ST|01012009|
+SE71010018|Débito especial; ICMS ST; Resp.própria; Rec. espontâneo; Mercadoria; ST interna. - ICMS ST pago na entrada|01012009|
+SE71020000|Débito especial; ICMS ST; Resp.própria; Rec.por autuação; Mercadoria; Operação normal. - ICMS ST pago na saída|01012009|
+SE71020005|Débito especial; ICMS ST; Resp.própria; Rec. Por autuação; Mercadoria; ST Diferença de alíquota. - ST Diferença de alíquota|01012009|
+SE71020010|Débito especial; ICMS ST; Resp.própria; Rec. Por autuação; Mercadoria; Antecipação Tributária. - Débito extemporâneo do ICMS ST|01012009|
+SE71020018|Débito especial; ICMS ST; Resp.própria; Rec. Por autuação; Mercadoria; ST interna. - ICMS ST pago na entrada|01012009|
+SE71091014|Débito especial; ICMS ST; Resp.própria; Informativo; Transporte; ST Transporte. - ST Transporte|01012009|
+SE71110000|Débito especial; ICMS ST; Resp.solidaria; Rec. espontâneo; Mercadoria; Operação normal. - ICMS ST pago na entrada|01012009|
+SE71120000|Débito especial; ICMS ST; Resp.solidaria; Rec. Por autuação; Mercadoria; Operação normal. - ICMS ST pago na entrada|01012009|
+SE90090017|Informativo; ICMS próprio; Resp.própria; Informativo; Mercadoria; Importação. - Informativo - Pagamento mês anterior|01012009|
+SE90990007|Informativo; ICMS próprio; Informativo; Informativo; Mercadoria; Desconto pelo ICMS. - Informativo|01012009|
+SE90990008|Informativo; ICMS próprio; Informativo; Informativo; Mercadoria; Ativo permanente. - Informativo|01012009|
+SE91001014|Informativo; ICMS ST; Resp. própria; a apurar; Transporte; ST Transporte. - ST Transporte a apurar|01012009|
+SE91011014|Informativo; ICMS ST; Resp. própria; Rec.espontâneo; Transporte; ST Transporte. - ST Transporte pago antecipadamente|01012009|
+SE91021014|Informativo; ICMS ST; Resp. própria; Rec.por autuação; Transporte; ST Transporte. - ST Transporte pago antecipadamente|01012009|
+SE91990006|Informativo; ICMS ST; Informativo; Informativo; Mercadoria; Reembolso comercial. - Informativo|01012009|
+SE91990011|Informativo; ICMS ST; Informativo; Informativo; Mercadoria; Ressarcimento. - Informativo|01012009|
+SE99990002|Informativo; Informativo; Informativo; Informativo; Mercadoria; Transferência de crédito. - Dedução mês anterior - outro estab./Pagamento PTA ou Importação|01012009|
+SE40010000|Outros débitos, ICMS próprio, Resp. própria, Rec. Espontâneo, Mercadoria, Operação Normal - PSDI-Recolhido|01012009|
+SE99090000|Informativo, Informativo, Resp.própria, Informativo, Mercadoria, Operação normal - PSDI- A recolher|01012009|
+SE40000002|Outros débitos, ICMS próprio, Resp. própria, a apurar, mercadoria, Operação normal - Centralizada:Transf. de saldo credor|01012009|
+SE10000000|Outros créditos, ICMS próprio, Resp. própria, a apurar, mercadoria, Operação normal - Centralizada:Transf. de saldo devedor|01012009|
+SE10000009|Outros créditos, ICMS próprio, Resp.própria, a apurar, mercadoria, Crédito presumido - Crédito Presumido|01012009|
+SE12000013|Outros créditos, Ou.Apuração, Resp.própria, a apurar, mercadoria, Creditamento - Centralizadora:Recebimento de saldo credor|01012009|
+SE42010000|Outros débitos, Ou.Apuração, Resp.própria, a apurar, mercadoria, Operação normal - Centralizadora:Recebimento de saldo devedor|01012009|
+SE60000000|Deduções, ICMS próprio, Resp.própria, a apurar, mercadoria, Operação normal - Deduções|01012009|
+SE61000000|Deduções, ICMS ST, Resp.própria, a apurar, mercadoria, Operação normal - Deduções de débito do ICMS substituição tributária interna|01012009|
+SE20000000|Estorno débito, ICMS próprio, Resp.própria, a apurar, mercadoria, Operação normal - Estorno de débito|01012009|
+SE70000002|Déb.Especial, ICMS próprio, Resp.própria, a apurar, mercadoria, Transf. de crédito - Transferência de saldo credor Acumulado para o livro apuração II|01012009|
+SE90090000|Informativo, ICMS próprio, Resp.própria, a apurar, mercadoria, Operação normal - Saldo credor do período anterior|01012009|
+SE90090013|Informativo, ICMS próprio, Resp.própria, a apurar, mercadoria, Creditamento - Saldo credor acumulado livro II|01012009|
+SE90090999|Informativo, ICMS próprio, Resp.própria, a apurar, mercadoria, Transf. de crédito - Crédito fiscal acumuilado do mês transferido do livro apuração I|01012009|
+SE90990999|Informativo, ICMS próprio, Resp.própria, a apurar, mercadoria, outros ajustes - Saldo do crédito fiscal acumulado para o período seguinte|01012009|
+SE70010999|Déb.Especial, ICMS próprio, Resp.própria, a apurar, mercadoria, outros ajustes - Apuração por Estimativa|01012009|
+SE70010000|Déb.Especial, ICMS próprio, Resp.própria, Rec. Espontâneo, mercadoria, Operação normal - Fundo de erradicação da pobreza - recolhimento próprio|01012009|
+SE71010000|Déb.Especial, ICMS ST, Resp.própria, Rec. Espontâneo, mercadoria, Operação normal - Fundo de erradicação da pobreza - recolhimento substituição tributária interna.|01012009|

@@ -1,0 +1,58 @@
+versão=1.0
+TO001000|ICMS, OUTROS DÉBITOS, OUTROS DÉBITOS ICMS|01012009|
+TO001010|ICMS,OUTROS DÉBITOS, DIFERENCIAL DE ALÍQUOTA|01012009|
+TO001020|ICMS, OUTROS DÉBITOS, DESTAQUE A MENOR|01012009|
+TO001030|ICMS, OUTROS DÉBITOS, TRANSFERÊNCIA DE CRÉDITOS|01012009|
+TO001031|ICMS, OUTROS DÉBITOS, TRANSFERÊNCIA DE CRÉDITO CHEQUE MORADIA|01012009|
+TO101000|ICMS - ST, OUTROS DÉBITOS, OUTROS DÉBITOS ST|01012009|
+TO012000|ICMS, ESTORNO DE CRÉDITO, ESTORNO CRÉDITO ICMS|01012009|
+TO012010|ICMS, ESTORNO DE CRÉDITO, ESTORNO DE CRÉDITO POR RESTITUIÇÃO DE BEM ARRENDADO|01012009|
+TO012100|ICMS, ESTORNO DE CRÉDITO, POR ENTRADAS COM REDUÇÃO BASE DE CALCULO NA SAÍDA|01012009|
+TO012200|ICMS, ESTORNO DE CRÉDITO, ENTRADAS C/ SAIDA POSTERIOR ISENTA|01012009|
+TO012220|ICMS, ESTORNO DE CRÉDITO, OPERAÇÕES ANTERIORES CUJA SAÍDAS SERÁ BENEFICIADAS C/ CRÉDITO PRESUMIDO|01012009|
+TO112000|ICMS - ST, ESTORNO DE CRÉDITO, ESTORNO DE CRÉDITO ST|01012009|
+TO023000|ICMS, OUTROS CRÉDITOS, OUTROS CRÉDITOS ICMS|01012009|
+TO023010|ICMS, OUTROS CRÉDITOS ICMS, CRÉDITO FISCAL PRESUMIDO, OPERAÇÃO INTERESTADUAL, SAÍDAS DE ABELHA RAINHA, MEL, GELÉIA REAL, CERA E PRÓPOLIS, INDUSTRIALIZADOS OU NÃO, REALIZADAS POR PRODUTORES INSCRITOS NO ESTADO, 50% DO VALOR DO ICMS DEVIDO|01012009|
+TO023020|100% do ICMS nas saídas de óleo extraído da amêndoa, do babaçu, no estado bruto, clarificado e refinado para fins industriais, realizadas por estabelecimento industrial, conforme condições do Art. 9, XVIII do Dec. 2.912/07|01012009|
+TO023030|100% do ICMS nas oper. Interest. de estabelec. industrial, com resultantes da industrialização, (...) de papel usado, aparas de papel, papelão, sucatas de metais ferrosos ou não, resíduos de plásticos, vidros,(...) conforme.  Art. 9, XIV - Dec. 2.912/07|01012009|
+TO023040|Crédito fiscal presumido, operação interna, comércio atacadista, carga tributária 2% do valor da operação, sem prejuízo das reduções art. 8º, XIX (70,59%) e XX (41,18%) do RICMS, exceto a produto industrializado pelo próprio estabelecimento|01012009|
+TO023050|Crédito fiscal presumido, operação interestadual, comércio atacadista, carga tributária 1% do valor da operação, sem prejuízo das reduções Art. 8º, XIX (70,59%) e XX (41,18%) do RICMS, não se aplica a produto industrializado pelo próprio estabelecimento.|01012009|
+TO023060|3% do valor da oper., para estabelec. regularizado, quando adquirir de estabelec. abatedor, (...), carnes natural, resfriadas ou congeladas, e subprodutos comestíveis result.do abate de gado bovino, bufalino e suíno; conforme Art. 9, VII - Dec. 2.912/07|01012009|
+TO023070|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL PRESUMIDO, OPERAÇÃO INTERESTADUAL, SAÍDA DE GADO VIVO (BOVINO, BUFALINO E SUÍNO), PRATICADA POR ESTABELECIMENTO PRODUTOR CADASTRADO NO ESTADO, 5% DO VALOR DA OPERAÇÃO|01012009|
+TO023080|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL PRESUMIDO, OPERAÇÃO INTERESTADUAL, SAÍDA DE CARNE DE GADO (BOVINO, BUFALINO E SUINO) EM ESTADO NATURAL, RESFRIADAS OU CONGELADAS, REALIZADA POR ESTABELECIMENTO ABATEDOR, 12% DO VALOR DA OPERAÇÃO|01012009|
+TO023090|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL PRESUMIDO, SAÍDA DE COURO CURTIDO (WET BLUE), SEBO, OSSO, MIÚDOS,CHIFRE, CASCO DE ANIMAIS E OUTROS SUBPRODUTOS OU RESÍDUOS NÃO COMESTÍVEIS, 75% DO IMPOSTO DEVIDO|01012009|
+TO023100|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL PRESUMIDO, OPERAÇÃO INTERESTADUAL, SAÍDA DE CARNE DESOSSADA RESULTANTE DO ABATE DE GADO (BOVINO, BUFALINO,SUÍNO), EMBALADA A VÁCUO E COM REGISTRO SIF, 9% DO VALOR DA OPERAÇÃO|01012009|
+TO023110|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL PRESUMIDO, OPERAÇÃO INTERESTADUAL, COM ARROZ EM CASCA, POR PRODUTORES RURAIS CADASTRADOS NO ESTADO, 2% DA BASE DE CÁLCULO|01012009|
+TO023120|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL PRESUMIDO, OPERAÇÃO INTERESTADUAL, COM PESCADO DE ÁGUA DOCE, POR PRODUTORES RURAIS CADASTRADOS NO ESTADO, 5% DA BASE DE CÁLCULO|01012009|
+TO023130|2% da BC nas operações interest. com arroz em casca, realizadas por produtores estabelec. e cadastrados no TO; e 5% da base de cálculo, nas saídas interest. de prod. resultantes do beneficiamento do arroz em casca, conforme Art. 9, V e VI - Dec. 2.912/07|01012009|
+TO023140|5% da base de cálculo, nas saídas interestaduais de derivados do leite, desde que realizadas por estabelecimento industrial regularmente cadastrado neste Estado, conforme condições do Art. 9, VI – a – 1 e 2 - Dec. 2.912/07|01012009|
+TO023150|100% do ICMS devido, até 31/12/15, nas saídas interest. de algodão, amendoim, feijão, gergelim, girassol, hortifrutigranjeiros, mamona, mandioca, milho, sorgo, tomate e frutas frescas produzidas no TO, conforme condições do Art. 9, VII;“a” (Dec. 2.912/07)|01012009|
+TO023160|100% do ICMS devido, até 31/12/15, nas saídas interest. de algodão, amendoim, feijão, gergelim, girassol, hortifrutigranjeiros, mamona, mandioca, milho, sorgo, tomate e frutas frescas produzidas no TO, conforme condições do Art. 9, VII;“b” (Dec. 2.912/07)|01012009|
+TO023170|Operações internas e interest., onde a carga tributária efetiva seja 2%. Benef. concedido via TARE com a SEFAZ-TO e validado pelo Conselho Deliberativo do PROSPERAR; ainda, não haja vendas a consumidor final; conforme condições do Art. 9-XX -Dec. 2.912/07|01012009|
+TO023180|100% sobre o valor do ICMS, nas prestações de serviços interestaduais com produtos industrializados por beneficiários do PROINDÚSTRIA, desde que as prestações sejam realizadas por transportadores constantes do Cadastro de contribuintes deste Estado,conforme condições do Art. 9-XX -Dec. 2.912/07|01012009|
+TO023190|Crédito presumido ref. atividade. comercial, exclusivamente, via Internet, de forma que a carga tributária efetiva resulte no percentual de 1% sobre vendas de bens ou mercadorias a consumidores de outras UF, conforme condições do Art. 9-XXV-Dec. 2.912/07|01012009|
+TO023200|Crédito presumido de 16,5% da BC, nas saídas internas de produtos resultantes do abate de aves e gado suíno, caprino e ovino, realizadas por complexos agroindustriais, conforme condições do Art. 9-XV “a” e “b” -Dec. 2.912/07|01012009|
+TO023210|Crédito presumido de 11,5% do valor da operação, nas saídas interestaduais de ovos, inclusive os férteis, pintos de um dia, produtos resultantes do abate de aves e gado suíno, caprino e ovino e ração, conforme condições do Art. 9; XVI - Dec. 2.912/07|01012009|
+TO023220|Crédito presumido de  11% do valor da operação, nas saídas interestaduais de aves vivas, realizadas por complexos agroindustriais, conforme condições do Art. 9; XVII - Dec. 2.912/07|01012009|
+TO023230|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL PRESUMIDO, OPERAÇÕES DE ARRENDAMENTO MERCANTIL, VALOR DO IMPOSTO PAGO PELO ESTABELECIMENTO ARRENDATÁRIO|01012009|
+TO023240|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL PRESUMIDO, SAÍDA DE OBRA DE ARTE, DESDE QUE ADQUIRIDA DIRETAMENTE DO AUTOR COM A ISENÇÃO PREVISTA NO INC. XXIII DO ART. 2º DO RICMS, 50% DO VALOR DO ICMS|01012009|
+TO023250|Crédito presumido de 20% do ICMS devido na prestação de serviço de transporte aquaviário, intermunicipal e interestadual rodoviário de passageiros, inclusive alternativo e aéreo, conforme condições do Art. 9; III “a”,”b” e “c” - Dec. 2.912/07|01012009|
+TO023260|Crédito presumido de 94,11% do ICMS devido ao estabelecimento que promover operação interna tributada antecedente à exportação com metais, pedras preciosas e semipreciosas, conforme condições no Art. 9; IV - Dec. 2.912/07|01012009|
+TO023270|Crédito presumido equivalente ao % da alíquota interestadual do ICMS, ao estabelecimento que receber de outra UF os produtos constantes nas alíneas do inciso XX do art. 2o, condicionada a saída interna tributado no TO, conforme Art. 9; XIX - Dec. 2.912/07|01012009|
+TO023280|ICMS, OUTROS CRÉDITOS, CRÉDITO FISCAL OUTORGADO, PRESTAÇÃO DE SERVIÇO DE TELECOMUNICAÇÃO, EM SUBSTITUIÇÃO AO ESTORNO DE DÉBITO DECORRENTE DE SITUAÇÕES EM QUE NÃO TENHA OCORRIDO O FATO GERADOR DO ICMS, 1% DO VALOR DO ICMS|01012009|
+TO023290|ICMS, OUTROS CRÉDITOS, DESTAQUE A MAIOR|01012009|
+TO023300|ICMS, OUTROS CRÉDITOS, DESTAQUE A MENOR|01012009|
+TO023310|ICMS, OUTROS CRÉDITOS, CRÉDITOS ATIVO PERMANENTE|01012009|
+TO023320|ICMS, OUTROS CRÉDITOS, TRANSFERÊNCIA DE CRÉDITO|01012009|
+TO023330|ICMS, OUTROS CRÉDITOS, TRANSFERÊNCIA DE CRÉDITO- CHEQUE-MORADIA|01012009|
+TO023340|ICMS, OUTROS CRÉDITOS, CRÉDITOS REFERENTE A ENTRADA C/ ST, CUJA SAÍDA INTERNA NÃO ESTÁ SUJEITA A ST|01012009|
+TO023345|ICMS, OUTROS CRÉDITOS, CRÉDITOS REFERENTES A ENTRADA C/ ST E CUJA OPERAÇÃO SUBSEQUENTE FOR INTERESTADUAL|01012009|
+TO023350|ICMS, OUTROS CRÉDITOS, CRÉDITOS CHEQUE-MORADIA|01012009|
+TO023360|ICMS, OUTROS CRÉDITOS, CREDITOS AUTORIZADOS PELA SEFAZ|01012009|
+TO123000|ICMS - ST, OUTROS CRÉDITOS, OUTROS CRÉDITOS ST|01012009|
+TO034000|ICMS, ESTORNO DE DÉBITO, ESTORNO DE DÉBITO ICMS|01012009|
+TO034010|ICMS, ESTORNO DE DÉBITO, DEVOLUÇÃO DE MERCADORIA|01012009|
+TO134000|ICMS-ST, ESTORNO DE DÉBITO, ESTORNO DE DÉBITO ST|01012009|
+TO045000|ICMS, DEDUÇÕES, DEDUÇÕES ICMS|01012009|
+TO045010|ICMS, DEDUÇÕES, PARCELA DEDUÇÃO PROSPERAR|01012009|
+TO145000|ICMS-ST, DEDUÇÕES, DEDUÇÕES ICMS ST|01012009|

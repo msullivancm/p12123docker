@@ -1,0 +1,99 @@
+versão=2.0
+SC000001|Débito referente ao saldo credor transferido ao estabelecimento consolidador|01012009|
+SC000002|Débito referente aos saldos devedores recebidos de estabelecimentos consolidados|01012009|
+SC000003|Débitos por reserva de créditos acumulados para transferência a outros contribuintes|01012009|
+SC000004|Débito sobre o valor das entradas na apuração especial para bares, restaurantes e similares.|01012009|
+SC000005|Débito sobre a diferença entre o valor das entradas e saídas na apuração especial para bares, restaurantes e similares.|01012009|
+SC000006|ICMS devido na importação de máquinas / equipamentos para o ativo permanente|01012009|
+SC000007|ICMS diferencial de alíquota - aquisição de máquinas, aparelhos ou equipamentos destinados ao ativo permanente.|01012009|
+SC000008|Débito ICMS sobre o estoque na inclusão de mercadorias no regime de substituição tributária|01012009|
+SC000009|ICMS sobre diferencial de alíquotas de fretes iniciados em outras unidades da federação|01012010|
+SC009999|Outros ajustes débitos|01012009|
+SC010001|Estorno de crédito relativo à saída de mercadorias isentas ou não-tributadas, extraviadas, furtadas, etc.|01012009|
+SC010002|Estorno de crédito de mercadorias utilizadas na prestação de serviços sujeitas ao ISSQN ou na prestação de serviços de transportes iniciados em outras UF|01012009|
+SC010003|Estorno do valor do crédito registrado nas entradas pelos optantes do regime de apuração especial para bares, restaurantes e similares.|01012009|
+SC010004|Estorno do crédito efetivo quando o contribuinte optar pelo crédito presumido|01012009|
+SC019999|Estorno de outros créditos|01012009|
+SC020001|ICMS recolhido por antecipação nas operações com combustíveis|01012009|
+SC020002|1ª parcela de ICMS recolhido por antecipação por estabelecimento distribuidor de energia elétrica ou prestador de serviço de telecomunicação.|01012009|
+SC020003|2ª parcela de ICMS recolhido por antecipação por estabelecimento distribuidor de energia elétrica ou prestador de serviço de telecomunicação.|01012009|
+SC020004|Crédito recuperado por decisão judicial|01012009|
+SC020005|Crédito autorizado em decisão do Conselho Estadual de Contribuintes|01012009|
+SC020006|Crédito de serviço de comunicação proporcional à exportação|01012009|
+SC020007|Crédito decorrente de COMPEX|01012009|
+SC020008|Crédito do estoque no desenquadramento do simples nacional|01012009|
+SC020009|Crédito do estoque na exclusão de mercadoria do regime de substituição tributária|01012009|
+SC020010|Crédito do ICMS de mercadoria sujeita à substituição tributária|01012009|
+SC020011|Crédito do imposto pago indevidamente por erro no registro dos documentos ou preenchimento do documento de arrecadação.|01012009|
+SC020012|Crédito extemporâneo não apropriado no momento do registro do documento fiscal.|01012009|
+SC020013|Crédito do saldo credor na saída do regime de estimativa fiscal.|01012009|
+SC020014|Crédito ICMS recolhido na importação|01012009|
+SC020015|Crédito pela saída tributada de mercadoria recebida para ativo permanente|01012009|
+SC020016|Crédito pela saída tributada de mercadoria recebida para uso ou consumo|01012009|
+SC020017|Crédito na transferência de propriedade do estabelecimento.|01012009|
+SC020018|Crédito nas operações tributadas posteriores às saídas de produtos agropecuários isentos ou não tributados - RICMS, Art. 41.|01012009|
+SC020019|Crédito relativo ao ICMS pago, por ocasião do desembaraço aduaneiro, a título de antecipação do devido na subseqüente operação de saída|01012009|
+SC020020|Crédito de ICMS nos casos de furto, roubo, extravio ou deterioração das mercadorias sujeita à substituição tributária.|01012009|
+SC020021|Crédito referente descontos incondicionais, autorizado em regime especial.|01012009|
+SC020022|Crédito não apropriado na entrada da mercadoria, autorizado por regime especial.|01012009|
+SC020023|Crédito pela utilização de saldo de AUC (Decreto nº 4.994/06, art. 2º).|01012009|
+SC020024|Crédito por aplicação ao FUNDESPORTE|01012009|
+SC020025|Crédito por aplicação no FUNCULTURAL|01012009|
+SC020026|Crédito por aplicação no FUNTURISMO|01012009|
+SC020027|Crédito presumido à CELESC para execução do programa Luz para Todos.|01012009|
+SC020028|Crédito presumido às empresas pela execução do programa Luz para Todos.|01012009|
+SC020029|Crédito presumido ao estabelecimento abatedor na saída de produtos resultantes do abate de gado bovino.|01012009|
+SC020030|Crédito presumido ao abatedor nas saídas interestaduais de produtos do abate de aves domésticas.|01012009|
+SC020031|Crédito presumido ao abatedor nas saídas interestaduais de produtos do abate de suínos.|01012009|
+SC020032|Crédito presumido ao estabelecimento que efetuar a primeira operação tributável com maçã.|01012009|
+SC020033|Crédito presumido ao fabricante de açúcar; café torrado; manteiga; óleo de soja e milho; margarina; creme vegetal; vinagre; sal.|01012009|
+SC020034|Crédito presumido ao fabricante de óleo vegetal, margarina, creme e gordura vegetal e farelo de soja.|01012009|
+SC020035|Crédito presumido ao fabricante na saída tributada de produtos derivados de leite.|01012009|
+SC020036|Crédito presumido na saída de leite pasteurizado ou esterilizado com destino a outra UF.|01012009|
+SC020037|Crédito presumido ao fabricante nas saídas de artigos de cristal de chumbo.|01012009|
+SC020038|Crédito presumido ao fabricante nas saídas louça e outros produtos, de porcelana e copos de cristal de chumbo.|01012009|
+SC020039|Crédito presumido ao fabricante ou distribuidor automobilístico, farmacêutico e fornecedores de energia elétrica e serviço de comunicação.|01012009|
+SC020040|Crédito presumido ao industrializador nas saídas de produtos resultantes da industrialização da mandioca.|01012009|
+SC020041|Crédito presumido às empresas produtoras de discos fonográficos.|01012009|
+SC020042|Crédito presumido na saída de farinha de trigo|01012009|
+SC020043|Crédito presumido na saída de obra de arte recebida com a isenção.|01012009|
+SC020044|Crédito presumido no incremento no valor da folha de pessoal. - An2, Art. 92|01012009|
+SC020045|Crédito presumido para aquisição de equipamento emissor de cupom fiscal - ECF.|01012009|
+SC020046|Crédito presumido para aquisição do conjunto de software e hardware destinado à implantação de TEF.|01012009|
+SC020047|Crédito presumido para bares, restaurantes e estabelecimentos similares.|01012009|
+SC020048|Crédito presumido para indústria vinícola e produtora de derivados de uva e vinho|01012009|
+SC020049|Crédito presumido para liquidação de débitos de serviços de telecomunicações tomados pelo Estado.|01012009|
+SC020050|Crédito presumido ao prestador de serviço de transporte de cargas (PRO-CARGAS).|01012009|
+SC020051|Crédito presumido ao prestador de serviço de transporte.|01012009|
+SC020052|Crédito presumido na prestação interna de serviço de transporte aéreo.|01012009|
+SC020053|Crédito proporcional à saída tributada de mercadoria cuja entrada se destinava às atividades sujeitas ao ISS|01012009|
+SC020054|Crédito referente ao saldo devedor transferido ao Estabelecimento consolidador|01012009|
+SC020055|Crédito referente aos saldos credores recebidos de estabelecimentos consolidados|01012009|
+SC020056|Créditos recebidos em transferência de outros contribuintes ou utilizados na compensação com "saldos devedores próprios"|01012009|
+SC020057|ICMS recolhido na entrada, no Estado, de carnes bovina, bufalina e suas miudezas comestíveis|01012009|
+SC020058|ICMS recolhido na entrada, no Estado, de feijão|01012009|
+SC020059|ICMS recolhido na entrada, no Estado, de ladrilhos e placas para pavimentação ou revestimento|01012009|
+SC020060|ICMS recolhido na entrada, no Estado, de produtos farmacêuticos de uso humano, não sujeitos à substituição tributária|01012009|
+SC020061|Restituição e ressarcimento de ICMS|01012009|
+SC020062|Utilização de saldo de AUC de integralização de capital|01012009|
+SC020063|Crédito autorizado em processo administrativo regular da SEF, exceto de restituição de ICMS-ST|01012009|
+SC020064|Crédito proporcional à saída tributada de mercadoria inicialmente prevista para ocorrer sem débito|01012009|
+SC020065|Crédito originado de operação de entrada de mercadoria destinada ao ativo permanente – CIAP|01012010|
+SC020066|Crédito por aplicação no SEITEC|01012010|
+SC029999|Outros ajustes de créditos|01012009|
+SC030001|Estorno do valor do débito registrado nas saídas pelos optantes do regime de apuração especial para bares, restaurantes e similares.|01012009|
+SC039999|Estorno de outros débitos|01012009|
+SC040001|Contribuição ao Fundosocial|01012009|
+SC040002|Crédito pela contribuição ao Fundosocial|01012009|
+SC049999|Outras deduções do imposto apurado|01012009|
+SC050001|ICMS devido no encerramento da fase do diferimento.|01012009|
+SC050002|ICMS devido na importação, recolhido no desembaraço aduaneiro, cuja nota fiscal de entrada será emitida no mês seguinte|01012010|
+SC059999|Outros débitos especiais|01012009|
+SC109999|Outros ajustes de débitos|01012009|
+SC119999|Outros ajustes de estorno de créditos|01012009|
+SC120001|ICMS-ST recolhido por antecipação nas operações com combustíveis|01012009|
+SC129999|Outros ajustes de créditos|01012009|
+SC139999|Outros ajustes de estorno de débitos|01012009|
+SC140001|Contribuição ao Fundosocial|01012009|
+SC149999|Outros ajustes de deduções do imposto apurado|01012009|
+SC159999|Outros Débitos especiais|01012009|

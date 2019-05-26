@@ -1,0 +1,3 @@
+versão=1.0
+PR20000001|Estorno de débito; Operação própria; Própria; A apurar; Mercadoria; Venda ambulante (CFOPs 5103, 6103, 5104, 6104)|01012009|
+PR20000002|Estorno de débito; Operação própria; Própria; A apurar; Mercadoria; Nota fiscal concomitante com Cupom Fiscal (CFOPs 5929, 6929)|01012009|

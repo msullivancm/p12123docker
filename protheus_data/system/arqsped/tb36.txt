@@ -1,0 +1,51 @@
+versão=2.0
+CE000001|Débito Reserva Transferência de Crédito|01012009|
+CE000002|Débito Diferencial de Alíquota - Imobilizado|01012009|
+CE000003|Débito Transferência de Crédito|01012009|
+CE000004|Débito Compensação de Débito na Divida Ativa|01012009|
+CE000005|Débito - Fecop ICMS Normal|01012009|
+CE000006|Débito Diferencial de Alíquota - Consumo|01012009|
+CE000007|Débito - Faturamento - Termo de acordo 35/91|01012009|
+CE000008|Débitos Outros|01012009|
+CE010001|Estorno de Crédito Saídas Isentas e não Tributadas|01012009|
+CE010002|Estorno de Crédito Bens de Ativo por Saídas Não Tributadas|01012009|
+CE010003|Estorno de Crédito Suframa|01012009|
+CE010004|Estorno de Crédito de Bens de Ativo por Baixa|01012009|
+CE010005|Entradas de Energia Elétrica (Empresa comunicação)|01012009|
+CE010006|Estorno Créditos Outros|01012009|
+CE020001|Crédito Presumido|01012009|
+CE020002|Crédito de Antecipado|01012009|
+CE020003|Crédito de Diferencial de Alíquota|01012009|
+CE020004|Crédito de Transferência de Crédito|01012009|
+CE020005|Crédito de Bens do Ativo Imobilizado|01012009|
+CE020006|Crédito Restituição de Indébito|01012009|
+CE020007|Crédito ICMS a Mais ou em Duplicidade|01012009|
+CE020008|Crédito ICMS Importação Diferido|01012009|
+CE020009|Crédito Decorrente de Auto de Infração|01012009|
+CE020010|Créditos Extemporâneos|01012009|
+CE020011|Crédito Outros|01012009|
+CE030001|Estorno Débito Reversão de Reserva de Transferência|01012009|
+CE030002|Estorno de Débito - Faturamento - Energia - Conv. 30/04|01012009|
+CE030003|Estorno de Débito - Faturamento - Comunicação - Conv 39/01|01012009|
+CE030004|Estorno Débito Outros|01012009|
+CE040001|Dedução referente ao FDI - Provin|01012009|
+CE040002|Dedução referente Fecop ICMS Normal|01012009|
+CE040003|Incentivo Fiscal|01012009|
+CE040004|FDI- Transferencia de credito|01012009|
+CE050001|Credenciados - ICMS Antecipados|01012009|
+CE050002|Credenciados - Diferencial de Alíquota|01012009|
+CE050003|Débito - fecop ICMS normal|01012009|
+CE100001|Débitos outros|01012009|
+CE110001|Estorno Creditos Outros|01012009|
+CE120001|Créditos Outros|01012009|
+CE130001|Estorno Debito Outros|01012009|
+CE140001|Fecop - ST - saídas internas|01012009|
+CE140002|Fecop - ST - entrada interestadual|01012009|
+CE140003|Fecop - ST - entrada interna|01012009|
+CE150001|Credenciados - ST - Entrada interestadual|01012009|
+CE150002|Não credenciados - ST - Entrada interestadual|01012009|
+CE150003|ST - Entradas internas|01012009|
+CE150004|ST - Saidas Internas|01012009|
+CE150005|Fecop - ST - saídas internas|01012009|
+CE150006|Fecop - ST - entrada interestadual|01012009|
+CE150007|Fecop - ST - entrada interna|01012009|

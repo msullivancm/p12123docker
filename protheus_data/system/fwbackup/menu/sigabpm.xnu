@@ -1,0 +1,203 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGABPM</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A740000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro</Title>
+			<Title lang="es">Archivo</Title>
+			<Title lang="en">File</Title>
+			<ItemID>0000010932</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formularios</Title>
+				<Title lang="es">Formularios</Title>
+				<Title lang="en">Forms</Title>
+				<Function>BPM015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>74</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010933</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Shapes</Title>
+				<Title lang="es">Shapes</Title>
+				<Title lang="en">Shapes</Title>
+				<Function>BPMSHAPES</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>74</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010934</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processos</Title>
+			<Title lang="es">Procesos</Title>
+			<Title lang="en">Processes</Title>
+			<ItemID>0000010935</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diagramas</Title>
+				<Title lang="es">Diagramas</Title>
+				<Title lang="en">Diagram</Title>
+				<Function>BPMPROCS</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>74</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010936</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Execucao</Title>
+				<Title lang="es">Ejecucion</Title>
+				<Title lang="en">Execution</Title>
+				<Function>BPMPROC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>74</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010937</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A740000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Processos</Title>
+			<Title lang="es">Procesos</Title>
+			<Title lang="en">Processes</Title>
+			<ItemID>0000010938</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atividades</Title>
+				<Title lang="es">Actividades</Title>
+				<Title lang="en">Activities</Title>
+				<Function>BPMCONSUSU</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>74</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010939</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Execucao</Title>
+				<Title lang="es">Costo de Ejecucion</Title>
+				<Title lang="en">Execution Cost</Title>
+				<Function>BPMCUSTO</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>74</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010940</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A740000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Permissoes</Title>
+			<Title lang="es">Autorizaciones</Title>
+			<Title lang="en">Permissions</Title>
+			<ItemID>0000010941</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controles</Title>
+				<Title lang="es">Controles</Title>
+				<Title lang="en">Controls</Title>
+				<Function>BPMPERMCTR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>74</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010942</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Permissoes Usuario</Title>
+				<Title lang="es">Autorizac. Usuario</Title>
+				<Title lang="en">User Permissions</Title>
+				<Function>BPMPERMUSR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>74</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010943</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B740000001</IdemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B740000002</IdemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

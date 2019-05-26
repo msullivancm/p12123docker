@@ -1,0 +1,140 @@
+versão=3.0
+AL000199|Outros Débitos-|01012009|28012009
+AL010200|Estorno de Crédito- Estorno de Crédito Presumido Por Saída Interestadual - Decreto 1.284/03(Atacadista)|01012009|28012009
+AL010201|Estorno de Crédito- Estorno de Crédito Presumido Por Devolução - Decreto 1.284/03(Atacadista)|01012009|28012009
+AL010202|Estorno de Crédito- Estorno de Crédito Presumido Por Saída Interestadual - Decreto 1.284/03(Atacadista)|01012009|28012009
+AL020300|Outros Créditos- Crédito Oriundo da Aquisição de Serviço de Transporte para Mercadoria Destinada a Industrialização e Comercialização|01012009|28012009
+AL020301|Outros Créditos- Crédito Presumido Nos termos do item 1, do Anexo III, do RICMS; (saídas internas e interestaduais para indústrias ceramistas|01012009|28012009
+AL020302|Outros Créditos- Crédito Presumido nas transferências interestaduais de bens do ativo fixo|01012009|28012009
+AL020303|Outros Créditos- Crédito Presumido na saída tributada dos produtos constantes do Convênio ICM 44/75 e alterações|01012009|28012009
+AL020304|Outros Créditos- Crédito Presumido nas saídas de cana-de-açúcar, em substituição ao sistema normal de apuração do imposto|01012009|28012009
+AL020305|Outros Créditos- Crédito Presumido nas operações internas de estabelecimento industrializador da mandioca|01012009|28012009
+AL020306|Outros Créditos- Crédito Presumido nas operações interestaduais de estabelecimento industrializador da mandioca|01012009|28012009
+AL020307|Outros Créditos- Crédito Presumido por direitos autorais, artísticos e conexos;|01012009|28012009
+AL020308|Outros Créditos- Crédito Presumido para estabelecimentos prestadores de serviço de transporte|01012009|28012009
+AL020309|Outros Créditos- Crédito Presumido pela aquisição de Equipamento Emissor de Cupom Fiscal que atenda aos requisitos definidos no Decreto nº 36.953, de 16 de julho de 1996 - ECF|01012009|28012009
+AL020310|Outros Créditos- Crédito Presumido nas operações de saídas dos produtos, sem similar nacional, classificados na posição 9022.13 e 9022.12.00, da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM-SH|01012009|28012009
+AL020311|Outros Créditos- Crédito Presumido pela aquisição de Equipamento Emissor de Cupom Fiscal que atenda aos requisitos definidos no Decreto nº 36.953, de 16 de julho de 1996 - ECF|01012009|28012009
+AL020312|Outros Créditos- Crédito Presumido nas aquisições de "solução" para fins de emissão de comprovante de pagamento de operação ou prestação, efetuado com cartão de crédito ou débito automático em conta corrente, vinculada à prévia emissão dos respectivos documentos fiscais;|01012009|28012009
+AL020313|Outros Créditos- Crédito Presumido aos estabelecimentos produtores de ovos, nas saídas de ovos por ele produzidos;|01012009|28012009
+AL020314|Outros Créditos- Crédito Presumido nas saídas de carnes e subprodutos derivados do abate de animais;|01012009|28012009
+AL020315|Outros Créditos- Crédito Presumido às empresas prestadoras de serviços de telecomunicação estabelecidas em Alagoas, nas prestações de serviços de telecomunicação relativas às operações de serviços não medidos definidos como de porta de serviços de dados, ou denominação e|01012009|28012009
+AL020316|Outros Créditos- Crédito presumido nas saídas de produto industrializado, nos termos do art. 21, I, do Dec. n° 38.394/00;|01012009|28012009
+AL020317|Outros Créditos- Crédito presumido nas saídas de produto industrializado, nos termos do art. 21, II, do Dec. n° 38.394/00;|01012009|28012009
+AL020399|Outros Créditos- Outras Hipóteses|01012009|28012009
+AL030499|Estorno de Débito-|01012009|28012009
+AL040599|Deduções-|01012009|28012009
+AL050600|Débitos Especial- Diferencial de Alíquota decorrente da Aquisição Mercadoria ou Serviços por Contribuinte, em outra unidade da Federação, destinadas a uso, consumo ou ativo fixo(RICMS, art 104)|01012009|28012009
+AL050699|Débitos Especial- Outras Hipóteses|01012009|28012009
+AL100100|Outros Débitos - ST-|01012009|28012009
+AL110200|Estorno de Crédito - ST-|01012009|28012009
+AL120300|Outros Créditos - ST-|01012009|28012009
+AL130400|Estorno de Débito - ST-|01012009|28012009
+AL140500|Deduções - ST-|01012009|28012009
+AL150600|Débitos Especial - ST-|01012009|28012009
+AL000000|Outros Débitos - Débito de ICMS calculado nos termos do Art. 5º, do Decreto 3.005/05 (Atacadistas de Medicamentos)|28012009|31122009
+AL000001|Outros Débitos - Débito de ICMS calculado nos termos do Art. 6º, do Decreto 36.538/95 (ST-Medicamentos)|28012009|31122009
+AL000002|Outros Débitos - Saldo do ICMS a ser quitado nos termos da Lei 6.410/03, conf. Autorização do §2º do art. 6º da IN SEF 01/2004 (Precatórios)|28012009|31122009
+AL000003|Outros Débitos - Débito de ICMS nos termos do art. 448 do RICMS (Estabelecimento Panificador)|28012009|31122009
+AL000004|Outros Débitos - Transferência de Crédito do ICMS, nos termos da Instrução Normativa SF nº 25/2002, conf. Art. 4º, III, b.|28012009|31122009
+AL000005|Outros Débitos - Débito do ICMS - Art. 5º, Parágrafo Único, Dec. 1.897/2004.|28012009|31122009
+AL000006|Outros Débitos - Para fins do art. 1º, I, da IN nº 24/06.|28012009|31122009
+AL000007|Outros Débitos - Crédito Presumido Acumulado Apropriado no Período, transferido para estabelecimento do mesmo contribuinte, nos termos do art. 1º, II, da IN nº 24/06.|28012009|31122009
+AL000008|Outros Débitos - Transferência de Saldo Credor do ICMS - Dec. nº 2.237/04 e IN nº 24/06.|28012009|31122009
+AL000009|Outros Débitos - Transferência de Crédito do ICMS, nos termos do art. 4° da IN SF n° 025/2002.|28012009|31122009
+AL000010|Outros Débitos - Débito referente ao saldo credor transferido ao estabelecimento consolidador.|28012009|31122009
+AL000011|Outros Débitos - Débito referente aos saldos devedores recebidos de estabelecimentos consolidados.|28012009|31122009
+AL000012|Outros Débitos - Débito referente ao estoque na inclusão de mercadorias no regime de substituição tributária.|28012009|31122009
+AL000013|Outros Débitos - Ressarcimento do ICMS Substituição Tributária - art. 423-C do RICMS/AL|28012009|31122009
+AL000014|Outros Débitos - Nos termos do art. 448 do RICMS/AL|28012009|31122009
+AL000015|Outros Débitos - ICMS Cana/Produtos destinados ao exterior, nos termos do art. 566 do RICMS/AL|28012009|31122009
+AL000016|Outros Débitos - Remessa para vendas fora do estabelecimento, nos termos do § 5º, do art. 612 do RICMS/AL|28012009|31122009
+AL009999|Outros Débitos - Outros ajustes de débitos|28012009|
+AL010000|Estorno de Crédito- Estorno de Crédito Presumido Por Excesso de Crédito, nos termos do Art. 7º do Decreto 1.284/03 (Atacadista)|28012009|31122009
+AL010001|Estorno de Crédito- Estorno de Crédito Presumido Por Devolução de Compra, nos termos do Art. 7º do Decreto 1.284/03 (Atacadista)|28012009|31122009
+AL010002|Estorno de Crédito - Estorno de Crédito Presumido Por Saída Interestadual, nos termos do Art. 7º do Decreto 1.284/03 (Atacadista)|28012009|31122009
+AL010003|Estorno de Crédito - Estorno do Crédito das Entradas, nos termos do inciso II, do § 1º, do Art. 2º do Decreto 38.631/00  (Centrais de Distribuição)|28012009|31122009
+AL010004|Estorno de Crédito - Estorno de Crédito Presumido nos termos do § 2º, do Art. 22, do Decreto 38.394/00 (PRODESIN)|28012009|31122009
+AL010005|Estorno de Crédito - Estorno de Crédito Presumido nos termos do § 3º, do Art. 22, do Decreto 38.394/00 (PRODESIN)|28012009|31122009
+AL010006|Estorno de Crédito - Estorno do Crédito das Entradas, nos termos do inciso I, do Art. 11, do Decreto 3.005/05 (Atacadistas de Medicamentos)|28012009|31122009
+AL010007|Estorno de Crédito - Estorno parcial do Crédito das Entradas de produtos de informática e automação, nos termos dos § 1º e §2º, do Art. 1º, do Decreto 2.390/05|28012009|31122009
+AL010008|Estorno de Crédito - Estorno do Crédito relativo ao estoque, nos termos do art. 9º, inciso II,do Decreto 2.546/05 (ME Social)|28012009|31122009
+AL010009|Estorno de Crédito - Estorno do saldo credor existente, nos termos do art. 9º, inciso II,do Decreto 2.546/05 (ME Social)|28012009|31122009
+AL010010|Estorno de Crédito - Liquidação do ICMS-ST relativo ao estoque existente, nos termos do Dec. 4.096/2008, Art. 3º, inciso IV, letra "b" (Autopeças)|28012009|31122009
+AL010011|Estorno de Crédito - Liquidação do ICMS-ST relativo ao estoque existente - Substituição Tributária - art. 6º do Decreto nº 2.481, de 2005|28012009|31122009
+AL010012|Estorno de Crédito - Antecipação tributária, nos termos do  art. 5º do Decreto nº 2.928/2005|28012009|31122009
+AL010013|Estorno de Crédito - Nos termos do  § 4° do art. 5º do Decreto nº 2.237/2004|28012009|31122009
+AL010014|Estorno de Crédito - Nos termos do inciso II do art. 6º do Decreto nº 2.237/2004|28012009|31122009
+AL019999|Estorno de Crédito - Outros ajustes de estorno de créditos|28012009|
+AL020000|Outros Créditos- Crédito Oriundo da Aquisição de Serviço de Transporte para Mercadoria Destinada a Industrialização e Comercialização|28012009|31122009
+AL020001|Outros Créditos- Crédito Presumido Nos termos do item 1, do Anexo III, do RICMS; (saídas internas e interestaduais para indústrias ceramistas|28012009|31122009
+AL020002|Outros Créditos- Crédito Presumido nas transferências interestaduais de bens do ativo fixo|28012009|31122009
+AL020003|Outros Créditos- Crédito Presumido na saída tributada dos produtos constantes do Convênio ICM 44/75 e alterações|28012009|31122009
+AL020004|Outros Créditos- Crédito Presumido nas saídas de cana-de-açúcar, em substituição ao sistema normal de apuração do imposto|28012009|31122009
+AL020005|Outros Créditos- Crédito Presumido nas operações internas de estabelecimento industrializador da mandioca|28012009|31122009
+AL020006|Outros Créditos- Crédito Presumido nas operações interestaduais de estabelecimento industrializador da mandioca|28012009|31122009
+AL020007|Outros Créditos- Crédito Presumido por direitos autorais, artísticos e conexos;|28012009|31122009
+AL020008|Outros Créditos- Crédito Presumido para estabelecimentos prestadores de serviço de transporte|28012009|31122009
+AL020009|Outros Créditos- Crédito Presumido pela aquisição de Equipamento Emissor de Cupom Fiscal que atenda aos requisitos definidos no Decreto nº 36.953, de 16 de julho de 1996 - ECF|28012009|31122009
+AL020010|Outros Créditos- Crédito Presumido nas operações de saídas dos produtos, sem similar nacional, classificados na posição 9022.13 e 9022.12.00, da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM-SH|28012009|31122009
+AL020011|Outros Créditos- Crédito Presumido pela aquisição de Equipamento Emissor de Cupom Fiscal que atenda aos requisitos definidos no Decreto nº 36.953, de 16 de julho de 1996 - ECF|28012009|31122009
+AL020012|Outros Créditos- Crédito Presumido nas aquisições de ""solução"" para fins de emissão de comprovante de pagto efetuado com cartão de crédito ou débito automático em conta corrente, vinculada à prévia emissão dos respectivos docs fiscais;|28012009|31122009
+AL020013|Outros Créditos- Crédito Presumido aos estabelecimentos produtores de ovos, nas saídas de ovos por ele produzidos;|28012009|31122009
+AL020014|Outros Créditos- Crédito Presumido nas saídas de carnes e subprodutos derivados do abate de animais;|28012009|31122009
+AL020015|Outros Créditos- Crédito Presumido às empresas prestadoras de serviços de telecomunicação estabelecidas em Alagoas, nos serviços de telecomunicação não medidos definidos como de porta de serviços de dados, ou denominação e|28012009|31122009
+AL020016|Outros Créditos- Crédito presumido nas saídas de produto industrializado, nos termos do art. 21, I, do Dec. n° 38.394/00 (PRODESIN)|28012009|31122009
+AL020017|Outros Créditos- Crédito presumido nas saídas de produto industrializado, nos termos do art. 21, II, do Dec. n° 38.394/00 (PRODESIN)|28012009|31122009
+AL020018|Outros Créditos- Crédito presumido nas saídas em transferência, para outros estabelecimentos do mesmo contribuinte, de produto industrializado, nos termos do art. 21, §3º, I, do Dec. n° 38.394/00;|28012009|31122009
+AL020019|Outros Créditos- Crédito presumido nas prestações de serviço de transporte, nos termos do art. 21, §3º, II, do Dec. n° 38.394/00 (PRODESIN)|28012009|31122009
+AL020020|Outros Créditos- Crédito presumido nas saídas de Centrais de Distribuição, nos termos do art. 2º, incisos I, II e III, do Dec. n° 38.631/00 (CD)|28012009|31122009
+AL020021|Outros Créditos- ICMS quitado nos termos da Lei 6.410/03 (Precatórios)|28012009|31122009
+AL020022|Outros Créditos- Créditos certificados pela PGE - Lei 6.410/03 (Precatórios)|28012009|31122009
+AL020023|Outros Créditos - Crédito Presumido nas saídas interestaduais de produtos referidos no anexo único do Dec. 36.538, de 1995, nos termos do Art. 5º-A, do Decreto 3.005/2005 (Atacadistas de Medicamentos)|28012009|31122009
+AL020024|Outros Créditos - Crédito Fiscal do ICMS em Razão de Desenquadramento|28012009|31122009
+AL020025|Outros Créditos - Crédito relativo a 1/48 correspondentes à entrada de bens do Ativo Permanente|28012009|31122009
+AL020026|Outros Créditos - Crédito do ICMS - Instrução Normativa SF nº 25/02, conf. Art. 3º, IV|28012009|31122009
+AL020027|Outros Créditos - Crédito do ICMS - Art. 2º, § 2º, Decreto 1.897/2004|28012009|31122009
+AL020028|Outros Créditos - ICMS Antecipado nos termos da Lei 6.474/2004|28012009|31122009
+AL020029|Outros Créditos - ICMS Importação|28012009|31122009
+AL020030|Outros Créditos - ICMS Específico, nos termos do Art. 5º do Decreto 1.284/03 (Atacadistas)|28012009|31122009
+AL020031|Outros Créditos - Crédito Presumido, nos termos do Art. 6º do Decreto 1.284/03 (Atacadistas)|28012009|31122009
+AL020032|Outros Créditos - Crédito Fiscal decorrente de Exclusão do Simples Nacional, nos termos do art. 748-Q, do RICMS/AL.|28012009|31122009
+AL020033|Outros Créditos - Recebimento de crédito fiscal em transferência.|28012009|31122009
+AL020034|Outros Créditos - Crédito Presumido, nos termos do inciso I do § 3º do art. 4º do Decreto nº 2.237/2004|28012009|31122009
+AL020035|Outros Créditos - Nos termos do inciso III do art. 6º do Decreto nº 2.237/2004|28012009|31122009
+AL020036|Outros Créditos - Recebimento de Crédito Presumido Acumulado, transferido de estabelecimento do mesmo contribuinte, nos termos do art. 1º, II, da IN n° 24/2006.|28012009|31122009
+AL020037|Outros Créditos - Crédito Presumido utilizado nos termos do art. 2º, II, da IN n° 24/2006.|28012009|31122009
+AL020038|Outros Créditos - Recebimento de Saldo Credor do ICMS - Dec. nº 2.237/04 e IN 24/06.|28012009|31122009
+AL020039|Outros Créditos - Crédito do ICMS nos termos do art. 3° da IN SF n° 025/2002.|28012009|31122009
+AL020040|Outros Créditos - Em virtude de erro de fato na escrituração fiscal ou no preparo do documento de arrecadação, nos termos do art. 91, § 4º, do RICMS/AL.|28012009|31122009
+AL020041|Outros Créditos - Percentual do ICMS pago antecipadamente, nos termos do inciso III do art. 101 do RICMS/AL (Transp. Aéreo)|28012009|31122009
+AL020042|Outros Créditos - Percentual do ICMS pago antecipadamente, nos termos do inciso XI do art. 101 do RICMS/AL (Telecomunicação)|28012009|31122009
+AL020043|Outros Créditos - Percentual do ICMS pago antecipadamente, nos termos do inciso XXI do art. 101 do RICMS/AL (Energia)|28012009|31122009
+AL020044|Outros Créditos - Percentual do ICMS pago antecipadamente, nos termos do inciso XXII do art. 101 do RICMS/AL (Petróleo, Gás Natural, refino petróleo,Atacad. Combustiveis)|28012009|31122009
+AL020045|Outros Créditos - Restituição do ICMS Substituição Tributária - art. 423-A do RICMS/AL|28012009|31122009
+AL020046|Outros Créditos - Ressarcimento do ICMS Substituição Tributária - art. 423-C, II, do RICMS/AL|28012009|31122009
+AL020047|Outros Créditos - Ressarcimento do ICMS Substituição Tributária - art. 423-C do RICMS/AL|28012009|31122009
+AL020048|Outros Créditos - Nos termos do art. 450 do RICMS/AL|28012009|31122009
+AL029997|Outros Créditos - Crédito Presumido - Outras Hipóteses|28012009|31122009
+AL029998|Outros Créditos - PRODESIN - Outras Hipóteses|28012009|31122009
+AL029999|Outros Créditos - Outros ajustes de créditos|28012009|
+AL030000|Estorno de Débito - Estorno do Débito Normal das Saídas, nos termos do inciso I, do Art. 11, do Decreto 3.005/05 (Atacadistas de Medicamentos)|28012009|31122009
+AL030001|Estorno de Débito - Saldo a ser quitado no mês seguinte, nos termos da Lei 6.410/03, conf. Autorização do §2º do art. 6º da IN SEF nº 01/2004 (Precatórios)|28012009|31122009
+AL030002|Estorno de Débitos - Nos termos do art. 483 do RICMS/AL|28012009|31122009
+AL030003|Estorno de Débitos - Remessa para vendas fora do estabelecimento, nos termos do § 5º , do art. 612 do RICMS/AL|28012009|31122009
+AL039999|Estorno de Débito - Outros ajustes de estorno de débitos|28012009|
+AL049999|Deduções - Outras deduções do imposto apurado|28012009|
+AL050000|Débito Especial- Diferencial de Alíquota decorrente da Aquisição Mercadoria ou Serviços por Contribuinte, em outra unidade da Federação, destinadas a uso, consumo ou ativo fixo(RICMS, art 104)|28012009|31122009
+AL059999|Débito Especial - Outros débitos especiais|28012009|
+AL100000|Outros Débitos - ST - ICMS-ST sobre valor do frete, nos termos  Art. 3º, § 4º, Dec. 36.476/95.|28012009|31122009
+AL100001|Outros Débitos - ST - ICMS-ST sobre valor do frete, nos termos  Art. 4º, § 1º, Dec. 2.440/2005.|28012009|31122009
+AL100002|Outros Débitos - ST - Substituição Tributária s/ frete e/ou seguro, nos termos do art. 421 do RICMS/AL.|28012009|31122009
+AL109999|Outros Débitos - ST-  Outros ajustes de débitos|28012009|
+AL119999|Estorno de Crédito - ST- Outros ajustes de estorno de créditos|28012009|
+AL120000|Outros Créditos - Ressarcimento do ICMS Substituição Tributária - art. 423-C, I, do RICMS/AL|28012009|31122009
+AL129999|Outros Créditos - ST- Outros ajustes de créditos|28012009|
+AL130000|Estorno de Débitos - Nos termos do art. 424 do RICMS/AL|28012009|31122009
+AL130001|Estorno de Débitos - Nos termos do art. 438 do RICMS/AL|28012009|31122009
+AL139999|Estorno de Débito - ST- Outros ajustes de estorno de débitos|28012009|
+AL149999|Deduções - ST- Outras deduções do imposto apurado|28012009|
+AL159999|Débito Especial - ST- Outros débitos especiais|28012009|
